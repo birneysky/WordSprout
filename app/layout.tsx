@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "字芽 · 一笔一画学汉字",
   description: "给小朋友的离线汉字笔顺练习应用",
   manifest: "/manifest.webmanifest",
-  icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
+  icons: { icon: "/favicon.svg?v=2", shortcut: "/favicon.svg?v=2" },
   openGraph: {
     title: "字芽 · 一笔一画学汉字",
     description: "输入汉字，看笔顺动画，听语音提示，再亲手写一遍。",

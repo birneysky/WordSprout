@@ -1,8 +1,37 @@
 import cnchar from "cnchar";
 import order from "cnchar-order";
-import { pinyin } from "pinyin-pro";
+import { customPinyin, pinyin, polyphonic } from "pinyin-pro";
 
 cnchar.use(order);
+
+customPinyin({
+  盛饭: "chéng fàn",
+  盛粥: "chéng zhōu",
+  盛汤: "chéng tāng",
+  盛水: "chéng shuǐ",
+  盛菜: "chéng cài",
+  盛东西: "chéng dōng xi",
+  背东西: "bēi dōng xi",
+  背书包: "bēi shū bāo",
+  背行李: "bēi xíng li",
+  背孩子: "bēi hái zi",
+  背着: "bēi zhe",
+  背起: "bēi qǐ",
+});
+
+const COMMON_POLYPHONIC_READINGS: Record<string, string[]> = {
+  行: ["xing2", "hang2"],
+  盛: ["sheng4", "cheng2"],
+  背: ["bei1", "bei4"],
+  薄: ["bo2", "bao2", "bo4"],
+};
+
+export type Reading = {
+  pinyin: string;
+  tone: number;
+  toneLabel: string;
+  audioKey: string;
+};
 
 export const STROKE_AUDIO_NAMES: Record<string, string> = {
   横折折撇: "heng-zhe-zhe-pie",
@@ -43,17 +72,42 @@ export function getStrokeNames(char: string) {
   return (result[0] as string[]).map((name) => name.split("|")[0]);
 }
 
-export function getReadings(text: string) {
-  const symbols = pinyin(text, { type: "array", toneType: "symbol" }) as string[];
-  const numbered = pinyin(text, { type: "array", toneType: "num" }) as string[];
-  return symbols.map((symbol, index) => {
-    const numberedPinyin = numbered[index] ?? "";
-    const tone = Number(numberedPinyin.match(/[0-5]/)?.[0] ?? 5);
-    return {
-      pinyin: symbol,
-      tone,
-      toneLabel: tone === 5 || tone === 0 ? "轻声" : `第${["", "一", "二", "三", "四"][tone]}声`,
-      audioKey: numberedPinyin.toLowerCase().replaceAll("ü", "v"),
-    };
+function createReading(symbol: string, numberedPinyin: string): Reading {
+  const tone = Number(numberedPinyin.match(/[0-5]/)?.[0] ?? 5);
+  return {
+    pinyin: symbol,
+    tone,
+    toneLabel: tone === 5 || tone === 0 ? "轻声" : `第${["", "一", "二", "三", "四"][tone]}声`,
+    audioKey: numberedPinyin.toLowerCase().replaceAll("ü", "v"),
+  };
+}
+
+export function getReadings(text: string): Reading[] {
+  const symbols = pinyin(text, { type: "array", toneType: "symbol" });
+  const numbered = pinyin(text, { type: "array", toneType: "num" });
+  return symbols.map((symbol, index) => createReading(symbol, numbered[index] ?? ""));
+}
+
+export function getReadingOptions(text: string): Reading[][] {
+  const contextualReadings = getReadings(text);
+  const symbolsByCharacter = polyphonic(text, { type: "array", toneType: "symbol" });
+  const numberedByCharacter = polyphonic(text, { type: "array", toneType: "num" });
+
+  return Array.from(text).map((char, index) => {
+    const allReadings = (symbolsByCharacter[index] ?? []).map((symbol, optionIndex) =>
+      createReading(symbol, numberedByCharacter[index]?.[optionIndex] ?? ""),
+    );
+    const commonKeys = COMMON_POLYPHONIC_READINGS[char];
+    const commonReadings = commonKeys
+      ? allReadings
+          .filter((item) => commonKeys.includes(item.audioKey))
+          .sort((left, right) => commonKeys.indexOf(left.audioKey) - commonKeys.indexOf(right.audioKey))
+      : allReadings;
+    const uniqueReadings = new Map<string, Reading>();
+
+    for (const item of [contextualReadings[index], ...commonReadings]) {
+      if (item?.audioKey) uniqueReadings.set(item.audioKey, item);
+    }
+    return [...uniqueReadings.values()];
   });
 }

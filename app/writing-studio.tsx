@@ -1,11 +1,13 @@
 "use client";
 
-import { FormEvent, useEffect, useRef, useState } from "react";
+import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
 import HanziWriter from "hanzi-writer";
-import { getReadings, getStrokeNames, STROKE_AUDIO_NAMES } from "./character-learning";
+import type { CharacterJson } from "hanzi-writer";
+import { getReadingOptions, getReadings, getStrokeNames, Reading, STROKE_AUDIO_NAMES } from "./character-learning";
 
 const EXAMPLES = ["日月山川", "天地人", "春风雨", "大小多少"];
 const DEFAULT_TEXT = "永";
+const HANZI_DATA_VERSION = "2.0.1";
 type WriterStatus = "loading" | "ready" | "error" | "animating" | "practicing" | "complete";
 type Pace = "slow" | "standard";
 
@@ -18,6 +20,39 @@ function onlyHanzi(value: string) {
   return Array.from(value).filter((char) => /[\u3400-\u9fff\uf900-\ufaff]/u.test(char)).slice(0, 12);
 }
 
+function isCharacterData(value: unknown): value is CharacterJson {
+  if (!value || typeof value !== "object") return false;
+  const data = value as Partial<CharacterJson>;
+  return Array.isArray(data.strokes)
+    && data.strokes.length > 0
+    && Array.isArray(data.medians)
+    && data.medians.length === data.strokes.length;
+}
+
+async function loadCharacterData(char: string) {
+  const encodedChar = encodeURIComponent(char);
+  const sources = [
+    `/hanzi-data/${encodedChar}.json?v=${HANZI_DATA_VERSION}`,
+    `https://cdn.jsdelivr.net/npm/hanzi-writer-data@${HANZI_DATA_VERSION}/${encodedChar}.json`,
+    `https://unpkg.com/hanzi-writer-data@${HANZI_DATA_VERSION}/${encodedChar}.json`,
+  ];
+  let lastError: unknown;
+
+  for (const source of sources) {
+    try {
+      const response = await fetch(source);
+      if (!response.ok) throw new Error(`character data request failed: ${response.status}`);
+      const data: unknown = await response.json();
+      if (!isCharacterData(data)) throw new Error("invalid character data");
+      return data;
+    } catch (error) {
+      lastError = error;
+    }
+  }
+
+  throw lastError ?? new Error("character data unavailable");
+}
+
 export default function WritingStudio() {
   const [input, setInput] = useState(DEFAULT_TEXT);
   const [characters, setCharacters] = useState([DEFAULT_TEXT]);
@@ -25,6 +60,7 @@ export default function WritingStudio() {
   const [status, setStatus] = useState<WriterStatus>("loading");
   const [voiceOn, setVoiceOn] = useState(true);
   const [pace, setPace] = useState<Pace>("slow");
+  const [readingOverrides, setReadingOverrides] = useState<Record<number, string>>({});
   const [completed, setCompleted] = useState<string[]>([]);
   const [message, setMessage] = useState("先看一遍笔顺，再来亲手写写看");
   const writerHost = useRef<HTMLDivElement>(null);
@@ -35,8 +71,12 @@ export default function WritingStudio() {
   const audio = useRef<HTMLAudioElement | null>(null);
   const audioResolve = useRef<(() => void) | null>(null);
   const activeChar = characters[activeIndex] ?? DEFAULT_TEXT;
-  const readings = getReadings(characters.join(""));
-  const reading = readings[activeIndex] ?? getReadings(activeChar)[0];
+  const lessonText = characters.join("");
+  const readings = useMemo(() => getReadings(lessonText), [lessonText]);
+  const readingOptionsByCharacter = useMemo(() => getReadingOptions(lessonText), [lessonText]);
+  const readingOptions = readingOptionsByCharacter[activeIndex] ?? [];
+  const contextualReading = readings[activeIndex] ?? getReadings(activeChar)[0];
+  const reading = readingOptions.find((item) => item.audioKey === readingOverrides[activeIndex]) ?? contextualReading;
 
   function playPrompt(name: string) {
     return new Promise<void>((resolve) => {
@@ -108,13 +148,17 @@ export default function WritingStudio() {
 
   useEffect(() => {
     if (!writerHost.current) return;
-    writerHost.current.innerHTML = "";
+    const host = writerHost.current;
+    const getWriterSize = () => Math.max(1, Math.floor(Math.min(host.clientWidth, host.clientHeight)));
+    const getWriterPadding = (size: number) => size / 12;
+    host.innerHTML = "";
     setStatus("loading");
     setMessage(`正在准备“${activeChar}”的字帖…`);
-    writer.current = HanziWriter.create(writerHost.current, activeChar, {
-      width: 360,
-      height: 360,
-      padding: 30,
+    const initialSize = getWriterSize();
+    const currentWriter = HanziWriter.create(host, activeChar, {
+      width: initialSize,
+      height: initialSize,
+      padding: getWriterPadding(initialSize),
       strokeColor: "#213e34",
       radicalColor: "#e36f43",
       outlineColor: "#d7d0bd",
@@ -125,11 +169,7 @@ export default function WritingStudio() {
       showCharacter: true,
       showOutline: true,
       charDataLoader: (char, onComplete, onError) => {
-        fetch(`/hanzi-data/${encodeURIComponent(char)}.json`)
-          .then((response) => {
-            if (!response.ok) throw new Error("missing local data");
-            return response.json();
-          })
+        loadCharacterData(char)
           .then(onComplete)
           .catch(onError);
       },
@@ -144,8 +184,21 @@ export default function WritingStudio() {
         setMessage(`暂时没有找到“${activeChar}”的笔顺数据`);
       },
     });
+    writer.current = currentWriter;
+
+    const resizeObserver = new ResizeObserver(() => {
+      const size = getWriterSize();
+      currentWriter.updateDimensions({
+        width: size,
+        height: size,
+        padding: getWriterPadding(size),
+      });
+    });
+    resizeObserver.observe(host);
+
     return () => {
-      writer.current?.cancelQuiz();
+      resizeObserver.disconnect();
+      currentWriter.cancelQuiz();
       stopAudio();
     };
   }, [activeChar, pace]);
@@ -155,6 +208,7 @@ export default function WritingStudio() {
     if (!clean.length) { setMessage("请先输入一个汉字哦"); return; }
     setCharacters(clean);
     setActiveIndex(0);
+    setReadingOverrides({});
     setMessage(`我们来学习“${clean.join("、")}”`);
   }
 
@@ -221,11 +275,17 @@ export default function WritingStudio() {
     if (next >= 0 && next < characters.length) setActiveIndex(next);
   }
 
+  function chooseReading(option: Reading) {
+    setReadingOverrides((current) => ({ ...current, [activeIndex]: option.audioKey }));
+    setMessage(`已选择读音：${option.pinyin} · ${option.toneLabel}`);
+    void playPronunciation(option.audioKey);
+  }
+
   return (
     <main>
       <header className="topbar">
         <a className="brand" href="#top" aria-label="字芽首页">
-          <span className="brand-seed" aria-hidden="true"><i /><b /></span>
+          <span className="brand-seed" aria-hidden="true" />
           <span>字芽<small>一笔一画，慢慢长大</small></span>
         </a>
         <div className="header-actions">
@@ -263,7 +323,28 @@ export default function WritingStudio() {
 
         <article className="practice-card">
           <div className="practice-head">
-            <div><p>正在学习</p><h2>{activeChar} <small>{reading?.pinyin} · {reading?.toneLabel}</small></h2></div>
+            <div>
+              <p>正在学习</p>
+              <h2>{activeChar} <small>{reading?.pinyin} · {reading?.toneLabel}</small></h2>
+              {readingOptions.length > 1 && (
+                <div className="reading-choices" role="group" aria-label={`${activeChar}字读音`}>
+                  <span>多音字</span>
+                  {readingOptions.map((option) => (
+                    <button
+                      key={option.audioKey}
+                      type="button"
+                      className={option.audioKey === reading?.audioKey ? "active" : ""}
+                      aria-pressed={option.audioKey === reading?.audioKey}
+                      aria-label={`选择读音 ${option.pinyin}`}
+                      disabled={status === "animating"}
+                      onClick={() => chooseReading(option)}
+                    >
+                      {option.pinyin}
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
             <div className="lesson-options">
               <button className="pace-button" onClick={() => setPace((current) => current === "slow" ? "standard" : "slow")} disabled={status === "animating"}>⏱ {pace === "slow" ? "慢速" : "标准"}</button>
               <button className="listen" disabled={status === "animating"} onClick={() => void playReading()}>🔊 听读音</button>
