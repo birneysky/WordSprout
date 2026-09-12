@@ -1,0 +1,6162 @@
+{
+  "a0": {
+    "sample": "啊",
+    "duration": 0.4,
+    "sha256": "076d8839ccbbf499ad823b94351d1bcf917e945fcf53a3b0d7ce6a7aa6e5ef0f"
+  },
+  "a1": {
+    "sample": "吖",
+    "duration": 0.58,
+    "sha256": "0f4edd1857e2b706a50272062ac1a0f82eade4eee68c1bb42f05dc286dc2e4ae"
+  },
+  "a2": {
+    "sample": "嗄",
+    "duration": 0.5,
+    "sha256": "ca950dc36a1cf876e5dd95e6dfab99d1f6e7e04c6c9b76d338162c695d28fbd1"
+  },
+  "ai1": {
+    "sample": "哎",
+    "duration": 0.4,
+    "sha256": "1a5d921397b55da328d42b6e6b1ab69defa044af56723e239f992429abdfed0c"
+  },
+  "ai2": {
+    "sample": "捱",
+    "duration": 0.48,
+    "sha256": "b080031cca7e6d1dbbbe46164bbe02cd246c89a09e3b7d1aeba123e66fd1b02e"
+  },
+  "ai3": {
+    "sample": "矮",
+    "duration": 0.48,
+    "sha256": "348d1be70b1fa6ef4e20fdf3acec253bbba002026df7aeff466f6e11d0246672"
+  },
+  "ai4": {
+    "sample": "艾",
+    "duration": 0.5,
+    "sha256": "380a2ace5cca519d0084efa604de716da162312b90ab40e0c036ff9e91a91d02"
+  },
+  "an1": {
+    "sample": "安",
+    "duration": 0.4,
+    "sha256": "f06d24d1e59730e13e0215a19efaaf8dfabc6af4bb54e91de3dd716a446bf792"
+  },
+  "an3": {
+    "sample": "俺",
+    "duration": 0.88,
+    "sha256": "2e09ee1c567b11371beb04ec32fff766a4cbebfa2e6ff90259cbfa9aac0dc394"
+  },
+  "an4": {
+    "sample": "犴",
+    "duration": 0.32,
+    "sha256": "360001e816723e9cfdf6b22687ae602b5905e2d275890f0d4708023daf0fe076"
+  },
+  "ang1": {
+    "sample": "肮",
+    "duration": 0.4,
+    "sha256": "230fd5502c4aaba110a58139d7d1db552f4b09d6cd55debc239959d03c614532"
+  },
+  "ang2": {
+    "sample": "昂",
+    "duration": 0.64,
+    "sha256": "edf6be75df1515c43460cb2d75cb7725d41ceb64c176ae5d6422fb72f31b734f"
+  },
+  "ang4": {
+    "sample": "盎",
+    "duration": 0.4,
+    "sha256": "cb5a6d70ef995cc683ad5fbc4769cf9d4703d77df883c4ca04b01947fbc8b3ab"
+  },
+  "ao1": {
+    "sample": "凹",
+    "duration": 0.32,
+    "sha256": "390db4c2344446fdf8b2c83e0728a711146f3fa649ca0d764f766457fb7e6e3c"
+  },
+  "ao2": {
+    "sample": "敖",
+    "duration": 0.4,
+    "sha256": "892d048657c1c2d0cab9179b8260f8a616cf461fc964d073c1b58f19e7ec59d4"
+  },
+  "ao3": {
+    "sample": "袄",
+    "duration": 0.88,
+    "sha256": "bda1eada4d41054b4ce3b52830eeeb9583a71c906773eb836a8348d975703639"
+  },
+  "ao4": {
+    "sample": "岙",
+    "duration": 0.32,
+    "sha256": "019500cc0977a19bc20a8e949dcee86147e47af90082449698c863e68902424e"
+  },
+  "ba0": {
+    "sample": "吧",
+    "duration": 0.48,
+    "sha256": "f9359fc2091cd0fb813fb0fa8d216a97619109e959bfb75dd0f68b3a86073e24"
+  },
+  "ba1": {
+    "sample": "八",
+    "duration": 0.66,
+    "sha256": "6e9b1422bb7713db557eac98a6f9cc3965acee2b0767c6e7e474a32ecc8fb89a"
+  },
+  "ba2": {
+    "sample": "拔",
+    "duration": 0.4,
+    "sha256": "46d2350c66ccaab9499c18fcf34c9a4e85bc08971c0a05276a6c26886912df8a"
+  },
+  "ba3": {
+    "sample": "把",
+    "duration": 0.64,
+    "sha256": "071cd07a53d2ff98d61ce11eaba74c7224c398bed652e0792b6938498f74f689"
+  },
+  "ba4": {
+    "sample": "坝",
+    "duration": 0.56,
+    "sha256": "c183eb3a17b06974bc4d51001d163763ef07c604ea547abd1372fd9f72a59d5f"
+  },
+  "bai1": {
+    "sample": "掰",
+    "duration": 0.32,
+    "sha256": "11140e4304bfc48719b4c8f2fcb0316c6ef572692cd897b079f4ceb614af4c77"
+  },
+  "bai2": {
+    "sample": "白",
+    "duration": 0.72,
+    "sha256": "a999adb961d67fc67d2e1ff8e70e0e0a2f84281b14076b2ac7abc5dbd6da1c71"
+  },
+  "bai3": {
+    "sample": "百",
+    "duration": 0.4,
+    "sha256": "2e8454bdf1abb4fac004848266bae48b5827d41eff47b35ac57e11a4b768fa9c"
+  },
+  "bai4": {
+    "sample": "呗",
+    "duration": 0.48,
+    "sha256": "d5c3bfa5caa1c0a3e6cbaed0b2a44cfc59eba867de114df4a07b2764465cacdf"
+  },
+  "ban1": {
+    "sample": "扳",
+    "duration": 0.4,
+    "sha256": "2d2ea92d879da109d9efe4df2fa611ee7ad9d334bac57e29779f51162c81d723"
+  },
+  "ban3": {
+    "sample": "阪",
+    "duration": 0.48,
+    "sha256": "6cc8546c5005f68b0fce4a3b92c565a7dea4b0e292cf49ae90b8da97889633c9"
+  },
+  "ban4": {
+    "sample": "办",
+    "duration": 0.4,
+    "sha256": "24df7259a33a91236fe1fd02e92625fb0a746cd1039d0a56822c23fd5fd641aa"
+  },
+  "bang1": {
+    "sample": "邦",
+    "duration": 0.48,
+    "sha256": "e4ec693d375f6e9e99f69e4424c146d88f6c3aeadd7a200054cfa02e341e0b08"
+  },
+  "bang3": {
+    "sample": "绑",
+    "duration": 0.64,
+    "sha256": "1b63915eda19f71c7ad0e59912600aae213f147032aa649721198bb4b963ad94"
+  },
+  "bang4": {
+    "sample": "蚌",
+    "duration": 0.32,
+    "sha256": "90c109b958ee52e7737cb7229bd365700e869eb3a355c6adefa12780073caad5"
+  },
+  "bao1": {
+    "sample": "勹",
+    "duration": 0.8,
+    "sha256": "4ecf2aa29b9d0662f0a1ca6974d4f020d83f486d9c23b37774430e32df206926"
+  },
+  "bao2": {
+    "sample": "雹",
+    "duration": 0.4,
+    "sha256": "d9c0f90b8e888f3b804a9c837693bad61f4bdbbb0323d3df7d86dbf12952d440"
+  },
+  "bao3": {
+    "sample": "宝",
+    "duration": 0.88,
+    "sha256": "cacab359acef6892f366ea0ee8e80f7f6dc3574da3a3d58824a67952a31dcac4"
+  },
+  "bao4": {
+    "sample": "报",
+    "duration": 0.32,
+    "sha256": "d8470427c54731357206732e90ed6893961a45e83b332a88e2877561474c6d47"
+  },
+  "bei0": {
+    "sample": "唄",
+    "duration": 0.54,
+    "sha256": "0cdfd1d81620d70743edceae967a56c21799424f55801ed24ffb7d36637adaf0"
+  },
+  "bei1": {
+    "sample": "陂",
+    "duration": 0.32,
+    "sha256": "ac7abe818250afd3e296a5ae8dc4d0b8c398b15c0f01060e97b13e8a0dcf5168"
+  },
+  "bei3": {
+    "sample": "北",
+    "duration": 0.4,
+    "sha256": "9b9da47d8a680ae7b79b0e59cc2393ae621273cd6341839a2baf15f010022bf2"
+  },
+  "bei4": {
+    "sample": "贝",
+    "duration": 0.4,
+    "sha256": "b190e81969f1742175e5e2ab7153d34e63a9afa09477675bca3eaee8f2d7b012"
+  },
+  "ben1": {
+    "sample": "奔",
+    "duration": 0.4,
+    "sha256": "e2f59df4b15824a253c947652ba7a553e31e982fa7ed43ca3831cdede1e6b994"
+  },
+  "ben3": {
+    "sample": "本",
+    "duration": 0.48,
+    "sha256": "e062a6833f183c92670096ea59eeab1b887feb6dbc0944a1ea3b8be8da81a4e6"
+  },
+  "ben4": {
+    "sample": "坌",
+    "duration": 0.32,
+    "sha256": "4195b40ea2589366d8d44db43d6461600e4bfdcc490d49bf7a0c7db379e20d78"
+  },
+  "beng1": {
+    "sample": "崩",
+    "duration": 0.96,
+    "sha256": "8256d6b2bbc60c4dffab3b3ab0f6f80cd1a2adc8e9c744f73660c6438adc76bb"
+  },
+  "beng2": {
+    "sample": "甭",
+    "duration": 0.4,
+    "sha256": "91c94c3df942e63a75307662a33b73368ba0511c91d627c9f81a993fd1061d74"
+  },
+  "beng3": {
+    "sample": "埄",
+    "duration": 0.4,
+    "sha256": "c0c53196d1d52baef5b07ff07e6f40e337b3cff76f1ea9c89b32907daf2a2634"
+  },
+  "beng4": {
+    "sample": "泵",
+    "duration": 0.88,
+    "sha256": "3b952b146b1deffddb58bf5ce35e47620c2993d90c9b92176625570b70024ffa"
+  },
+  "bi1": {
+    "sample": "逼",
+    "duration": 0.32,
+    "sha256": "4867fbe94a64493de989ef9a1cb66d8b090d457a0acbb3acf9dd429c3c2cbb26"
+  },
+  "bi2": {
+    "sample": "鼻",
+    "duration": 0.48,
+    "sha256": "0bc86b828988aae66991b4ffa7301c84aac003206c2c305756b0e541742ff0f5"
+  },
+  "bi3": {
+    "sample": "笔",
+    "duration": 0.48,
+    "sha256": "2da43437113ae25b7e69ddb81ef9389f27a9aad78f1591c4317be0a54b6f9411"
+  },
+  "bi4": {
+    "sample": "币",
+    "duration": 0.4,
+    "sha256": "fb7093c0db6426bcb08872c6a718a900bd513fd1d6a0a53fc9d7006ddc9bba1e"
+  },
+  "bian1": {
+    "sample": "边",
+    "duration": 0.32,
+    "sha256": "f224da955f4c7111abc7b5724c79704509e6d92ee2442d5cc49bd8eacd393499"
+  },
+  "bian3": {
+    "sample": "贬",
+    "duration": 0.72,
+    "sha256": "a0526389b6a0da8767f3ba07cd1d197d7f2891e7099a2f771171537ce6f5eac8"
+  },
+  "bian4": {
+    "sample": "卞",
+    "duration": 0.32,
+    "sha256": "5a4778ce4557a920428ad7d97b5ddd6b91804f3328de639bd2e02f8fa16b7d68"
+  },
+  "biao1": {
+    "sample": "彪",
+    "duration": 0.64,
+    "sha256": "b5e2e07b75fee57c4397c31fb6a28c748d402ffcde7eac858701e6e1f3efa95f"
+  },
+  "biao3": {
+    "sample": "表",
+    "duration": 0.4,
+    "sha256": "534234c314c76fc422e59427bd364dddbadb5f3346648abc3138ec264c859d44"
+  },
+  "biao4": {
+    "sample": "鳔",
+    "duration": 0.4,
+    "sha256": "a124c809b2fedd30b28db762353eecb4640047110bb9e3ba3ff8a94657d9c425"
+  },
+  "bie1": {
+    "sample": "憋",
+    "duration": 0.48,
+    "sha256": "77af657d2329a79681653a60174ffb2d14b614de46b2502fe8e7448ef36b3c9c"
+  },
+  "bie2": {
+    "sample": "别",
+    "duration": 0.32,
+    "sha256": "268d4e352936f0c12f4d88ead51c2c4377959a96608d93b9618a195a3af3dcde"
+  },
+  "bie3": {
+    "sample": "瘪",
+    "duration": 0.48,
+    "sha256": "985ad80547c4a6e6a54921a50fd6d955d20c13800d1b6ac857287aaab5bd697c"
+  },
+  "bie4": {
+    "sample": "彆",
+    "duration": 0.64,
+    "sha256": "9d46e525c0c99d381fbca53a6199993b0b44aba5d3b754a9b58cb96b4291afeb"
+  },
+  "bin1": {
+    "sample": "玢",
+    "duration": 0.4,
+    "sha256": "21575c1f42406edfedea0edfbf8fd7b725900fb97e4c7f3b93aebc932411b986"
+  },
+  "bin4": {
+    "sample": "摈",
+    "duration": 0.4,
+    "sha256": "62bf5262bdf1af90a14813c49a7abfbc551cfffc9ed678b9ae64122f369a2edf"
+  },
+  "bing1": {
+    "sample": "冰",
+    "duration": 0.48,
+    "sha256": "cc2087275fed548e4b661828ab5997fa2c3f59155bfd8c21fa1cba358bfd3b3b"
+  },
+  "bing3": {
+    "sample": "丙",
+    "duration": 0.4,
+    "sha256": "b389cc9bcede79604a0b1e1afa88e795b2ce6b16a7628bd58c413c96111c2368"
+  },
+  "bing4": {
+    "sample": "并",
+    "duration": 0.88,
+    "sha256": "948778e0e74d926eb561099c3a80b3558fca2675451293589e6acee5ee8e5a82"
+  },
+  "bo0": {
+    "sample": "啵",
+    "duration": 0.4,
+    "sha256": "f285003b7840ff3a76de4f11f6af251098e7399305aaf6ac19df1dc2ade3934c"
+  },
+  "bo1": {
+    "sample": "拨",
+    "duration": 0.4,
+    "sha256": "033b77f2d3a3a432ee4278408ccdd41d14767b6169bd816dc95afc003800dc9c"
+  },
+  "bo2": {
+    "sample": "伯",
+    "duration": 0.4,
+    "sha256": "5101332753db2b813a9dd4d7fa40ba7137d8ead017e09660062c192df9c9889b"
+  },
+  "bo3": {
+    "sample": "跛",
+    "duration": 0.88,
+    "sha256": "56e5a9ce60aae348394f4add952bff72ef6b089c7f2c78f352b09990e13913ff"
+  },
+  "bo4": {
+    "sample": "擘",
+    "duration": 0.48,
+    "sha256": "fdb244590d05c543385016c5a6dff9fbf88cf9821a66717c68fa1f3ebed11d82"
+  },
+  "bu1": {
+    "sample": "逋",
+    "duration": 0.32,
+    "sha256": "47a3f919c8af34b6a252c5c541052b5b85cfdde004c86b0a8e0ed08f495a3aa8"
+  },
+  "bu2": {
+    "sample": "醭",
+    "duration": 0.4,
+    "sha256": "0dbfa8f3d1fb29c43b59c7bc64e6adfb53e9a0172390b25aff3d27b8ae582118"
+  },
+  "bu3": {
+    "sample": "卟",
+    "duration": 0.48,
+    "sha256": "9440bd3433d04c55d2c154abb8f1d54b388766d17d71c5da7b46532eedc4e276"
+  },
+  "bu4": {
+    "sample": "不",
+    "duration": 0.48,
+    "sha256": "10e3cc6cafce23d1fb02a3850ce6c0df0bebe807ca3d7fa7390e1b9a0b649857"
+  },
+  "ca1": {
+    "sample": "擦",
+    "duration": 0.4,
+    "sha256": "b9e7a0694d5f962fb1fe230806bc20cfd42c088df29d69b064b4c6707db421e9"
+  },
+  "ca3": {
+    "sample": "礤",
+    "duration": 0.62,
+    "sha256": "2717241f3304c0ffbe98d319c2bc23a62917ee9735154e1604abb862e83b2a42"
+  },
+  "cai1": {
+    "sample": "猜",
+    "duration": 0.32,
+    "sha256": "4cae201ec831350342092187d081919fcba927076259e5e3ae437e4f52060192"
+  },
+  "cai2": {
+    "sample": "才",
+    "duration": 0.4,
+    "sha256": "e6c96506d4b951d76c245a9e7e5d3b48790e49f2739080b8870310c2323deafc"
+  },
+  "cai3": {
+    "sample": "采",
+    "duration": 0.48,
+    "sha256": "ee63f86ca7e65d7d04633685594870146d4238f503f88e8dfb10732ca8787717"
+  },
+  "cai4": {
+    "sample": "菜",
+    "duration": 0.32,
+    "sha256": "c6208cc300eee0bc0f953b8d7583d76342d86d86efe6a4e8a6ac148a0b46ff63"
+  },
+  "can1": {
+    "sample": "参",
+    "duration": 0.46,
+    "sha256": "bd13176b99c1f95a0472eff1dfddd7646892593076b067827e95d87240b24a45"
+  },
+  "can2": {
+    "sample": "残",
+    "duration": 0.56,
+    "sha256": "b7a218f59307aa1402b96b8a151ee3e7b81691dcb4865a0fe255541ae2d7a07d"
+  },
+  "can3": {
+    "sample": "惨",
+    "duration": 0.7,
+    "sha256": "c23d772000c9ce37829deebdbda9e05f22d18d086236af6d716546a517302812"
+  },
+  "can4": {
+    "sample": "灿",
+    "duration": 0.64,
+    "sha256": "14ce131b1e490af8486c07743064eb7201635296439589ae6a649859bef12bc1"
+  },
+  "cang1": {
+    "sample": "仓",
+    "duration": 0.4,
+    "sha256": "30ad9f103a412e21fc8993fb717e0840dc4cbec7913d7d79a26a70d1720fd190"
+  },
+  "cang2": {
+    "sample": "藏",
+    "duration": 0.62,
+    "sha256": "e1d418e84f8e5b3845e8ea75b87145d86b2dbfa15741272318509cc48a5b0c63"
+  },
+  "cao1": {
+    "sample": "操",
+    "duration": 0.32,
+    "sha256": "aa883afc50214bea463cf27b97a6479d04ccfd08eb2764b7ff17a67021b66dd6"
+  },
+  "cao2": {
+    "sample": "曹",
+    "duration": 0.64,
+    "sha256": "0576320434088e15d7b0c81168800fba36c61feb2216ed6a681baceebea87d6c"
+  },
+  "cao3": {
+    "sample": "草",
+    "duration": 0.48,
+    "sha256": "0517a0f78b05e7913b1864958c242dcabc98f54ebb9b1f97b75dcb596116a59e"
+  },
+  "ce4": {
+    "sample": "册",
+    "duration": 0.4,
+    "sha256": "deab0de0384630ef61a9c876e1c5e01a4db8c9d24a4d9e01e1647cc6c1bce915"
+  },
+  "cen2": {
+    "sample": "岑",
+    "duration": 0.56,
+    "sha256": "76b3a20051ca0cda3444dcb8b86e880869512ab5855eecf7e06dde3c8d06d337"
+  },
+  "ceng1": {
+    "sample": "噌",
+    "duration": 0.32,
+    "sha256": "3af3ffd00cd1213a55a6c9955b98e09e3223ecf58c6f87f6454d97165522a4cc"
+  },
+  "ceng2": {
+    "sample": "层",
+    "duration": 0.56,
+    "sha256": "f734d9e04472e242f95df07b1e1aac6a5f6c7e275d3911572ac22acb097546ee"
+  },
+  "ceng4": {
+    "sample": "蹭",
+    "duration": 0.48,
+    "sha256": "f2e783da7643241874ade03f51ff9eaeabaed05c8bb22a48b776dcf8563fb445"
+  },
+  "cha1": {
+    "sample": "叉",
+    "duration": 0.4,
+    "sha256": "2ee41a11ef85cf0253e818ee4deac286060218e4a387d97f70248a0857e07607"
+  },
+  "cha2": {
+    "sample": "查",
+    "duration": 0.4,
+    "sha256": "4881c8f5cb4db67628f8422218a07107119482436c40b9ede289843df6195e37"
+  },
+  "cha3": {
+    "sample": "镲",
+    "duration": 0.48,
+    "sha256": "63b51433bdfb38b886ae8819409bc42ea520bd90c140d34021e63094005f78e0"
+  },
+  "cha4": {
+    "sample": "汊",
+    "duration": 0.4,
+    "sha256": "65e88cb5ffe84bdf494b19a7b11a7a8709035ec423cc92e000020d500aa670f4"
+  },
+  "chai1": {
+    "sample": "拆",
+    "duration": 0.4,
+    "sha256": "aee693030d1b9068f95ab0aaa0da8cde160b749d406f5aeb47438556dcc4d80a"
+  },
+  "chai2": {
+    "sample": "柴",
+    "duration": 0.48,
+    "sha256": "e928a3d60bf64b17a80a1cc1955f43c79e7f0603f8482394acc4ac1e900b714d"
+  },
+  "chai4": {
+    "sample": "虿",
+    "duration": 0.48,
+    "sha256": "edc3bb36d34ace15d3625e36e3ae24a307d8ff42bbb0dd0e299f2736b56c3716"
+  },
+  "chan1": {
+    "sample": "觇",
+    "duration": 0.4,
+    "sha256": "5c13f84c2a622c614073451b463b10377b8ae4824be5c0c068d4c46d988182b8"
+  },
+  "chan2": {
+    "sample": "婵",
+    "duration": 0.64,
+    "sha256": "e4b4bd9c6a779d5a3884d1fbfbd446ee39acf488da484f2c6cfbbf0154f7852c"
+  },
+  "chan3": {
+    "sample": "产",
+    "duration": 0.64,
+    "sha256": "3b89c7573318722c0cd8e0f733c60ac85acc27874e930ee0146afafaff95e5c8"
+  },
+  "chan4": {
+    "sample": "忏",
+    "duration": 0.4,
+    "sha256": "500afcfb8f76a5c5c9f4c195e36b269ca48e909cdf9ba94dabfe58885d16a44e"
+  },
+  "chang1": {
+    "sample": "伥",
+    "duration": 0.5,
+    "sha256": "295ef42ef7557055f251243dde015efd033807c20ca5e8fea11b4a9f5748d7f5"
+  },
+  "chang2": {
+    "sample": "长",
+    "duration": 0.48,
+    "sha256": "f923767b553598719715f9b2689d7a816d5e175a62a9fcdcf596ee1f33cb9b7a"
+  },
+  "chang3": {
+    "sample": "厂",
+    "duration": 0.4,
+    "sha256": "6b3930691ce351733033e13c3fadd117a86cb995c48b1c8b2ac51581a9f61837"
+  },
+  "chang4": {
+    "sample": "怅",
+    "duration": 0.4,
+    "sha256": "a6d5c54b9e81b86c0022cff8660e5418244b1882bd7cf5854e384d0091fd1854"
+  },
+  "chao1": {
+    "sample": "抄",
+    "duration": 0.32,
+    "sha256": "4b8b5594662c52cfa4fbd26f3d87577052c399bac0b865d55dbc87a134e0c8c4"
+  },
+  "chao2": {
+    "sample": "晁",
+    "duration": 0.32,
+    "sha256": "c78e539b54a17e2e9a2feea192c963f8fe88a852f96d20a65fd450b80f056d68"
+  },
+  "chao3": {
+    "sample": "吵",
+    "duration": 0.48,
+    "sha256": "ebf913ad9b1cebe1085c48e1ab7fcc653d84ab239542a990db47f2fa282e67c4"
+  },
+  "chao4": {
+    "sample": "耖",
+    "duration": 0.32,
+    "sha256": "cbd272a1cb629fac22da8e1fe7f5b2f2513a6936d4fc0b440529e85f39ed2fe3"
+  },
+  "che1": {
+    "sample": "车",
+    "duration": 0.56,
+    "sha256": "a0f79af36a07f991d965ad11462e04bf62f016ce331cf040ef0a958b3f252758"
+  },
+  "che3": {
+    "sample": "扯",
+    "duration": 0.48,
+    "sha256": "5cbc91910d86dd0037b3c5886695bb290cf9dc352df24738db8e5a5afbc4d044"
+  },
+  "che4": {
+    "sample": "彻",
+    "duration": 0.62,
+    "sha256": "88fc696bb609cfa93da41cd207ddb547b09d452b61be2482ba1804d385d1019b"
+  },
+  "chen0": {
+    "sample": "伧",
+    "duration": 0.48,
+    "sha256": "11acbe2cc4b2d275c6196da25957b82135c60a189e837dc05f35a0035a6933cb"
+  },
+  "chen1": {
+    "sample": "抻",
+    "duration": 0.4,
+    "sha256": "787721c37a5156e005df82048db392395b1f0f58acd18fdd74d7e401b86f9c31"
+  },
+  "chen2": {
+    "sample": "尘",
+    "duration": 0.56,
+    "sha256": "cfd3d9cc2532627461d94aef9f0fbd867edfd1ee8f5e848b430e36ed7f9e5113"
+  },
+  "chen3": {
+    "sample": "碜",
+    "duration": 0.4,
+    "sha256": "f320ddde20c9fa40a43ecfd39907fa85b372faad1d354ea52a49b52d2bb6ee2c"
+  },
+  "chen4": {
+    "sample": "衬",
+    "duration": 0.48,
+    "sha256": "4ac2681018693cf091f61dfbb4453faf5d24cb59bae6046d35a5211e00198f3b"
+  },
+  "cheng1": {
+    "sample": "柽",
+    "duration": 0.48,
+    "sha256": "59f810bc25b9909735b36750945dc0325b148b708177ea0446ccf71f71eba96d"
+  },
+  "cheng2": {
+    "sample": "丞",
+    "duration": 0.4,
+    "sha256": "a070b758a9621f7d01689caa51aaefdf3451173660bf802664156504526ffb39"
+  },
+  "cheng3": {
+    "sample": "逞",
+    "duration": 0.64,
+    "sha256": "d3121be1b80e53fbf48bdb0d11be0cff8e3218ce09430e8c6d6f0d4648ecb114"
+  },
+  "cheng4": {
+    "sample": "秤",
+    "duration": 0.32,
+    "sha256": "e4e2ca0b47c41c8fb9aa2761d0fa0afe81cba9fecb4a494755f37fa6d00bda36"
+  },
+  "chi1": {
+    "sample": "吃",
+    "duration": 0.4,
+    "sha256": "0d5af95c235122c991221ddd0d0e83882d8aec9371509a2aaa2c1528ab024b31"
+  },
+  "chi2": {
+    "sample": "弛",
+    "duration": 0.88,
+    "sha256": "064e713213c02d845e1bd997f2636c2544164ce6d74a3aed08efd23df4f96adb"
+  },
+  "chi3": {
+    "sample": "尺",
+    "duration": 0.84,
+    "sha256": "bae326ff75231a106cadcc2bbc505accaa11e2c56bdf74a066bb24515f311394"
+  },
+  "chi4": {
+    "sample": "叱",
+    "duration": 0.4,
+    "sha256": "82b07efd9ca2b75c1fdb8dc114d6261c027f9676ae23e4d86cc5dbdd9c7e75aa"
+  },
+  "chong1": {
+    "sample": "充",
+    "duration": 0.48,
+    "sha256": "2cd1d28c498fe5e117f8b7926c44566482ad8b3763f7dcbeaf55b3a7d16556c0"
+  },
+  "chong2": {
+    "sample": "虫",
+    "duration": 0.4,
+    "sha256": "4d040b828e000d1b89a5b3f3c21c29a034ab0563d0ec19c682becc5ea21933b8"
+  },
+  "chong3": {
+    "sample": "宠",
+    "duration": 0.64,
+    "sha256": "b57633698ca0e80c0fdcffc44ae371a5a24600c88e3ed575d6107dde094dac3a"
+  },
+  "chong4": {
+    "sample": "铳",
+    "duration": 0.48,
+    "sha256": "c5873ca1b5431afd4204c9179d2e3f9efa43ae41d85f1ef39f4a3a7edeaa626d"
+  },
+  "chou1": {
+    "sample": "抽",
+    "duration": 0.4,
+    "sha256": "4a1ad9567912304351ec09994b9bc8ed8e65c73e064a3e7b9143c7e78e429fb2"
+  },
+  "chou2": {
+    "sample": "仇",
+    "duration": 0.64,
+    "sha256": "868362838cd25b9662e013035379e7febdcfb99424c7d7c621ac7f5066a0acad"
+  },
+  "chou3": {
+    "sample": "丑",
+    "duration": 0.48,
+    "sha256": "97190c38f54533ceb4b06f2c3fe3eb18710eee69694ae78a802a537ca45c9c0e"
+  },
+  "chou4": {
+    "sample": "臭",
+    "duration": 0.48,
+    "sha256": "7de794af3f197b2a4953d034f1c48313019fff0cf40c3089543ee5133235ee63"
+  },
+  "chu1": {
+    "sample": "出",
+    "duration": 0.56,
+    "sha256": "330e6a9cc311c7227b5df53a68c8ae88e209b274642de602eaa6f048741e07a7"
+  },
+  "chu2": {
+    "sample": "刍",
+    "duration": 0.64,
+    "sha256": "cd3fb6f9a1bc0a96e8b77e2832a592def49253cc931db0e2142ae855b5613882"
+  },
+  "chu3": {
+    "sample": "杵",
+    "duration": 0.5,
+    "sha256": "d7aa96a18f5cd98864aa0aab007e7f530ed857cb2b1849e98fe6553a8c95ee01"
+  },
+  "chu4": {
+    "sample": "亍",
+    "duration": 0.48,
+    "sha256": "5f5e14b9904a2d17baa413ea7a8ad33bda645fc800018e27a89fbfb71e87d88d"
+  },
+  "chua1": {
+    "sample": "欻",
+    "duration": 1.12,
+    "sha256": "c13e1ecce8e5debfe4ce7293ed4127dc0152d3a926bda678339dff337b07e4c5"
+  },
+  "chuai1": {
+    "sample": "揣",
+    "duration": 0.56,
+    "sha256": "f8cb54711b612d0f31b2a266659be216751abb2783b1f44324081aa7cbf52593"
+  },
+  "chuai4": {
+    "sample": "踹",
+    "duration": 0.4,
+    "sha256": "9e8ca44d27632b8f8721750400ef41f4ddb2c459f60c0a7e63f464bda0b5bdb6"
+  },
+  "chuan1": {
+    "sample": "巛",
+    "duration": 0.56,
+    "sha256": "18d53bdf7f2e9c040b8791f1e53f5b0c6e52a2806aff9891aa5012e8442b3ada"
+  },
+  "chuan2": {
+    "sample": "传",
+    "duration": 0.5,
+    "sha256": "238046f1b196c45059328ad15c0ef168ed3a7e7c3241952b5aea77b3bbf0e21d"
+  },
+  "chuan3": {
+    "sample": "舛",
+    "duration": 0.48,
+    "sha256": "6685e8c96170d00a8c6d0ad6b97104154355827a78654ee5a9fc8823525e011f"
+  },
+  "chuan4": {
+    "sample": "串",
+    "duration": 0.4,
+    "sha256": "9f44944b644cbc40b2dbfd6aee589545e8ef8040b970c958594961e42139791b"
+  },
+  "chuang1": {
+    "sample": "疮",
+    "duration": 0.64,
+    "sha256": "bd6d7d0b366a04253e4539d0119fc397dc73df36ee173afa8582a766761b8e72"
+  },
+  "chuang2": {
+    "sample": "床",
+    "duration": 0.54,
+    "sha256": "a058830418875c2fac8114443b4354e8204aa699837ba252b0ef590ec81cb60b"
+  },
+  "chuang3": {
+    "sample": "闯",
+    "duration": 0.4,
+    "sha256": "7828e15224aef722f9a84cf304679f2cb9a754cfb254941ed9e8f83865ad31c3"
+  },
+  "chuang4": {
+    "sample": "创",
+    "duration": 0.6,
+    "sha256": "8c4bb7cf5de120c3022323cfd282c9318c9d5356a9ddc26557bfa9341cea6536"
+  },
+  "chui1": {
+    "sample": "吹",
+    "duration": 0.5,
+    "sha256": "3e3f571000dc9ce58a655e374af9d5570d2ba63755ae86ce31cf4e9a989b25ec"
+  },
+  "chui2": {
+    "sample": "垂",
+    "duration": 0.4,
+    "sha256": "237cbca256c3f1b0106290dfd0092a9d4fdf4bde401170704a1fcdbb3aedac07"
+  },
+  "chun1": {
+    "sample": "春",
+    "duration": 0.64,
+    "sha256": "0394949193eb20f1dd2e7b44aadaf7522d44d611f2bec3ed8731666d7e1daf14"
+  },
+  "chun2": {
+    "sample": "纯",
+    "duration": 0.48,
+    "sha256": "aa74f518e08e8523dc979837e4c5bf1e9da17cc8f2a948c5573b36c587b6e047"
+  },
+  "chun3": {
+    "sample": "蠢",
+    "duration": 0.48,
+    "sha256": "5e882f1d7a21719fbb96399bebdf74ce74a478612569f7419edbb666e7d1ca46"
+  },
+  "chuo1": {
+    "sample": "踔",
+    "duration": 0.48,
+    "sha256": "7754a47830f894af67e0fe8df05d09e5cc83686ab8bbff2ae847f2a6556f670c"
+  },
+  "chuo4": {
+    "sample": "啜",
+    "duration": 0.48,
+    "sha256": "accc3b883ab1e8f668ffd1e41a3dbb1ea79393164be27c59547ac5d6d1d106dd"
+  },
+  "ci1": {
+    "sample": "呲",
+    "duration": 0.5,
+    "sha256": "146802f1c39720fc1ae2d36c677b4c90714a20162ac9dfe28c27e3cc0fb63965"
+  },
+  "ci2": {
+    "sample": "词",
+    "duration": 0.48,
+    "sha256": "bfb261c8a995cae9d4807075ea69e4ef148590f63251d484e59d7c12d903d590"
+  },
+  "ci3": {
+    "sample": "此",
+    "duration": 0.5,
+    "sha256": "ec8403880c2760121aea65e489c2bfcd5dbd4adb3015c46e55b9d881b2ebc331"
+  },
+  "ci4": {
+    "sample": "次",
+    "duration": 0.54,
+    "sha256": "53d208fcd7935677c0669ff48cd2d7f0da0660f122fb05e687e3f6e7088eb25c"
+  },
+  "cong1": {
+    "sample": "匆",
+    "duration": 0.6,
+    "sha256": "fa16e8295a723f87c643d2c88cc3ab65faaf237dc87fd7668d6a840f02c90cb5"
+  },
+  "cong2": {
+    "sample": "从",
+    "duration": 0.64,
+    "sha256": "cffec073fb865a2ba002ea5474acc705a51ab406d8f34ce362775824725c2f7f"
+  },
+  "cou4": {
+    "sample": "凑",
+    "duration": 0.48,
+    "sha256": "e474b4ad76cec34057d7db2332a8c41ecfeca77063f2f1a5a0516a20e0c5cf10"
+  },
+  "cu1": {
+    "sample": "粗",
+    "duration": 0.4,
+    "sha256": "5e401cae5fd40c5df4f78574de5314bfdebfb3e1746dcfbb77c495be44dd5df5"
+  },
+  "cu2": {
+    "sample": "徂",
+    "duration": 0.5,
+    "sha256": "0ad858b3fd69d03c68fe324801b7c3c3c552e627527135bdd8aa6bfbbb95d011"
+  },
+  "cu4": {
+    "sample": "促",
+    "duration": 0.5,
+    "sha256": "40c0aca2c5eac4bec8585e4fdbfd73272f00d2a0322adffc68160ef60b414495"
+  },
+  "cuan1": {
+    "sample": "汆",
+    "duration": 0.5,
+    "sha256": "29b443e6e8bf2cf8c47f330b710d02d20a7f35c0bebc8cb2474cd83b27e0bccc"
+  },
+  "cuan4": {
+    "sample": "窜",
+    "duration": 0.5,
+    "sha256": "57148b5456cd3ff7dc8d8abd037329f2d7047af3af1ab230cca0ac2d3510e295"
+  },
+  "cui1": {
+    "sample": "崔",
+    "duration": 0.48,
+    "sha256": "3ac6dc7e27aa4ff410fc7359c46c34694f59fb95f2114af5c82c1ea02d7bf485"
+  },
+  "cui3": {
+    "sample": "璀",
+    "duration": 0.78,
+    "sha256": "c6b8eb86ff006e95ca5d319abb42fb080ec17cc16588ff6e41e56cac0c036640"
+  },
+  "cui4": {
+    "sample": "脆",
+    "duration": 0.48,
+    "sha256": "bdf6f9f2a3b41dbf805a45d11c6db4e602fbcc6df231d2cb16833731a62d93b4"
+  },
+  "cun1": {
+    "sample": "村",
+    "duration": 0.5,
+    "sha256": "efdc9c82801585fac801533542828b083bbf976188521ae83f3a58e6cb6e7515"
+  },
+  "cun2": {
+    "sample": "存",
+    "duration": 0.48,
+    "sha256": "c59ab4124289b85695fcd0b5ad6d24d999d43449128633357c315e49544bd302"
+  },
+  "cun3": {
+    "sample": "忖",
+    "duration": 0.72,
+    "sha256": "a7ce12b75801fe98a4f411377f75faa794041cb0dbf4305d7a616e7ff4569d86"
+  },
+  "cun4": {
+    "sample": "寸",
+    "duration": 0.48,
+    "sha256": "5e9b25dfcdc35a4ea0d336f339e6481655b3ff610f29306f1a7132299886c331"
+  },
+  "cuo1": {
+    "sample": "搓",
+    "duration": 0.4,
+    "sha256": "3cf89614ea46e94ef2e1cde145ee9ffa3bde4f0fc3aa5a86502426a8ec9f100e"
+  },
+  "cuo2": {
+    "sample": "嵯",
+    "duration": 0.62,
+    "sha256": "79a0c527f5a772bb3ed66bac5b6983d1b2194dae4e1cf5d5034f84b8bc83a2a3"
+  },
+  "cuo3": {
+    "sample": "脞",
+    "duration": 0.5,
+    "sha256": "684b8cc17270c5794bfc8708025e7457c3dd42c336d6b4f1d47e805029b29d01"
+  },
+  "cuo4": {
+    "sample": "厝",
+    "duration": 0.56,
+    "sha256": "a0d7652f530c0a644e375edef45a4dfdef2680f4fa5e01c66bd042c78edc41d2"
+  },
+  "da0": {
+    "sample": "瘩",
+    "duration": 0.5,
+    "sha256": "89de3044256469dd20b5ea9013024fd1662904eb74a7efba2dd9adf6a391f822"
+  },
+  "da1": {
+    "sample": "搭",
+    "duration": 0.32,
+    "sha256": "ff8333627fbea70689796b8225df47723734a2e96a5365efb3319e438c3645ad"
+  },
+  "da2": {
+    "sample": "达",
+    "duration": 0.4,
+    "sha256": "d3507f7c62c8eedc6712c2a932b8ff4b94d73a8238e8c39da328d0d071b23a43"
+  },
+  "da3": {
+    "sample": "打",
+    "duration": 0.32,
+    "sha256": "03712adc0854702999b10a5042eb5f744e1bffed6ac48248ea56a646b89e1518"
+  },
+  "da4": {
+    "sample": "大",
+    "duration": 0.48,
+    "sha256": "c83015ab2ea3d7c8d34d9ebb4bf9a5baa4ff8e6a9bd847357306e87a4a03e50e"
+  },
+  "dai1": {
+    "sample": "呆",
+    "duration": 0.4,
+    "sha256": "e17aa744182e8bd4c21f4ea47fed57ba0f11b835a864ba3af01de329fa7d054b"
+  },
+  "dai3": {
+    "sample": "歹",
+    "duration": 0.32,
+    "sha256": "1e45c6a20b51cb496a0c133541771a1716b85b78b1b7d52d28dbe23fa841cc88"
+  },
+  "dai4": {
+    "sample": "代",
+    "duration": 0.32,
+    "sha256": "89b848a45b38d372a62bf278654c44af6b17ad20886dd04fc34d82fd1f998ae5"
+  },
+  "dan1": {
+    "sample": "丹",
+    "duration": 0.4,
+    "sha256": "31f133ac76a4f141f3b98a303fecda66e112203bf060415dc29096cb9de49452"
+  },
+  "dan3": {
+    "sample": "胆",
+    "duration": 0.48,
+    "sha256": "2d4a5735977bac58607fb92dc7ef6b78f33725b3d9f35b69114ab38c1c711a29"
+  },
+  "dan4": {
+    "sample": "旦",
+    "duration": 0.32,
+    "sha256": "f1231cb73d4f549238eb18f7b29972f8b57a6ba89651f9e8e2ba843c504d0007"
+  },
+  "dang1": {
+    "sample": "当",
+    "duration": 0.64,
+    "sha256": "95d3d2440fdea5ef71ed792f28729299090bc40918b65d76737e6ff67b049dda"
+  },
+  "dang3": {
+    "sample": "挡",
+    "duration": 0.64,
+    "sha256": "121921226e24b3f431ee2d1d7bab63252eaf812f2122bc85f66898ebced78cc8"
+  },
+  "dang4": {
+    "sample": "凼",
+    "duration": 0.32,
+    "sha256": "ee84498a8d92fe72109797d74dbfeffad84427da489e76543529c811d638c795"
+  },
+  "dao1": {
+    "sample": "刀",
+    "duration": 0.32,
+    "sha256": "ede2d40343c248749b66e1ce1534b13667984a5518dece406630108e06f5470c"
+  },
+  "dao3": {
+    "sample": "导",
+    "duration": 0.32,
+    "sha256": "d6531d9a9faeb63bf758543810fa54f21ef69351ff31daf382eb7bd953c21a40"
+  },
+  "dao4": {
+    "sample": "到",
+    "duration": 0.48,
+    "sha256": "6ae4df78e74c0ffa95cc4df0b1b5581c7a3e3c612e347181a0b7fc7dfed845fc"
+  },
+  "de0": {
+    "sample": "的",
+    "duration": 0.48,
+    "sha256": "992f0037c8d613f5560b4e7b6cb15497c851e406f4941be46c5a5bfa9a76f76f"
+  },
+  "de1": {
+    "sample": "嘚",
+    "duration": 0.48,
+    "sha256": "2cb2305ab05bfb8ddb612d27a9b7ff47aee36f9912d89eba9d4e4d03638e1c90"
+  },
+  "de2": {
+    "sample": "得",
+    "duration": 0.32,
+    "sha256": "7b6e776abb77af9606c900c50f28caf469d816dda7c9ad96da68037743a11a9e"
+  },
+  "deng1": {
+    "sample": "灯",
+    "duration": 0.4,
+    "sha256": "a257749ef2c0f9146fae364d0157351777092aa7b3322a77b18c3c2f0d65b0d2"
+  },
+  "deng3": {
+    "sample": "等",
+    "duration": 0.4,
+    "sha256": "144d73e4f81f791f1d9b5a3749e7c15659e94bdd8b70b5af586d1cc131064d5a"
+  },
+  "deng4": {
+    "sample": "邓",
+    "duration": 0.32,
+    "sha256": "4d448c3c5d407135fa1b15b8489016db90c22915f303df3e497fa80ee493d68a"
+  },
+  "di1": {
+    "sample": "氐",
+    "duration": 0.64,
+    "sha256": "e94e327489a0b27d01234d5e02a3b98cc946912bf337aca3e575deb40aeff7f5"
+  },
+  "di2": {
+    "sample": "狄",
+    "duration": 0.4,
+    "sha256": "0e84b6450dc90a7173ca93132338eeff8f219d5420213fd187544782b4199d2e"
+  },
+  "di3": {
+    "sample": "诋",
+    "duration": 0.72,
+    "sha256": "d319a361ad40f3e30336a51731c4a7067d75635952437eaea6fce22dc52496a9"
+  },
+  "di4": {
+    "sample": "地",
+    "duration": 0.88,
+    "sha256": "1b268661161d773696d0769aa5e790058c6565c024ee09e4f8662f5f4e9cd28c"
+  },
+  "dia3": {
+    "sample": "嗲",
+    "duration": 0.64,
+    "sha256": "75057b6464a84907e8f8bac52046480b9de413034c0bfec8fa50919eabdade0c"
+  },
+  "dian1": {
+    "sample": "掂",
+    "duration": 0.32,
+    "sha256": "de2486fa996b30260fb50c5bae9f48b520f0ad3de669c4fda3a23c43d67e256a"
+  },
+  "dian3": {
+    "sample": "典",
+    "duration": 0.72,
+    "sha256": "ae3eed900d4f2e7f3f2cb98f73f872514bf52d246c11bddc2473b1d63a8092e4"
+  },
+  "dian4": {
+    "sample": "电",
+    "duration": 0.48,
+    "sha256": "90c1d4f62549e018ea519fdcb8de1514670e479c3260e7c84ba7a5ebe5b43c6e"
+  },
+  "diao1": {
+    "sample": "刁",
+    "duration": 0.32,
+    "sha256": "6949c5d1a94d2792813615e87deca217cf9a868633aa677bb6165b16d3b35487"
+  },
+  "diao3": {
+    "sample": "屌",
+    "duration": 0.46,
+    "sha256": "ccb9c0197f3a8cf73ac8f9be709c87c314d3740e6cbb34dbbb269d67365f1775"
+  },
+  "diao4": {
+    "sample": "吊",
+    "duration": 0.32,
+    "sha256": "e06c58c6f1972d12c525bfaec9b2f3e6c5f6b499407828ee87147712263df947"
+  },
+  "die1": {
+    "sample": "爹",
+    "duration": 0.4,
+    "sha256": "817bec99f3bf220100ce2a68339499c3e5f09d0cf3911cf4900e2f476d03b58f"
+  },
+  "die2": {
+    "sample": "迭",
+    "duration": 0.56,
+    "sha256": "d045fc5100fc05f4045580b6d7bf87d4d302ecad46e0dc5a7c63cbd58c873138"
+  },
+  "ding1": {
+    "sample": "丁",
+    "duration": 0.4,
+    "sha256": "d83ca12a9097c2d658d164ea4198d388f6bc5c28f2a48643cba107ad279c3ca2"
+  },
+  "ding3": {
+    "sample": "顶",
+    "duration": 0.48,
+    "sha256": "1dee9419e8ca29f88f1b980bb221b24aa6acdac22dfdbea8b1ee67a16bda57ad"
+  },
+  "ding4": {
+    "sample": "订",
+    "duration": 0.4,
+    "sha256": "88aebfe1aafac9576dfc36364c950585d3bc1f74112330334ac7318159164578"
+  },
+  "diu1": {
+    "sample": "丢",
+    "duration": 0.32,
+    "sha256": "87ec57415678705e16757d6c2e522f08a1ef29864df4627840449474869dc8d0"
+  },
+  "dong1": {
+    "sample": "东",
+    "duration": 0.64,
+    "sha256": "b6659806d5136306a833fee0bba8aff2e3c5bb0bfff2d0f60c4dcae19ab3a2ab"
+  },
+  "dong3": {
+    "sample": "董",
+    "duration": 0.56,
+    "sha256": "cd77baf43be17e6e1531e9d2b8c50fca505f1b69c423349b812d793c940c826f"
+  },
+  "dong4": {
+    "sample": "动",
+    "duration": 0.48,
+    "sha256": "98cddf1dbbae7d1bd591cbfddcd7b71b74305ae6af00964e7775bf207c5f5284"
+  },
+  "dou1": {
+    "sample": "都",
+    "duration": 0.4,
+    "sha256": "0d0e578c0ecc38ecc9174fdcc5a95706ee0251c56fa9927143360ae189b8387b"
+  },
+  "dou3": {
+    "sample": "抖",
+    "duration": 0.5,
+    "sha256": "08f0809f74543fdf0620d57d1f5b5cf33fd608a4b5bd8b2d6aa0e543b78800da"
+  },
+  "dou4": {
+    "sample": "斗",
+    "duration": 0.4,
+    "sha256": "6a17398655b7fb0e08cd357cfe12407523fb45d45b336ec70154e3882e05cd02"
+  },
+  "du1": {
+    "sample": "嘟",
+    "duration": 0.4,
+    "sha256": "a668b062e6c349d058ec42906abc7cd728a6123ca090560e9784a3524ab89b1a"
+  },
+  "du2": {
+    "sample": "毒",
+    "duration": 0.48,
+    "sha256": "2bcbefd4c3c4b74121f795e4b3f057243e2d5a9bba98ad5fc459aff80a99ecf2"
+  },
+  "du3": {
+    "sample": "笃",
+    "duration": 0.48,
+    "sha256": "7d4cea9bb4e1b8eebe1408c6a0b28d32ae81a49d1f7056173ba284c882b4fc5d"
+  },
+  "du4": {
+    "sample": "芏",
+    "duration": 0.44,
+    "sha256": "ef570f5968d57ec756007f6eeb41374734983e8ddab425574eb616e7fb2a636e"
+  },
+  "duan1": {
+    "sample": "端",
+    "duration": 0.4,
+    "sha256": "165556e499fa4a84dc7bf1165e5171f6c9859267f9c0e1aafc85553781dbaa07"
+  },
+  "duan3": {
+    "sample": "短",
+    "duration": 0.56,
+    "sha256": "16632f74e5347c21040dd6172047471127e647b154d7e4a88134f8eeb04f7767"
+  },
+  "duan4": {
+    "sample": "段",
+    "duration": 0.52,
+    "sha256": "baacf9a5e938a3130684d7bc53bf953ffb51151f712efd79d42ecf02a9e9942d"
+  },
+  "dui1": {
+    "sample": "堆",
+    "duration": 0.32,
+    "sha256": "98190a2f9242181c52d74912d22472279efb22dda2d3b7f813dad5765fa2a282"
+  },
+  "dui4": {
+    "sample": "队",
+    "duration": 0.4,
+    "sha256": "b8849eaea3b3aaa3115972d48899c499eb548e180d1efc3fb468c572e0c51c58"
+  },
+  "dun1": {
+    "sample": "吨",
+    "duration": 0.4,
+    "sha256": "1346a8692b64d6f9a155d025d3e1e25fd6ebfda8fda09bfb94a370a019f72477"
+  },
+  "dun3": {
+    "sample": "盹",
+    "duration": 0.64,
+    "sha256": "45fdca3fd267862263e5519a072df25cbbd0a4dd23f8966ce086b39fe7baca82"
+  },
+  "dun4": {
+    "sample": "沌",
+    "duration": 0.4,
+    "sha256": "416ec2033f153a07f39ffaae45e4364d45b045695099dd508f57af77cafa343c"
+  },
+  "duo1": {
+    "sample": "多",
+    "duration": 0.56,
+    "sha256": "bc47458dedb48b17154144fd3e8da6b73a88c817a783f0540873f08ca5c45fc0"
+  },
+  "duo2": {
+    "sample": "夺",
+    "duration": 0.48,
+    "sha256": "8a378e592f737fc826401e0982a568086d106be52008c2d56c615c22d3eef368"
+  },
+  "duo3": {
+    "sample": "朵",
+    "duration": 0.48,
+    "sha256": "fd10e6a394a1619217c70d34bcbc9e363ea05782143c6256f83099011eb881a4"
+  },
+  "duo4": {
+    "sample": "惰",
+    "duration": 0.48,
+    "sha256": "236849b9bd792cc9f7a7a3f0556abd49708dc2b34af6e35e3953c3df71f28b0d"
+  },
+  "e1": {
+    "sample": "婀",
+    "duration": 1.06,
+    "sha256": "41f19631ba3548bb277eb47061f688fbe31624c7e2ace210813947ca4b3123bb"
+  },
+  "e2": {
+    "sample": "讹",
+    "duration": 0.8,
+    "sha256": "30750030b58ce5a7c7d7949385a2e379c4d6003fc862a03c84bc2335a84a75d0"
+  },
+  "e3": {
+    "sample": "恶",
+    "duration": 0.48,
+    "sha256": "a619a73a1eddd4fcdfab4e65a987faddcc28036cb9ca91489c4668a928ff306f"
+  },
+  "e4": {
+    "sample": "恶",
+    "duration": 0.5,
+    "sha256": "19304ef5fa6e1222d532aa6b0e6e08103325833dd06f601fe26e14de7eac7e02"
+  },
+  "ei1": {
+    "sample": "誒",
+    "duration": 0.5,
+    "sha256": "dc0ad193ae4fe4f87139816183447ad9d9b5139d18c441e7e0e3bc51d9928080"
+  },
+  "en1": {
+    "sample": "恩",
+    "duration": 0.38,
+    "sha256": "3eb58effdd72ab6ab76342366535531e798a41c914c06e51e8069b61ce1e260a"
+  },
+  "en4": {
+    "sample": "摁",
+    "duration": 0.32,
+    "sha256": "d6b7b4c1c5775c168e5b1f267a3a2ca5484d6974faed756340c4affde97ba104"
+  },
+  "er2": {
+    "sample": "儿",
+    "duration": 0.8,
+    "sha256": "1aa685fc69a14281f5a9ef022e8fd6978edc4250980d7e0a9ace767ffde46b55"
+  },
+  "er3": {
+    "sample": "尔",
+    "duration": 0.72,
+    "sha256": "d583a5339cca9fb2d0f397de49613e80a9a85386248bc4b7d7bb3e0abb86bb56"
+  },
+  "er4": {
+    "sample": "二",
+    "duration": 0.32,
+    "sha256": "0dc2e81dc56e234701f9ea7edac5fe992b0d075ce103bd4f5a8a5e7b382cbe39"
+  },
+  "fa1": {
+    "sample": "发",
+    "duration": 0.3,
+    "sha256": "299498374604b8440abbb31b56f0be46811c66ea36e5f33a8b826c27f0d10115"
+  },
+  "fa2": {
+    "sample": "乏",
+    "duration": 0.44,
+    "sha256": "2b17b8d9e22165386d7efa17154146beea340ad1a0f084485acd483b4c884a14"
+  },
+  "fa3": {
+    "sample": "法",
+    "duration": 0.38,
+    "sha256": "b8654226c025c287b9f7d32228cbb47c425553f9f90976cb058a5ae6c8e89e4e"
+  },
+  "fa4": {
+    "sample": "珐",
+    "duration": 0.3,
+    "sha256": "391ea14955af31262e24e614ef05cdfa7ede67179469b968ab5b557fd74d90f2"
+  },
+  "fan1": {
+    "sample": "帆",
+    "duration": 0.4,
+    "sha256": "4caeeab9c82583a35f3225ffcd23eb6dfdb97b1734f27ed59aa1e63c9b0dabb4"
+  },
+  "fan2": {
+    "sample": "凡",
+    "duration": 0.38,
+    "sha256": "5a361b20fda8a299c81914a3072a339f0acee4b2b11e5d37bb853f49b0984410"
+  },
+  "fan3": {
+    "sample": "反",
+    "duration": 0.48,
+    "sha256": "1f0200908b221b13301c4367b37efce9c3e5c491709a1a996809d618cbd7b846"
+  },
+  "fan4": {
+    "sample": "犯",
+    "duration": 0.32,
+    "sha256": "42fad261b97888b2217761e3323796d11fff95cea6614e9e7349ad9c5053149b"
+  },
+  "fang1": {
+    "sample": "方",
+    "duration": 0.5,
+    "sha256": "32e1cb9787515a1261f83efa19e380ad85c100af6e46a7c6d2526d4a9c9d29ea"
+  },
+  "fang2": {
+    "sample": "防",
+    "duration": 0.44,
+    "sha256": "6790d60f63537ef90a7e5d78ed64e0b8aef339bac5e84d8233de906afccf5c2f"
+  },
+  "fang3": {
+    "sample": "仿",
+    "duration": 0.76,
+    "sha256": "ad0e07b85fa8192061cd38d21747d9de0ae05585a3f4484c51c953642bfe0bd4"
+  },
+  "fang4": {
+    "sample": "放",
+    "duration": 0.36,
+    "sha256": "81c0f420b0b3954e02604065478b6c48bb3b2086996ed6c1d137d5e47a0e509e"
+  },
+  "fei1": {
+    "sample": "飞",
+    "duration": 0.66,
+    "sha256": "f8795d66c4f1ead0116e83a26af3d76a97704b1358a17b1b31fb1cf71703ab2e"
+  },
+  "fei2": {
+    "sample": "肥",
+    "duration": 0.44,
+    "sha256": "d36edbce32445d49b9c71eaa73852cd90d58ab36ff3a61383e259c582a3065e5"
+  },
+  "fei3": {
+    "sample": "匪",
+    "duration": 0.72,
+    "sha256": "f91ef39ed1bf8f03249f0562087b8ccd8d93bda6e724c7e58d819efeacdd6739"
+  },
+  "fei4": {
+    "sample": "吠",
+    "duration": 0.36,
+    "sha256": "59a416077a9243e2b85ed096d7cfd2f0e19cd485a817368f9ac1db216b7dda97"
+  },
+  "fen1": {
+    "sample": "分",
+    "duration": 0.64,
+    "sha256": "a0b331cf05026713be524ed51b38531592997c8d8387c7a1c0527d1f36af2459"
+  },
+  "fen2": {
+    "sample": "坟",
+    "duration": 0.46,
+    "sha256": "3b0bbe25162ca1af74f44fefc08ecea95f5fc8ee9d771d2fb509a86b8ff77eba"
+  },
+  "fen3": {
+    "sample": "粉",
+    "duration": 0.62,
+    "sha256": "3e7e0b6f8348be6e25ee6d83c93789fbfe33958b7650d5ee0b90b55f81cce07c"
+  },
+  "fen4": {
+    "sample": "份",
+    "duration": 0.5,
+    "sha256": "3de768c5254d06797dd7f9012784ba47ca821d4806b17e243021a19a5e993616"
+  },
+  "feng1": {
+    "sample": "丰",
+    "duration": 0.64,
+    "sha256": "e98015442644c5df9999e0151147819f9cb877319b103a716920a2e971e6fe46"
+  },
+  "feng2": {
+    "sample": "冯",
+    "duration": 0.5,
+    "sha256": "8d5653940f0b85b44910946edd976ef53ada79f98679ec7e6e143caeb0b0b522"
+  },
+  "feng3": {
+    "sample": "讽",
+    "duration": 0.52,
+    "sha256": "76680ae4e242d7df91ad9143ce710657827c237286460bd114606bc06df9cdaf"
+  },
+  "feng4": {
+    "sample": "凤",
+    "duration": 0.46,
+    "sha256": "2b8babd569ad6699e5052a27615926d8613f12337e01062498adb3f197628de7"
+  },
+  "fo2": {
+    "sample": "佛",
+    "duration": 0.38,
+    "sha256": "4bbbb9d22e715f175db755781a323a907d70ff29e34bc9eeeadb9d28b4157aff"
+  },
+  "fou3": {
+    "sample": "缶",
+    "duration": 0.5,
+    "sha256": "1d0a2fc06cd833eab243c48ebea0205ab336e9b927cb16f1d9bba71dc818e645"
+  },
+  "fu1": {
+    "sample": "夫",
+    "duration": 1.0,
+    "sha256": "de6601777756e1d3cd75a76acb3b587f8ead9fe6b67410e1ef6ac0bf5d671be5"
+  },
+  "fu2": {
+    "sample": "弗",
+    "duration": 0.44,
+    "sha256": "6890d00bdb29e070ebb87af7847965c65dfd81eb57887e6a3d8287b830994889"
+  },
+  "fu3": {
+    "sample": "呒",
+    "duration": 0.4,
+    "sha256": "fafc87c2cffc04e9e0ea95da009938f02ff9c9e38dffebe67445426fd72ddae2"
+  },
+  "fu4": {
+    "sample": "父",
+    "duration": 0.36,
+    "sha256": "6be1e5900f65f58e1f13fd457e39c4707fff9613f1b4a23b96c3c2bef2f2f215"
+  },
+  "ga1": {
+    "sample": "旮",
+    "duration": 0.4,
+    "sha256": "8d9de25c9a5eb9ebc2b38577a30a85bebacf78819f14e0c7aeafb7ee621e7c45"
+  },
+  "ga2": {
+    "sample": "钆",
+    "duration": 0.4,
+    "sha256": "91eb3c38c0c6c55f6221e90ee2ce2c7a99951d754f786e227118453a67711c2b"
+  },
+  "ga3": {
+    "sample": "尕",
+    "duration": 0.56,
+    "sha256": "f44afc94fd1283f66d694bbfe4ab176585aaef80b2309fc4c780ba0e80215136"
+  },
+  "ga4": {
+    "sample": "尬",
+    "duration": 0.48,
+    "sha256": "391f23048936ad6a9fdf858822287089707cfb6a35bca0ac3ebee7d0786657b4"
+  },
+  "gai1": {
+    "sample": "该",
+    "duration": 0.48,
+    "sha256": "f33c128ff5df3e4f5423ce4ec50cb8f8609cd08dcb98c070ca9ed9b80777e6ea"
+  },
+  "gai3": {
+    "sample": "改",
+    "duration": 0.4,
+    "sha256": "4781e69ecc3f2ddfbbe2fbfe1cad3d9895b325d08442071c3cc4681f2c86e8d0"
+  },
+  "gai4": {
+    "sample": "丐",
+    "duration": 0.4,
+    "sha256": "d23e0c1d516dca55ccfb1e784a60178df5dac103eff1f4ba942e9f1ef67563d3"
+  },
+  "gan1": {
+    "sample": "干",
+    "duration": 0.48,
+    "sha256": "eb5442d2daa6a5f1a80b92dc62dc9a30dab61eacf307248ee83325ff3170e5af"
+  },
+  "gan3": {
+    "sample": "秆",
+    "duration": 0.5,
+    "sha256": "d43b6cca276d1c8172b0f529978f1d857f498212f2ac9a759a1f62e76d37f680"
+  },
+  "gan4": {
+    "sample": "干",
+    "duration": 0.48,
+    "sha256": "127efdef3669e1086d4dededdae5a270e268198024664c85e2543a927f8d07ea"
+  },
+  "gang1": {
+    "sample": "冈",
+    "duration": 0.4,
+    "sha256": "5143f1ca8a397e4359b9cce17975b4bfa1460eb3412f208d3d293ce24f877a04"
+  },
+  "gang3": {
+    "sample": "岗",
+    "duration": 0.56,
+    "sha256": "9b641aa74e70bba0aa78e541494b25b1570802f59886c445f7804351dca34892"
+  },
+  "gang4": {
+    "sample": "杠",
+    "duration": 0.32,
+    "sha256": "34b7cc7bc39c1bb112370e99f5a21937aefae3b643197770ed19fa3d9103b854"
+  },
+  "gao1": {
+    "sample": "皋",
+    "duration": 0.56,
+    "sha256": "37098fa541fe1d4c0fb4cf78489b2db2d79843e9cdbffff3c5a58e3b73425335"
+  },
+  "gao3": {
+    "sample": "杲",
+    "duration": 0.56,
+    "sha256": "531144543573a92f001792dac766a745ea236c6b465c494af2f30b6d25cad31e"
+  },
+  "gao4": {
+    "sample": "告",
+    "duration": 0.64,
+    "sha256": "e07931c26f5b34146b162989ac3404678e44b1b2b9a5324d8ba779dd264c7384"
+  },
+  "ge1": {
+    "sample": "戈",
+    "duration": 0.32,
+    "sha256": "7b6d5822410d91653337d79d68f112836890a532ccd7ac41156c3a9c45a38a2c"
+  },
+  "ge2": {
+    "sample": "阁",
+    "duration": 0.4,
+    "sha256": "96137f535ea8f512e0e465b221dcf48d2482a90ae5b93d657c9e454ef3f7bbf9"
+  },
+  "ge3": {
+    "sample": "哿",
+    "duration": 0.38,
+    "sha256": "2ab54e65c8204e8c54f48ed8253e5d61ed6df1b98b56b58d048857efdae5d7fa"
+  },
+  "ge4": {
+    "sample": "个",
+    "duration": 0.48,
+    "sha256": "5748b380bc85ff031cf2837e11e7c2668a42f2ea67007eb2310bffec325de869"
+  },
+  "gei3": {
+    "sample": "给",
+    "duration": 0.32,
+    "sha256": "91eaf1993ce69159a7acd5b3fd0649b786f31ea729f66eedcca841f61269a11e"
+  },
+  "gen1": {
+    "sample": "根",
+    "duration": 0.56,
+    "sha256": "7ec02554387219b1f86bd8787c904cad24d1b5e4149130601730dc834c70a63d"
+  },
+  "gen2": {
+    "sample": "哏",
+    "duration": 0.48,
+    "sha256": "8cd880d08e4fb424a36482f43efc2da90187e9cc9ed38bbeca751cb88a5142e7"
+  },
+  "gen4": {
+    "sample": "亘",
+    "duration": 0.48,
+    "sha256": "cfb8fecef0bf707aa2bc725bfb99f506a7db55d02854f4da7650a8ae1522f019"
+  },
+  "geng1": {
+    "sample": "庚",
+    "duration": 0.56,
+    "sha256": "c59288b8a8ae9a06c2732c243508eb09c47f2b7aac7ee23c313fe6ba473324c8"
+  },
+  "geng3": {
+    "sample": "哽",
+    "duration": 0.56,
+    "sha256": "f0d87783d9ee2b427d37cf7c17836f174be0f3e645665af74feb0e91a6e28bdb"
+  },
+  "geng4": {
+    "sample": "更",
+    "duration": 0.56,
+    "sha256": "eb82ce9f92fee97d75fd3b4618e052ede03a8890198dc47d04212a49622b90b4"
+  },
+  "gong1": {
+    "sample": "工",
+    "duration": 0.32,
+    "sha256": "d594797db7c63cab4196698f018488eb739e613a9bd022a9209acbcc68c9ec52"
+  },
+  "gong3": {
+    "sample": "廾",
+    "duration": 0.52,
+    "sha256": "87be87d97508cc7d13d8aa1f7932599a263513273a636066d0c557c56efb19df"
+  },
+  "gong4": {
+    "sample": "共",
+    "duration": 0.48,
+    "sha256": "41b94ac7556b99c296925a76eb5031274a6420b6ebd2ae26d8453aa8ab818001"
+  },
+  "gou1": {
+    "sample": "勾",
+    "duration": 0.4,
+    "sha256": "feb7efde18941c9d47b0bd93254945ac961f2a0f40942187961329ef05025e9a"
+  },
+  "gou3": {
+    "sample": "岣",
+    "duration": 0.48,
+    "sha256": "7298886e6b88121d2d576d277b5b707622d7755f9aa9284a2fa07d7fa7f84785"
+  },
+  "gou4": {
+    "sample": "构",
+    "duration": 0.4,
+    "sha256": "4e171735c0c5ebf8c606902b1724bb5407f4c827ff2cbc720694e99082cd637a"
+  },
+  "gu1": {
+    "sample": "估",
+    "duration": 0.4,
+    "sha256": "d6e18e2b7d12dac708838c91095dbdaead574b7b911d2e77647c260132f1d3db"
+  },
+  "gu3": {
+    "sample": "古",
+    "duration": 0.56,
+    "sha256": "73c7e50543316c703b1c077e93903a8f7afcd436c2ced5eeaab6c39c045c6ce6"
+  },
+  "gu4": {
+    "sample": "固",
+    "duration": 0.64,
+    "sha256": "a0f7e922320d7dd25473a5887527334bd30ba12e1a179e8089685135ade9edd9"
+  },
+  "gua1": {
+    "sample": "瓜",
+    "duration": 0.48,
+    "sha256": "945ccb947c05ef101c1a32afa3b499a1136d6cc0a7de737d7b9c44679c1587f5"
+  },
+  "gua3": {
+    "sample": "剐",
+    "duration": 0.96,
+    "sha256": "37814a5b52c0193ba6d8ed4852d7798f8d210a30da728ba9b2fa5b8370a10dda"
+  },
+  "gua4": {
+    "sample": "卦",
+    "duration": 0.4,
+    "sha256": "8f424ade9a91300b7ef9972d6434ce835aea45087b9f558a535b9a53fb048596"
+  },
+  "guai1": {
+    "sample": "乖",
+    "duration": 0.48,
+    "sha256": "5a421a17726b1424a1a8f53c8d1ae7f741e89104b6a45dd60aff225fa6a4465a"
+  },
+  "guai3": {
+    "sample": "拐",
+    "duration": 0.4,
+    "sha256": "ec7f3a22d3de2d80f30ad0721ec25ef790cf39840a057667e534fc137891d0c9"
+  },
+  "guai4": {
+    "sample": "怪",
+    "duration": 0.56,
+    "sha256": "815cb3d75008ca157b12ad3e19a558137b1783a0da015ead91bebc9cbefc1c96"
+  },
+  "guan1": {
+    "sample": "关",
+    "duration": 0.4,
+    "sha256": "6da736a4fb052b4c39e1a3f4b0ade6e7bdf28c22312f42e18b02923df2fa73f9"
+  },
+  "guan3": {
+    "sample": "馆",
+    "duration": 0.48,
+    "sha256": "1f7604ea6c16d7b42cbecb52fe23e97e3edf45475674de89641bac403dc28fa7"
+  },
+  "guan4": {
+    "sample": "贯",
+    "duration": 0.48,
+    "sha256": "98e0d857f483c995bc2f29756142bbc813270cecdc518c73c344080fe6d5f799"
+  },
+  "guang1": {
+    "sample": "光",
+    "duration": 0.4,
+    "sha256": "2859602dbe880da9fd68104aaef65e3a36d7d9140263cd02c045ace382e2cbbc"
+  },
+  "guang3": {
+    "sample": "广",
+    "duration": 1.2,
+    "sha256": "86bd48a1b9f249d31bd3304b747e9ba6a2b322836dc6258d3f3243f3e8fe1190"
+  },
+  "guang4": {
+    "sample": "桄",
+    "duration": 0.72,
+    "sha256": "904b948df5e0f5fd7015d521b619912914a9c67dcdf6df2730cc5cfe19b84862"
+  },
+  "gui1": {
+    "sample": "归",
+    "duration": 0.48,
+    "sha256": "31da2e93a86d769e77deaedf9d5c011e19ce0e64c5eb27593c9d14cad6d5d7fa"
+  },
+  "gui3": {
+    "sample": "宄",
+    "duration": 1.04,
+    "sha256": "f795cbd1a6138a9951a5b6d13f9ff468713d91a1796c2bd508c0f42c6afef18c"
+  },
+  "gui4": {
+    "sample": "刽",
+    "duration": 0.56,
+    "sha256": "a6745899b1ed8ad9b16b4cb963914d43a910aa419fa7a6d90c33adee2a78831f"
+  },
+  "gun3": {
+    "sample": "衮",
+    "duration": 0.56,
+    "sha256": "3dc915d57997df0b78c7322052a46fa10c81b5c5a577b2a0e1288b13c43261ec"
+  },
+  "gun4": {
+    "sample": "棍",
+    "duration": 0.4,
+    "sha256": "b69f0d4a5526519d4ccb37b664637ee91f3344d2632823a3cbd7c07a60036b40"
+  },
+  "guo1": {
+    "sample": "呙",
+    "duration": 0.72,
+    "sha256": "d6a8d5f18a8a56f77e0511f1b47f5965f598491d51549fc66031d451b1ce5389"
+  },
+  "guo2": {
+    "sample": "国",
+    "duration": 0.56,
+    "sha256": "a2bbb0822221fd695aad46c54e3ab9c6d40a7f4920e3ccd458bb62e1aff56e34"
+  },
+  "guo3": {
+    "sample": "果",
+    "duration": 0.56,
+    "sha256": "d6b8eab27f321585b7c37a6a5f829776cbd138fb81fe240bc6c1c6e2549dbae5"
+  },
+  "guo4": {
+    "sample": "过",
+    "duration": 0.5,
+    "sha256": "6992aaf634cca54d9c0fc7d921546a849211589823478922d9ada3952fb4dfef"
+  },
+  "ha1": {
+    "sample": "哈",
+    "duration": 0.54,
+    "sha256": "e2b1706a2ad8f19eb0b87113bd28e72ad7c12855da304c4f3cf70b2f4269d9d2"
+  },
+  "ha2": {
+    "sample": "蛤",
+    "duration": 0.4,
+    "sha256": "69124b0e6e554442c7df59978fc7eadbd6557f12c8f658248091eded8b610c02"
+  },
+  "hai1": {
+    "sample": "咳",
+    "duration": 0.56,
+    "sha256": "7c4a2b61e94d14491e67fc64f3482b61ace19aa9aa01bcf1cf8ae5b0de20c872"
+  },
+  "hai2": {
+    "sample": "还",
+    "duration": 0.48,
+    "sha256": "ced2885267a7bfb82c932ab42f9169d51b82fdad0bb5b0008c4653572339af77"
+  },
+  "hai3": {
+    "sample": "海",
+    "duration": 0.88,
+    "sha256": "1fee506d3b50f8e43bb072dd163d3f0c7812dc6b491f6713b091836a761b6d8f"
+  },
+  "hai4": {
+    "sample": "亥",
+    "duration": 0.5,
+    "sha256": "316585ecc2ff4bb2754fac1d63d164e12bf557c4fe0f2eb85036441088afb773"
+  },
+  "han1": {
+    "sample": "顸",
+    "duration": 0.64,
+    "sha256": "e7020baabebabc4b54adf3f9716eb414cb4e956f142e4c8185418b80207301e5"
+  },
+  "han2": {
+    "sample": "邗",
+    "duration": 0.48,
+    "sha256": "d1155f8a22a4428eca4403136da2249a46bad50817f80b67702d81b23c457110"
+  },
+  "han3": {
+    "sample": "罕",
+    "duration": 0.4,
+    "sha256": "a31e17e0975f57296c1cfd45f68ca50d9ee226259ab506dd786cdc2b73f6613c"
+  },
+  "han4": {
+    "sample": "汉",
+    "duration": 0.4,
+    "sha256": "05b825e042f7677edeeae883e0d87c103b9b6c003879c89a0e7dedf708022042"
+  },
+  "hang1": {
+    "sample": "夯",
+    "duration": 0.4,
+    "sha256": "8df335fe8a8f61a71b34e16f5bd17c9db5116abb4044ce622e4da9d3ab4a6a2f"
+  },
+  "hang2": {
+    "sample": "杭",
+    "duration": 0.56,
+    "sha256": "c7f43f54f1b09b75b46123df0556404509fa5e4f43b316798b3fcc36650f8ae9"
+  },
+  "hang4": {
+    "sample": "沆",
+    "duration": 0.64,
+    "sha256": "2ae2d97d715baa5c21e25c2f65fe046dd957c4b92b2379d41fd4e56325cdef75"
+  },
+  "hao1": {
+    "sample": "蒿",
+    "duration": 0.48,
+    "sha256": "5402b04e0f1680cd4cb32abeb1a3a0b4adbc4acab7241e6b97268d602f81f684"
+  },
+  "hao2": {
+    "sample": "蚝",
+    "duration": 0.72,
+    "sha256": "bb2889e73b8d039208d5ac7101ebba7bdeb7df98c8da8e5f2b45b8f4005c19e2"
+  },
+  "hao3": {
+    "sample": "好",
+    "duration": 0.4,
+    "sha256": "9c5ba978763bcc5e830622db113d21b65ed5b389d2064c3c7febe90a55e1e5e9"
+  },
+  "hao4": {
+    "sample": "号",
+    "duration": 0.56,
+    "sha256": "a4ec0bea7f6132dc2fc7aa33c848cf8c3f656c9832e26f521360b86c32583248"
+  },
+  "he1": {
+    "sample": "诃",
+    "duration": 0.48,
+    "sha256": "4f8892f9dcad22793a81a2f313d4d3e7d67f66c3660f0e1093f6ec13a1e9751e"
+  },
+  "he2": {
+    "sample": "禾",
+    "duration": 0.48,
+    "sha256": "86c64df22bf72cd77ed2b48a2bcce728337589a12346d3d9c96350cb0b448c20"
+  },
+  "he4": {
+    "sample": "贺",
+    "duration": 0.48,
+    "sha256": "c0f05c6b77a1b21f53e7a4855c8de17f7d3a03f0e1094b630ab19fca66b26053"
+  },
+  "hei1": {
+    "sample": "黑",
+    "duration": 0.62,
+    "sha256": "e787773ffcfd978e763238ca3edea0b8f5edf59667ba316f9f8c062d22231ede"
+  },
+  "hen2": {
+    "sample": "痕",
+    "duration": 0.62,
+    "sha256": "6f4e3f2cefdb2424fc030a85d59b32c1026c724d74209538f89dab9c722955cb"
+  },
+  "hen3": {
+    "sample": "很",
+    "duration": 0.32,
+    "sha256": "1cf74483e011dfa0168fbd36c6a577fecc0406171aa1478e6bae9aa8dff8f464"
+  },
+  "hen4": {
+    "sample": "恨",
+    "duration": 0.5,
+    "sha256": "0469c13670aa520a1ae326142a16fe870c29ae20da1d8e9cdb5c3e533fb1c58d"
+  },
+  "heng1": {
+    "sample": "亨",
+    "duration": 0.48,
+    "sha256": "cc1bced7235120a7f16642e6c831e060cb19853d689fd1eb1373eba307ad8392"
+  },
+  "heng2": {
+    "sample": "恒",
+    "duration": 0.72,
+    "sha256": "0004a655e8b51348d1ea0abf17c26e0a3cc6b15d0b3a5427d42aed5fc1cd2c3b"
+  },
+  "hong1": {
+    "sample": "轰",
+    "duration": 0.5,
+    "sha256": "f90097745a2276ea42b2ecfa9cf9551f7692fec12146d08a99a39ea92b998626"
+  },
+  "hong2": {
+    "sample": "弘",
+    "duration": 0.6,
+    "sha256": "1621e0d066c2215238366d254accd7dfc967913aaeb02d5c6bff360c1470d179"
+  },
+  "hong3": {
+    "sample": "哄",
+    "duration": 0.54,
+    "sha256": "2544d3f969b40d3b49773ffc3db916cf50c903876d3cb3f3bf053d210aae674c"
+  },
+  "hong4": {
+    "sample": "讧",
+    "duration": 0.56,
+    "sha256": "d743069ee59538b079cf6b706b3a5f0d13da843eafe389bcbbc578eeeb4417a1"
+  },
+  "hou2": {
+    "sample": "侯",
+    "duration": 0.54,
+    "sha256": "9a0dd207c0014d3acfabbed27976c776f23d9c09dbb8339c14fbe871cb0deaf5"
+  },
+  "hou3": {
+    "sample": "吼",
+    "duration": 0.62,
+    "sha256": "e77b0ada2575aaa2dc2cc8db8c0c6ba8b74e0839e5c2bdc35a58797b3a4d2b65"
+  },
+  "hou4": {
+    "sample": "后",
+    "duration": 0.4,
+    "sha256": "15a99bbb2282a8897637c6cc8c77e319fb9ce63c7df4a5287bd6138209d84d13"
+  },
+  "hu1": {
+    "sample": "乎",
+    "duration": 0.3,
+    "sha256": "84d212071fcdca480f9d2eadc6321fa45b6c65cbfc5dad6351b1883365bd8e24"
+  },
+  "hu2": {
+    "sample": "囫",
+    "duration": 0.8,
+    "sha256": "2a680b99a19fabdcbc94e8597ad58defc528f3063882db895fd327ce36139651"
+  },
+  "hu3": {
+    "sample": "虎",
+    "duration": 0.64,
+    "sha256": "9ba69d3e78726f04a524041bb03fc0841084db27113dc897c15dd162a59c6301"
+  },
+  "hu4": {
+    "sample": "互",
+    "duration": 0.7,
+    "sha256": "7ba3e35a2fb4f15f1bfaf022a0209dafe880aa7925f42a20e8acbcd6256d8982"
+  },
+  "hua1": {
+    "sample": "花",
+    "duration": 0.4,
+    "sha256": "cd05f9347ffc8a6ce8722e2053b0e09bfccc8c26ac978412a9cadd371b459975"
+  },
+  "hua2": {
+    "sample": "华",
+    "duration": 0.32,
+    "sha256": "b32003daa18bae32698d7e9f6b0915308dae30895f8f12ca8747167896eaed73"
+  },
+  "hua4": {
+    "sample": "化",
+    "duration": 0.56,
+    "sha256": "035072b09d61eb900ea3629172fe239ad857aefd02c6c276f46c49135a918472"
+  },
+  "huai2": {
+    "sample": "怀",
+    "duration": 0.4,
+    "sha256": "45152017411bb308c90f0ea80ada9c5f85c1478107dc3f2dbda43395de26bf4f"
+  },
+  "huai4": {
+    "sample": "坏",
+    "duration": 0.64,
+    "sha256": "48a4f33b496c49fe3d691ab3b34f4820e72953b4e37ab961badd33b6c9db92bb"
+  },
+  "huan1": {
+    "sample": "欢",
+    "duration": 0.48,
+    "sha256": "07fc81f9818620339c8ad81b98d2bd9f33cb45f12a453e72ec83d23a2b2115b3"
+  },
+  "huan2": {
+    "sample": "环",
+    "duration": 0.7,
+    "sha256": "0a5eaac5b36f46f02568c7000e2cf404a233c27db164a1d42003528a53c4356a"
+  },
+  "huan3": {
+    "sample": "缓",
+    "duration": 0.4,
+    "sha256": "c347f180b17eaf0ad753ac7ba7514ac9556d2325c1dbca72d22c0f8cb2158b8e"
+  },
+  "huan4": {
+    "sample": "幻",
+    "duration": 0.52,
+    "sha256": "b37d2fd9918e9cf1a36399d13dfddf96c0751a87a869e4cb2841c23e8476739b"
+  },
+  "huang1": {
+    "sample": "肓",
+    "duration": 0.36,
+    "sha256": "f9d197274da02276048914eee2772f35567b3567457201b139a52abcd97a0c71"
+  },
+  "huang2": {
+    "sample": "皇",
+    "duration": 0.4,
+    "sha256": "1c95560e345a4824289be7f925fb65a439acc052e86d64608ccf2d49294e7b9c"
+  },
+  "huang3": {
+    "sample": "恍",
+    "duration": 0.62,
+    "sha256": "b96c26c0dba44dbf0c67a75584d9d5c5bc3269ba0db1c8e4eaaace0e39ee31b4"
+  },
+  "huang4": {
+    "sample": "晃",
+    "duration": 0.5,
+    "sha256": "5dae8b58f1970e0732bef14ec70bd7fbd88bbb2c08d68de1e3d1cbc289defa97"
+  },
+  "hui1": {
+    "sample": "灰",
+    "duration": 0.62,
+    "sha256": "5d442f4435f972753631d988a04c0fa69d66675e720e7d1589a0220e47326d77"
+  },
+  "hui2": {
+    "sample": "回",
+    "duration": 0.32,
+    "sha256": "4831b019a6c994670b063cce23783348d23037ece99c2455ad627ca3a1b34711"
+  },
+  "hui3": {
+    "sample": "悔",
+    "duration": 0.62,
+    "sha256": "614b3241256861b2a560d0e426c0bd6bbe7f1bdc9325c0d57687263896d32384"
+  },
+  "hui4": {
+    "sample": "卉",
+    "duration": 0.5,
+    "sha256": "d77dcc7c1150ef3db16a318c23cbabaffaf40dbed7c9b8c156591fa18d23044b"
+  },
+  "hun1": {
+    "sample": "昏",
+    "duration": 0.4,
+    "sha256": "afc6c7e159520a831f8b2789113c3a9b327cf4f9f6873af86ac25f9330d3469f"
+  },
+  "hun2": {
+    "sample": "浑",
+    "duration": 0.5,
+    "sha256": "32260ebd04eeeacae7de3670034e0d34c15cd9f9ca4e1203c4ce83042f78b520"
+  },
+  "hun4": {
+    "sample": "溷",
+    "duration": 0.6,
+    "sha256": "6759947f87c7f9a9a1c3ed1fa4ca0ced514efae85677eeeec81f61d662fc7b59"
+  },
+  "huo1": {
+    "sample": "耠",
+    "duration": 0.5,
+    "sha256": "e93ca5c604c3238c352f87c8d0180e1bf15cc9303bac3206b7bfcaea0b833fe5"
+  },
+  "huo2": {
+    "sample": "活",
+    "duration": 0.56,
+    "sha256": "7b08084ebf17334eaa8ef3cfdd25b1c2f2e4c5b5e1070ff21ac1a0dea3113dda"
+  },
+  "huo3": {
+    "sample": "火",
+    "duration": 0.46,
+    "sha256": "66a2f69334c6225774fc22567a82aa9dc0a43fed3f3945f297d0c2cc0049b1a8"
+  },
+  "huo4": {
+    "sample": "或",
+    "duration": 0.48,
+    "sha256": "ea562c6f90bfa0cb71f8eda8fbd462f8cba7a6ac50b825c8e1ae3876897a5053"
+  },
+  "ji1": {
+    "sample": "箕",
+    "duration": 0.48,
+    "sha256": "aae879acef37e3365e308e1d1cdf6a23bc574831ff19459a383020dedd79d7b3"
+  },
+  "ji2": {
+    "sample": "辑",
+    "duration": 0.72,
+    "sha256": "4ee6dce0f3e4d528a14df3e1ff1f45581d43d2aa4c9f537e96ffbe383d5b1e2c"
+  },
+  "ji3": {
+    "sample": "几",
+    "duration": 0.48,
+    "sha256": "9f9d1fecf5e1fd2eddd97ba376f652e0560c399c8c6ca18ee5d2c7c8a2676ea4"
+  },
+  "ji4": {
+    "sample": "计",
+    "duration": 0.48,
+    "sha256": "76e3d979f4027dfc77a3532cc1edcd13de53f84192153964fb8576412bc7f2bd"
+  },
+  "jia1": {
+    "sample": "加",
+    "duration": 0.32,
+    "sha256": "ec3cb40aa24c507d19441d73b8b7fb9a143d203f6751b446521fe2337da9add4"
+  },
+  "jia2": {
+    "sample": "夹",
+    "duration": 0.56,
+    "sha256": "564b4074a2dfe11fc1b0f8dd270db4d15dadd2bd96945b65b7b05ff9fa7a6b84"
+  },
+  "jia3": {
+    "sample": "甲",
+    "duration": 0.72,
+    "sha256": "cbe1e98412e559a772a0c3dd52a5c090f7056f4a63d9c8181ef2a043ccc90445"
+  },
+  "jia4": {
+    "sample": "价",
+    "duration": 0.38,
+    "sha256": "70eb9fce0b0f702597836f0589ab70db4be986c98a65390a44e221ad3dad47d2"
+  },
+  "jian1": {
+    "sample": "戋",
+    "duration": 0.5,
+    "sha256": "8349a84960b7a7049f54cc5b2b1fc6f4283786168c42bd6f09da1cd1bfb6138b"
+  },
+  "jian3": {
+    "sample": "囝",
+    "duration": 0.5,
+    "sha256": "180065ea336df490ff61ff5bb91aa0a3464686b1f2558c5c38f4555b02715cf1"
+  },
+  "jian4": {
+    "sample": "见",
+    "duration": 0.4,
+    "sha256": "3ab2bcf5fe5f9738b19ab11c4bc87c652bea06ae8ff2432d6ad0a7edf0bf4354"
+  },
+  "jiang1": {
+    "sample": "江",
+    "duration": 0.6,
+    "sha256": "54d53c5b0b6f2b7e99baeca9376c71e7ea11b4858405733520fb9a37dcb3499e"
+  },
+  "jiang3": {
+    "sample": "讲",
+    "duration": 0.62,
+    "sha256": "ce38de464a6be14ed3eb04cf25ce56ce8616dc18b56bf33a760050ebcb80ca07"
+  },
+  "jiang4": {
+    "sample": "匠",
+    "duration": 0.32,
+    "sha256": "c1d9ca844d4720057938401ba8a86c53da96212a7d4ebd735c9f6b229e4eecf1"
+  },
+  "jiao1": {
+    "sample": "艽",
+    "duration": 0.64,
+    "sha256": "05828584b675e8730435c6b5abe328ade71adc2dc6431b29c882e3179d1b5aeb"
+  },
+  "jiao2": {
+    "sample": "嚼",
+    "duration": 0.56,
+    "sha256": "efa5b145261f938578e7e3d8079ffe82e5aba5ffb0efc87c7cea1b9783c00610"
+  },
+  "jiao3": {
+    "sample": "角",
+    "duration": 0.4,
+    "sha256": "a634d424410740a09f2131c13a3d4e9d16c31f7e9107d547c6cedbd9ef59e010"
+  },
+  "jiao4": {
+    "sample": "叫",
+    "duration": 0.32,
+    "sha256": "1b0723e20f1105ee97a4cfecec0b5f4b1085abeae6fac6642b26c3a8f7336f46"
+  },
+  "jie1": {
+    "sample": "阶",
+    "duration": 0.32,
+    "sha256": "3ac8dd7aa4caf1f40765cade91d178f0e406db7b8cbda358a1abf0b4b1f81997"
+  },
+  "jie2": {
+    "sample": "孑",
+    "duration": 0.56,
+    "sha256": "488cbcf8c6faafa5d409cf189512da8b24ac2743773ece9536eb2f0be942b9eb"
+  },
+  "jie3": {
+    "sample": "姐",
+    "duration": 0.5,
+    "sha256": "063fcd4e4636b2fe31f142a71f100898fa86d6fedad7509b1e04dbb067099b26"
+  },
+  "jie4": {
+    "sample": "介",
+    "duration": 0.48,
+    "sha256": "69c9fbd2b9ce3aa6ccac21053540b127bd07e5fa7768dad30a3432126a7f34ae"
+  },
+  "jin1": {
+    "sample": "巾",
+    "duration": 0.4,
+    "sha256": "e4e31db24216fa4af12d8aef050e53802ea7457b507e4e4bffdffbac4a4f3f2c"
+  },
+  "jin3": {
+    "sample": "仅",
+    "duration": 0.5,
+    "sha256": "e839a24227521c17994a28b01b5dd8e32310c36d646b3d97a2b28e7895226246"
+  },
+  "jin4": {
+    "sample": "尽",
+    "duration": 0.32,
+    "sha256": "b491646b398b40caf1f3691cbd4299921abdfb55a66a504edc2d9585e3244f5d"
+  },
+  "jing1": {
+    "sample": "京",
+    "duration": 0.38,
+    "sha256": "9a9d7031dd0ffb98f82db85d948172e78ba03edcd102a69ec60e901a7cbad036"
+  },
+  "jing3": {
+    "sample": "井",
+    "duration": 0.4,
+    "sha256": "68d2dcf37614e7a6dbc2ab0ff4a6840650c69f2bd8945b6d927bb06aa6a199de"
+  },
+  "jing4": {
+    "sample": "净",
+    "duration": 0.48,
+    "sha256": "00b2c449793eae2082dbeb7bd95ebe4e722381da3ae4a426b1118fd3035fb661"
+  },
+  "jiong1": {
+    "sample": "冂",
+    "duration": 0.4,
+    "sha256": "a74d3e564be25c32f36fb11ebd33ab935478491b6b9e1eb8b8a9fab307b836f2"
+  },
+  "jiong3": {
+    "sample": "炅",
+    "duration": 0.56,
+    "sha256": "d341824b741f3f94a676cec4fb943ac015e6fb1cf4a3a24d54092c995c4a7f3e"
+  },
+  "jiu1": {
+    "sample": "纠",
+    "duration": 0.4,
+    "sha256": "3131b56954b7db17d4f277092b74c8aad11fd39637e8f85c2ce84766473ffa6b"
+  },
+  "jiu3": {
+    "sample": "九",
+    "duration": 0.72,
+    "sha256": "b80248afc9a1e730ab2449d3d401a5a6c2e8a3f341d37b870f34459035d8e4c2"
+  },
+  "jiu4": {
+    "sample": "旧",
+    "duration": 0.5,
+    "sha256": "ba3ab61282eaa76d87de242823fb28c863e93bf1d759e128197f2f9c457ddbc0"
+  },
+  "ju1": {
+    "sample": "居",
+    "duration": 0.48,
+    "sha256": "9878b2152a1ead32a2460f22eada08961fd728ce9fab62ae62a70cce879ec8d0"
+  },
+  "ju2": {
+    "sample": "局",
+    "duration": 0.56,
+    "sha256": "76b8591657ce08815487fea3c3c12c80114177c111d6fba9685fbc0c532bd43e"
+  },
+  "ju3": {
+    "sample": "矩",
+    "duration": 0.4,
+    "sha256": "e92f6da05ca5881137c0117dc987b60efdb9ac4de3cab3454c2f4ac3c0f36328"
+  },
+  "ju4": {
+    "sample": "句",
+    "duration": 0.5,
+    "sha256": "4522cdc5cb12fab56bfec91560ba88787a97ab046c7e47b4442e804ddb84db5a"
+  },
+  "juan1": {
+    "sample": "娟",
+    "duration": 0.62,
+    "sha256": "6d24db5bd5735d15beb964541605f0e401aa933679bbbad185cf349d06174254"
+  },
+  "juan3": {
+    "sample": "锩",
+    "duration": 0.48,
+    "sha256": "3a863e2a241a4bc7adb9dacd938b77dcf09659c73ef466ecfc1965d72e5df55b"
+  },
+  "juan4": {
+    "sample": "卷",
+    "duration": 0.5,
+    "sha256": "44fc3f1d88207e80240b140dd90db3b9895250a7cb000d4feeaa5ad7fadf6057"
+  },
+  "jue1": {
+    "sample": "噘",
+    "duration": 0.32,
+    "sha256": "47c39b73f4fcd798b2fd19fdd6bd90dd59af936415aeb06afe9a4f74310d6ae1"
+  },
+  "jue2": {
+    "sample": "孓",
+    "duration": 0.4,
+    "sha256": "16d90ab34eb5b50f74fffdd86c32dea7d7453b686bb25f28bf05a906f8db7cf3"
+  },
+  "jue3": {
+    "sample": "蹶",
+    "duration": 0.38,
+    "sha256": "e34858b68dcba1bfda92a933ad710aa8345e070713863d240b920fd924d5c0f1"
+  },
+  "jue4": {
+    "sample": "倔",
+    "duration": 0.4,
+    "sha256": "6bfa9c3f845fb3024da58eecf12f64265a18908c5f9cc231f9f3bc714742bdec"
+  },
+  "jun1": {
+    "sample": "军",
+    "duration": 0.4,
+    "sha256": "156d656dde028280400d845690550f8251e564f1ae882993cb0050c3db089661"
+  },
+  "jun4": {
+    "sample": "俊",
+    "duration": 0.64,
+    "sha256": "c9fe8983e86a90a11e2129acdb6de7b3e1163856c3e7ef300adff80a86bb51d7"
+  },
+  "ka1": {
+    "sample": "咖",
+    "duration": 0.48,
+    "sha256": "bb7eadec77b1d6da17098045203f034a0a29d6e056385089c6c1e1b6b72e816e"
+  },
+  "ka3": {
+    "sample": "卡",
+    "duration": 0.8,
+    "sha256": "c822d97d1c5b85bacfc3d2d1e9bb4f241c163fbdd0f21e48e41e5e103cacadca"
+  },
+  "kai1": {
+    "sample": "开",
+    "duration": 0.4,
+    "sha256": "333856415cc135f531ec2ba9fed99d54ba85365941ee3f7745b764aeafe13c3f"
+  },
+  "kai3": {
+    "sample": "凯",
+    "duration": 0.4,
+    "sha256": "be582ea0d91ea80e27c513187d6d8a26466de2a70603d7fc51cdcb5ae8a1d5b2"
+  },
+  "kai4": {
+    "sample": "忾",
+    "duration": 0.4,
+    "sha256": "53144a82e2479b9241089f925856dd97d7ef124898fa21aac1a8887b2dc15b34"
+  },
+  "kan1": {
+    "sample": "刊",
+    "duration": 0.56,
+    "sha256": "92d676c425d47e10f32c6ab90c49fb20c0d26936eb1599ffe38edd35f6849f18"
+  },
+  "kan3": {
+    "sample": "凵",
+    "duration": 0.56,
+    "sha256": "d74d452a9d7c6a6a2999a6c9b0c3bd0e25ae6ac17355fe709c4f20f4e9113746"
+  },
+  "kan4": {
+    "sample": "看",
+    "duration": 0.32,
+    "sha256": "47d464c3cdec7e1addca59304f68771738414a87533c95788e3065d621a34867"
+  },
+  "kang1": {
+    "sample": "康",
+    "duration": 0.56,
+    "sha256": "937b5f5c85ab16060b31074a9d33c911b827c2d9efe880b0dd055bc1418708bf"
+  },
+  "kang2": {
+    "sample": "扛",
+    "duration": 0.4,
+    "sha256": "0140b3a451bc2d4242390486c51f46ebdf8be3d3b77f3c91e48c3bdeb516edcb"
+  },
+  "kang4": {
+    "sample": "亢",
+    "duration": 0.48,
+    "sha256": "d835e0ed9997be98b955e8ab583738fbbdd8beda2baf69099cba37f2351a9a63"
+  },
+  "kao1": {
+    "sample": "尻",
+    "duration": 0.4,
+    "sha256": "cbdb24a29e0032c06a7a3d88cf07c7f962cceb6efd1de852928d6f6d812170f6"
+  },
+  "kao3": {
+    "sample": "考",
+    "duration": 0.56,
+    "sha256": "198af40463e75ae413c44dc2e1ea5e957d205b66d95cc92b0babfa03122d1a06"
+  },
+  "kao4": {
+    "sample": "铐",
+    "duration": 0.32,
+    "sha256": "380c07ac3d388067709056fb164e9f307944149e6e7c42625b63e6eb17039017"
+  },
+  "ke1": {
+    "sample": "坷",
+    "duration": 0.32,
+    "sha256": "d02985c9d6971121d9f26978b1b180e7ff896bf6383a6053ac87f5e66cb9147c"
+  },
+  "ke2": {
+    "sample": "壳",
+    "duration": 0.48,
+    "sha256": "38cd32e7078fb248d51df061840c6d872fd78e22fc1513c133414dd823ba2ff9"
+  },
+  "ke3": {
+    "sample": "可",
+    "duration": 0.48,
+    "sha256": "8c498d6d73f0d2a5ed491bcb193704b2f8a8efdca23c0ea2958fc0ab463a49f5"
+  },
+  "ke4": {
+    "sample": "克",
+    "duration": 0.32,
+    "sha256": "7e04f23218b2aea4bab5ca2073baf3d4885f0d451d69fb8ab249831dce393478"
+  },
+  "kei1": {
+    "sample": "剋",
+    "duration": 0.48,
+    "sha256": "0cb37646b082100c09791503d59e8c13251b33c6613bd3816951df4793711e17"
+  },
+  "ken3": {
+    "sample": "肯",
+    "duration": 0.78,
+    "sha256": "a82c0a4f5afad391382a45c92141b4e307cd54a0f14eb01802b9797757d0c939"
+  },
+  "ken4": {
+    "sample": "裉",
+    "duration": 0.32,
+    "sha256": "a0a426c93eb86f3e51fe242e080f330b6c520841127aaf95a5f332ad4930a3b8"
+  },
+  "keng1": {
+    "sample": "吭",
+    "duration": 0.4,
+    "sha256": "beb630f556ccd2737642030666e8ac768508d06803d8b3171b91d813763eaa03"
+  },
+  "kong1": {
+    "sample": "空",
+    "duration": 0.64,
+    "sha256": "b302359bb2346554f71460eebb7ea8069aea6c8f164ab53ecc78c3bb97488417"
+  },
+  "kong3": {
+    "sample": "孔",
+    "duration": 0.64,
+    "sha256": "d95d37072f43f99a48775b8dfc0bbc0501be18de61bbd922f11c6ab0ccab032d"
+  },
+  "kong4": {
+    "sample": "控",
+    "duration": 0.32,
+    "sha256": "d10e3cfce21265babe53977616c8cdb5bbb8abb16b51794283863862794a7eef"
+  },
+  "kou1": {
+    "sample": "抠",
+    "duration": 0.56,
+    "sha256": "ceee4278ad11a3c989fdd3aa33cd6cf3fa14733d89e842f88b49e4746424db19"
+  },
+  "kou3": {
+    "sample": "口",
+    "duration": 0.64,
+    "sha256": "f074eedf74af3cc11967f75700bcb9685e08dc127bbcadc4fa687cf9896f6b86"
+  },
+  "kou4": {
+    "sample": "叩",
+    "duration": 0.48,
+    "sha256": "3a2cb28e8b62c9a8972835218cdc3af8a6fc80e8ecdba0be2701a9122bd6011e"
+  },
+  "ku1": {
+    "sample": "刳",
+    "duration": 0.56,
+    "sha256": "a64bfd6d2f95e04a97c6344e674dacad4bf95ad8c3f4589017e651b27994e719"
+  },
+  "ku3": {
+    "sample": "苦",
+    "duration": 0.64,
+    "sha256": "85a79118fadbc30c52b65c27cb6bb919dea25d84e7962b0d00f0b0b2d3e56349"
+  },
+  "ku4": {
+    "sample": "库",
+    "duration": 0.48,
+    "sha256": "c2120f5969e1d91cf88d8fa5461660656bffd2f0a0d01444e0810ed540263d76"
+  },
+  "kua1": {
+    "sample": "夸",
+    "duration": 0.56,
+    "sha256": "7c180b21ad517a3b22b72f99af8d2ecb7a15a4bf490d6aebf0a9fb84c853b021"
+  },
+  "kua3": {
+    "sample": "侉",
+    "duration": 0.4,
+    "sha256": "3f071c9aebaabfa48cb21b2f38b00c727cf1ff55abb1084128c50e56425142eb"
+  },
+  "kua4": {
+    "sample": "挎",
+    "duration": 0.4,
+    "sha256": "f14f17c9e49ab728e747ad828b2cad112b320ed65950172f8a63b5ebd3525251"
+  },
+  "kuai3": {
+    "sample": "蒯",
+    "duration": 0.64,
+    "sha256": "61689d6faffb9aaa43b33421dde1aae036eb9aabf85933cc0a2e1574dc27af68"
+  },
+  "kuai4": {
+    "sample": "块",
+    "duration": 0.56,
+    "sha256": "17444a8f813c6dd57028c5d29b0eb37f6921d3cdc3233eac90962ae5e3cdd627"
+  },
+  "kuan1": {
+    "sample": "宽",
+    "duration": 0.4,
+    "sha256": "411f76bfebb78c612b5c3826e797ed92baa7b723d275fd90418eb611fb680842"
+  },
+  "kuan3": {
+    "sample": "款",
+    "duration": 0.4,
+    "sha256": "aab0c370d3baa94cd0e0e7bf29d57394f7fa11873fc2d2082c711814c408fea5"
+  },
+  "kuang1": {
+    "sample": "匡",
+    "duration": 0.4,
+    "sha256": "96ad2d59dc4d235c6895a1eaec17b234e190c5a17423776fe70bb772b9887e32"
+  },
+  "kuang2": {
+    "sample": "狂",
+    "duration": 0.56,
+    "sha256": "29814ba0446ec79e014d10aad43b367159eb73f54e6755302a7de32860e121c0"
+  },
+  "kuang3": {
+    "sample": "夼",
+    "duration": 0.48,
+    "sha256": "21e299c760910ec32438c58f467e1e1b43c6582e6c7a313a5cbaa3756e3e5094"
+  },
+  "kuang4": {
+    "sample": "邝",
+    "duration": 0.48,
+    "sha256": "2d8edd8fda2e1330f14275075faba79934ebb1a337db689aa7e2186dac1cff02"
+  },
+  "kui1": {
+    "sample": "亏",
+    "duration": 0.48,
+    "sha256": "f5857083c87f27d35d5ac6bab9ce237286ddbc1e51e4b5951e2f5eec36a049d6"
+  },
+  "kui2": {
+    "sample": "奎",
+    "duration": 0.48,
+    "sha256": "2686f80b5f316e2993070e822c5ecf1d28f2ddcfe0d531cd5f97369c17ad7bc1"
+  },
+  "kui3": {
+    "sample": "傀",
+    "duration": 0.32,
+    "sha256": "7821548dd33490c477c624e066878b976a00e9dbb63b73adb226cba9f861c643"
+  },
+  "kui4": {
+    "sample": "匮",
+    "duration": 0.72,
+    "sha256": "9a91b13bca598fdbdc762285994ee797063cfd0736af820765da230bed429a3c"
+  },
+  "kun1": {
+    "sample": "坤",
+    "duration": 0.56,
+    "sha256": "3fbab33713f31b7f11445db6a4dfb7c8512a033b208bb90780d17bf898566ff0"
+  },
+  "kun3": {
+    "sample": "悃",
+    "duration": 0.58,
+    "sha256": "d026b566519f503b237f1292f9651f9aa5b81fa789397d564c2704531b4abbf5"
+  },
+  "kun4": {
+    "sample": "困",
+    "duration": 0.48,
+    "sha256": "a182206ec82a851d247ccfd460c1dd359e7b80839d500654f52444e111a7c4f6"
+  },
+  "kuo4": {
+    "sample": "扩",
+    "duration": 0.64,
+    "sha256": "86416199318d7525488113e7a95280597c8432ab4a6fde61363740498b48ba29"
+  },
+  "la1": {
+    "sample": "垃",
+    "duration": 0.64,
+    "sha256": "57b728554ebde909954f1edddd4b3df24ab0ecb7a52c80c75d88113fc2cf068a"
+  },
+  "la2": {
+    "sample": "旯",
+    "duration": 0.4,
+    "sha256": "51c6a0974241a23eb65c32243d4dbc95da6b6700b1d8882dc46aafa498972a35"
+  },
+  "la4": {
+    "sample": "剌",
+    "duration": 0.4,
+    "sha256": "152cf93f368dae026d0d59c2a78d4acf7319aef6ee27174b5fa54c2f9f29a976"
+  },
+  "lai2": {
+    "sample": "来",
+    "duration": 0.4,
+    "sha256": "f32a19c00a0a2c9539910078f14b85c59569a79e9745d27df0b5d42be21f5a2b"
+  },
+  "lai4": {
+    "sample": "濑",
+    "duration": 0.4,
+    "sha256": "8f18793838630801a8d152286e33995fe5819ec68104373a1119f7b139b464bc"
+  },
+  "lan2": {
+    "sample": "兰",
+    "duration": 0.56,
+    "sha256": "7454e12c2dc78a37e9a20f88417d50ff7955e1f15508ab61a5028aee3b846a4e"
+  },
+  "lan3": {
+    "sample": "览",
+    "duration": 0.56,
+    "sha256": "9fe428ff80a529079940fe51ae38abe6a651f4762dbef979d50609587afd8e84"
+  },
+  "lan4": {
+    "sample": "烂",
+    "duration": 0.48,
+    "sha256": "91663417178a654e6a04306745d76e5faf0e4c8507dbd563fa01eb7425747928"
+  },
+  "lang1": {
+    "sample": "啷",
+    "duration": 0.5,
+    "sha256": "4c8262741ae1815ad3965d13dd819634cbbbe3d43915a32bdea4a06e1a0d9565"
+  },
+  "lang2": {
+    "sample": "郎",
+    "duration": 0.5,
+    "sha256": "7339e62b67f7b218c773044680e510e1aaede4ccf549a2db7040c2d18ae70e0d"
+  },
+  "lang3": {
+    "sample": "朗",
+    "duration": 0.48,
+    "sha256": "1424dd6c87b42964bca40d7d909831d4cd109398d1257384c4e9f0930458bf1d"
+  },
+  "lang4": {
+    "sample": "浪",
+    "duration": 0.56,
+    "sha256": "bb6d2bdebf50f21d3c7d4d24924e103876ee54a0e4cfd76490f2e60f27160188"
+  },
+  "lao1": {
+    "sample": "捞",
+    "duration": 1.04,
+    "sha256": "6717ffefa9a5df371b8bebb6b5742ed79bfed8480d654fd6a373dd6e5b75540b"
+  },
+  "lao2": {
+    "sample": "劳",
+    "duration": 0.4,
+    "sha256": "97f6199bf0c80b03f8bddf11279ae29c2044685a198ddcd78c40ed52378307e8"
+  },
+  "lao3": {
+    "sample": "老",
+    "duration": 0.56,
+    "sha256": "5fb92f9f8e583f9ce9b5461aae719288005fd0bc1d091059b486b949c22fc903"
+  },
+  "lao4": {
+    "sample": "唠",
+    "duration": 0.48,
+    "sha256": "2a69e386996026925fd3cf5784ff0086a1d70f5180a6a4e33691baf9149c454f"
+  },
+  "le1": {
+    "sample": "嘞",
+    "duration": 0.4,
+    "sha256": "e21b51f044d4ca9f8a07d3fbedeb088ad848fe52471308e3f3796cb5ac70d185"
+  },
+  "le4": {
+    "sample": "仂",
+    "duration": 0.5,
+    "sha256": "dfd51f73e4e4bb191694d6a535027315d09f96940848bace42a38ad0caae7af2"
+  },
+  "lei2": {
+    "sample": "雷",
+    "duration": 0.4,
+    "sha256": "969dba9d06a34c5e8568dd304dd2080ce16d27888e648756a4a0c37acc5ac45b"
+  },
+  "lei3": {
+    "sample": "耒",
+    "duration": 0.62,
+    "sha256": "b559ca677462f800b42c73fd8f7304ff66baee49c1fc50f15b220640ea492435"
+  },
+  "lei4": {
+    "sample": "肋",
+    "duration": 0.32,
+    "sha256": "df85ae6a54bbee3eba46d3692c260fdb4b447919d517d2380be0ed7829fb4fc0"
+  },
+  "leng2": {
+    "sample": "塄",
+    "duration": 0.32,
+    "sha256": "630829f3fe46fb96eed37f58a92f0770f3ce89f123c5be7b0ad7ff2bf4f01909"
+  },
+  "leng3": {
+    "sample": "冷",
+    "duration": 0.48,
+    "sha256": "519f22c651ccb862233dcfab03ffb03e473de9ec2707413f8eb1476537397517"
+  },
+  "leng4": {
+    "sample": "愣",
+    "duration": 0.4,
+    "sha256": "fd39038e80e00db0246c2a85abc9616483f19d1046216496afec6f1962f05a45"
+  },
+  "li1": {
+    "sample": "哩",
+    "duration": 0.4,
+    "sha256": "ff841b0721634908fdbc31ad4fd7c09c0117f54666a269b09a2d82f02b87b6dc"
+  },
+  "li2": {
+    "sample": "厘",
+    "duration": 0.72,
+    "sha256": "eda3cef2e81befef0c0d089b06b2dbb493266cdc912edbdec56a42770e376cf4"
+  },
+  "li3": {
+    "sample": "礼",
+    "duration": 0.4,
+    "sha256": "d5a07f74d7d56869439090960bde2dd10372ccc9bd937ab339d1ea0661a81709"
+  },
+  "li4": {
+    "sample": "力",
+    "duration": 0.32,
+    "sha256": "7b1a65d2ce7828e1a3716b38baebcae62d3788316a6f05f095b7ded8217660ed"
+  },
+  "lia3": {
+    "sample": "俩",
+    "duration": 0.32,
+    "sha256": "4a6ecd706ce00a240a97981fa8f09c3c55f2726f264cb94ea1f89ce96c48281c"
+  },
+  "lian2": {
+    "sample": "奁",
+    "duration": 0.54,
+    "sha256": "f7cb46665df820ba0fd99022acd8c01f61568e88e88a9c0778375c78e489f6ce"
+  },
+  "lian3": {
+    "sample": "敛",
+    "duration": 0.78,
+    "sha256": "eb893e33b9b2727d0eb93206cabeaba384fbfaa33a2ee44d6f2d7b6d8c83c4b0"
+  },
+  "lian4": {
+    "sample": "练",
+    "duration": 0.48,
+    "sha256": "79b5468601ab9581168441c9eec9823685cf8bc2560b451e4d4689f7f5297023"
+  },
+  "liang2": {
+    "sample": "良",
+    "duration": 0.62,
+    "sha256": "f7564c5c3e141a422bc868d4f8e864b16c5e9c216c1bdbddd446769dcbc5a5ca"
+  },
+  "liang3": {
+    "sample": "两",
+    "duration": 0.64,
+    "sha256": "603984a987118a868e6a48c817f87be3eeb3b3be014548ec85ce18fc50829ed9"
+  },
+  "liang4": {
+    "sample": "亮",
+    "duration": 0.32,
+    "sha256": "907ffaef3acc3e6b648ad261d960f189fe8af15a6a78d0cbce5d881e82c66c9b"
+  },
+  "liao2": {
+    "sample": "辽",
+    "duration": 0.4,
+    "sha256": "9930bda3130b85b26d1fdf5b35e884f82d2a9b1dd05623a6000456a53d255a3f"
+  },
+  "liao3": {
+    "sample": "了",
+    "duration": 0.4,
+    "sha256": "1aba1e9c6619488761565a37fa41b21042ada5b701f393dec910ce7c7fa10dc2"
+  },
+  "liao4": {
+    "sample": "尥",
+    "duration": 0.48,
+    "sha256": "3844bd898af0b7cc0bc0acab1a50b17534464200d45a4e1b7d3b7af2a881136f"
+  },
+  "lie1": {
+    "sample": "咧",
+    "duration": 0.5,
+    "sha256": "71320b5a36297465e0505472b64dd3351103662b7bd9d7981ceabdea3ac97722"
+  },
+  "lie4": {
+    "sample": "列",
+    "duration": 0.4,
+    "sha256": "f13b54d47fef14e84aaa6af76367a6ceca579a4e8fc8553f0f081c996a30ab97"
+  },
+  "lin1": {
+    "sample": "拎",
+    "duration": 0.4,
+    "sha256": "4f5517d58acf0d5b8fbfac51d36631e9f09a7afbd6c1028a288e195c91fea55f"
+  },
+  "lin2": {
+    "sample": "邻",
+    "duration": 0.4,
+    "sha256": "cec974aac232d12dea888a0f5de278a4688bc697e20447ed91413c7f6d65a6df"
+  },
+  "lin3": {
+    "sample": "凛",
+    "duration": 0.5,
+    "sha256": "17012e943b856ad4507f6c5fe1b0c5cb6ba4f682e4cd3b9c73e3a7a09ab650ff"
+  },
+  "lin4": {
+    "sample": "吝",
+    "duration": 0.48,
+    "sha256": "4be842f84f3031ce4862f9b56bcf41cfb36b464076716e0c5e1fe10a3d9706a1"
+  },
+  "ling2": {
+    "sample": "伶",
+    "duration": 0.56,
+    "sha256": "0a6f7cc8ca6af5b151d2b42f4e0089da53a0312cccb9bac78c90600d892cdbd8"
+  },
+  "ling3": {
+    "sample": "岭",
+    "duration": 0.48,
+    "sha256": "0272f245486ed3802535f9acea9169cab1e45f17a1b60ca1d9404891292a8791"
+  },
+  "ling4": {
+    "sample": "令",
+    "duration": 0.4,
+    "sha256": "88d582fed4278303919ca129a43c0214f9cacc5540199df7af549f23732e925a"
+  },
+  "liu1": {
+    "sample": "溜",
+    "duration": 0.4,
+    "sha256": "232e96e6838e6abfd9fb832c4d87c570e3d2291c411cec33897c1ae69e72eefc"
+  },
+  "liu2": {
+    "sample": "刘",
+    "duration": 0.56,
+    "sha256": "1566ab5ebff994812977249f2b9695359899adba63f6455283c31a41c1f483bc"
+  },
+  "liu3": {
+    "sample": "柳",
+    "duration": 0.56,
+    "sha256": "5e9db76e702109067ba76af3d38a7d981c3d6b851f9b2ee476c12104d996ae27"
+  },
+  "liu4": {
+    "sample": "六",
+    "duration": 0.32,
+    "sha256": "82867e16c8cf1a16909600907b5af972cb60775e02b3efb75312fc854652b2be"
+  },
+  "long2": {
+    "sample": "龙",
+    "duration": 0.48,
+    "sha256": "9623c5772d2d50e3be9f80a141f3815925e718d69c5b0bc14f8105a2c439d04a"
+  },
+  "long3": {
+    "sample": "陇",
+    "duration": 0.48,
+    "sha256": "713bc87d0c13f0576e4c6074d66128d11e320e1d474ebcbeb316cb9b99ea2f36"
+  },
+  "lou0": {
+    "sample": "喽",
+    "duration": 0.36,
+    "sha256": "f3f6a308f43613e161350b2789b53910a9f537fc4a16ebce53ed5e64f04ba351"
+  },
+  "lou2": {
+    "sample": "娄",
+    "duration": 0.5,
+    "sha256": "a10fdf7d01689909608bc93107f10ffe4cc14fdd9ab2fe3220d0cd2d79f4076d"
+  },
+  "lou3": {
+    "sample": "嵝",
+    "duration": 0.4,
+    "sha256": "b906b63e695366f340b3a929c83645b7f8c11183ddcfb68b8ff5b916b24445b0"
+  },
+  "lou4": {
+    "sample": "陋",
+    "duration": 0.4,
+    "sha256": "20756f26c07fc00f2de443468742d19f3d5c1629a11ae8531f6cc672d1c991c0"
+  },
+  "lu0": {
+    "sample": "氇",
+    "duration": 0.54,
+    "sha256": "9d5a1db1dfdb9895b5e086077b5139bd7b5cd4e69adecbac5d7a0522e65837e6"
+  },
+  "lu1": {
+    "sample": "噜",
+    "duration": 0.4,
+    "sha256": "21c9d4e64f2dbd4ad3993e04f4e28ef153a66d4c5103dd9ad407d642c782e4c3"
+  },
+  "lu2": {
+    "sample": "卢",
+    "duration": 0.6,
+    "sha256": "4daf376bd564cf88c05a2702efaf53090083d8f6a42fe03604eab67a4f48c5b5"
+  },
+  "lu3": {
+    "sample": "卤",
+    "duration": 0.58,
+    "sha256": "79bd09bb678049af4280b93884699e12315d0fa19533782899d450bea08a14c9"
+  },
+  "lu4": {
+    "sample": "陆",
+    "duration": 0.38,
+    "sha256": "70f57363cf3abe8b7925c0de523593fd09220f56401aba706b5f6d3c58af5e07"
+  },
+  "luan2": {
+    "sample": "娈",
+    "duration": 0.56,
+    "sha256": "1940a8df57428557bdde417fdf07f8601ed50a4348c625ecbe40ed1d9efc048d"
+  },
+  "luan3": {
+    "sample": "卵",
+    "duration": 0.48,
+    "sha256": "6635d70ba462d4ad918659471c202f4d723015130961c52e6cc9983aa4fe0ad6"
+  },
+  "luan4": {
+    "sample": "乱",
+    "duration": 0.46,
+    "sha256": "d19bcde8774343ac48891fa0c488ee923347459ca18462b568e48b9921324459"
+  },
+  "lun1": {
+    "sample": "抡",
+    "duration": 0.4,
+    "sha256": "6c9b30bfe31913dda6e0da7eaa93a67f6b9a0f0b32a3553e622b5bc60a46f475"
+  },
+  "lun2": {
+    "sample": "仑",
+    "duration": 0.48,
+    "sha256": "03a4505e6d2f547aa1ccff4f4c3a09bb2321a4ec3a9b9f1784eca9f4e50cb0f3"
+  },
+  "lun4": {
+    "sample": "论",
+    "duration": 0.5,
+    "sha256": "49b39ac44f6d881b414be93b0f04b299af10e65b3603aada91272e40f806a666"
+  },
+  "luo1": {
+    "sample": "啰",
+    "duration": 0.48,
+    "sha256": "e956b2fb500285222b08f0de3d756c5228125f9a876d1a1ee91e821adb78500b"
+  },
+  "luo2": {
+    "sample": "罗",
+    "duration": 0.54,
+    "sha256": "4e5f46cd1c9fd2d9e615912bdc6bdf24a8f911c7b7b2014a760883c6cea078b8"
+  },
+  "luo3": {
+    "sample": "倮",
+    "duration": 0.72,
+    "sha256": "d27f656a514d3288f89e39117649a6a1a84761187661b920b304181276b2a468"
+  },
+  "luo4": {
+    "sample": "泺",
+    "duration": 0.4,
+    "sha256": "d214f3c91cbacdccc3a433aeff75ce37490f38e827199eefddcced9ff9143c7d"
+  },
+  "lv2": {
+    "sample": "驴",
+    "duration": 1.04,
+    "sha256": "4ea3a2eac16bddaf24230333d1b262acc07640e977b5d0ab568d616ae2937963"
+  },
+  "lv3": {
+    "sample": "吕",
+    "duration": 0.56,
+    "sha256": "e1562a440d8c14187ede3fa86d01ac60ebe65ad74ffcee09f9cd4cec0a13a1c5"
+  },
+  "lv4": {
+    "sample": "律",
+    "duration": 0.4,
+    "sha256": "c71064cf72cce6778de9b8debf0da396a4131d6fb9c313b3446defecd48b0f4e"
+  },
+  "lve4": {
+    "sample": "掠",
+    "duration": 0.48,
+    "sha256": "2327c0ce71de3af793f2e65378aa8964a3526f41f80307cdf6d2af20202b85c6"
+  },
+  "m2": {
+    "sample": "呣",
+    "duration": 1.0,
+    "sha256": "31321d9d3d903ccd3ab3d5da9cb915ed25a763cf1cfcd09ee8ba3cfb6704766a"
+  },
+  "ma0": {
+    "sample": "吗",
+    "duration": 0.48,
+    "sha256": "7556adea302cbbb0d427491a1cde217248f9662ebfa78eb57ac2918ffd563a0d"
+  },
+  "ma1": {
+    "sample": "妈",
+    "duration": 0.32,
+    "sha256": "fa35c973c123f8047e50ff1f33d172bd0d89f153384eb4cade71ea3c91c3d832"
+  },
+  "ma2": {
+    "sample": "麻",
+    "duration": 0.56,
+    "sha256": "4f91304bd3133f4fdee05251e4d5bc0c6404d26568c0bb984184e1bb41860f3e"
+  },
+  "ma3": {
+    "sample": "马",
+    "duration": 0.48,
+    "sha256": "4b4124494e941244ff68408b4f614c918a70bbc9404d2a747627dab151190542"
+  },
+  "ma4": {
+    "sample": "骂",
+    "duration": 0.64,
+    "sha256": "8760edd33a2f91ee9cbaa23d697cbfb1381cf88f50322aa734efe10f70c8db8f"
+  },
+  "mai2": {
+    "sample": "埋",
+    "duration": 0.48,
+    "sha256": "2815003300f21408e6abe35f6881d88b8380773a5c46b8ada83973609b16e6f7"
+  },
+  "mai3": {
+    "sample": "买",
+    "duration": 0.4,
+    "sha256": "61059b37e919200d00c82cdf5fe5b08fa53ca39f043ca1e67332848138a4e530"
+  },
+  "mai4": {
+    "sample": "劢",
+    "duration": 0.32,
+    "sha256": "1d39aaffeef434cd09f786a1cc972f56cdde69e854aa3c9935c3577834dc4633"
+  },
+  "man1": {
+    "sample": "颟",
+    "duration": 0.56,
+    "sha256": "092d1b66435ed21b9f712a361335b39563baeb459056d65fef69c6484db9a86c"
+  },
+  "man2": {
+    "sample": "蛮",
+    "duration": 0.4,
+    "sha256": "8e87b3fc7faf7bf2f20bb4de838772b9f7bf0fe90535214a0fbb1c28a5bb22d8"
+  },
+  "man3": {
+    "sample": "满",
+    "duration": 0.4,
+    "sha256": "d0e0f798b8411bce46a371711fde1d9e34da86afb38def5290f1cb585a329c9f"
+  },
+  "man4": {
+    "sample": "曼",
+    "duration": 0.5,
+    "sha256": "8cac5b1fc6b2032eca442bfc0cb48fba09b83ca7e0cdffde8e9d4cc7bc2fb4f1"
+  },
+  "mang2": {
+    "sample": "忙",
+    "duration": 0.4,
+    "sha256": "d0c206af13f14a8b7c466835aae84079e98da3ff1f3226ae6d944a753f099bcb"
+  },
+  "mang3": {
+    "sample": "莽",
+    "duration": 1.12,
+    "sha256": "d2f05e527f73fd2e3b24e6511d02692a298dccb727612f782e99c37e0dd9d7da"
+  },
+  "mao1": {
+    "sample": "猫",
+    "duration": 0.4,
+    "sha256": "ca0d4be9943fc3666ecb61266ffe0fabdd9fbbb3e0966149475cc56e8b65dcc1"
+  },
+  "mao2": {
+    "sample": "毛",
+    "duration": 0.48,
+    "sha256": "1ff1ae9b15cb22613f083677c0d7718620c2973b08628a03bcf07ec6cc49f5b6"
+  },
+  "mao3": {
+    "sample": "卯",
+    "duration": 0.48,
+    "sha256": "cb0a581dba6b8c783396248822d5a96c671a67f55f5c5cdeced566930649cf69"
+  },
+  "mao4": {
+    "sample": "茂",
+    "duration": 0.48,
+    "sha256": "a29edfe95f787be39cab68aa2a916246bca3afefb3bf95acdd019a5004e92d6e"
+  },
+  "me0": {
+    "sample": "么",
+    "duration": 0.4,
+    "sha256": "938f989dc53d14f5bf98f1b5b6b2dd834017171d36a4a7eb85997d3a904cea8c"
+  },
+  "mei2": {
+    "sample": "没",
+    "duration": 0.4,
+    "sha256": "2baa0a012b63c7f0ea225f739e205a4dfffbba4da1e10ac4de67f4089457e15d"
+  },
+  "mei3": {
+    "sample": "每",
+    "duration": 0.48,
+    "sha256": "19d90d07e85a9bbae6a9c375f4ccda23d972a1b59d00ab3b5d55e526a69fd9a7"
+  },
+  "mei4": {
+    "sample": "妹",
+    "duration": 0.4,
+    "sha256": "b6f1222142dc1626377a4803f41ba2425d0817c12c549ba064e935fb7fe31a5c"
+  },
+  "men0": {
+    "sample": "们",
+    "duration": 0.4,
+    "sha256": "919e7ccc13385c5cc08d482c41ccb5ea71faa1f4aff0322d2d403ac06f9df790"
+  },
+  "men1": {
+    "sample": "闷",
+    "duration": 0.48,
+    "sha256": "279a12b36d39e3f9fe14f14328838de851fe34b95c829a98e5b0f1a4defed3d4"
+  },
+  "men2": {
+    "sample": "门",
+    "duration": 0.48,
+    "sha256": "921ca315a384d2f5bce55462c83ffc94430453ba7c587f8c74785b146d736e31"
+  },
+  "men4": {
+    "sample": "焖",
+    "duration": 0.32,
+    "sha256": "43a51d6be865e149bc6cde09aade0157714fdbc206dc1839a44cd196e1f741ce"
+  },
+  "meng1": {
+    "sample": "矇",
+    "duration": 0.48,
+    "sha256": "cf0f16a26481cb17f5a2fa7939b41e9ca1d2414853265713c2292b5343b16978"
+  },
+  "meng2": {
+    "sample": "虻",
+    "duration": 0.48,
+    "sha256": "9d3c0bc17a8130cf6babd3a3fafccd98def189c6681869c93a61bda931d4522d"
+  },
+  "meng3": {
+    "sample": "勐",
+    "duration": 0.48,
+    "sha256": "055d79d130ae1a2657a26dc78b8cc74edf12cacd6e2ca24236e1651db9107774"
+  },
+  "meng4": {
+    "sample": "孟",
+    "duration": 0.4,
+    "sha256": "ad91c715a87eda0a7501873089105892e13c8cf7634579845979e59eb9639aaa"
+  },
+  "mi1": {
+    "sample": "咪",
+    "duration": 0.4,
+    "sha256": "e0ef04b8b07710ab08689fa2977fc61a6ca532a71f9ae3cd8fc04e90302e2d9e"
+  },
+  "mi2": {
+    "sample": "弥",
+    "duration": 0.4,
+    "sha256": "85c8570d8d5a59a5305206f0de5b537118416f0f0ee29e79a5a9a0f393039f43"
+  },
+  "mi3": {
+    "sample": "米",
+    "duration": 0.4,
+    "sha256": "496f1ccbad6c42b0a755f53a80adc22c46e6f6cacf778a0f4814e05c236048e1"
+  },
+  "mi4": {
+    "sample": "糸",
+    "duration": 0.48,
+    "sha256": "be000d259125b4502e269695b9634e1fd0491d529dfffee7dc00d1515b3fae75"
+  },
+  "mian2": {
+    "sample": "眠",
+    "duration": 0.56,
+    "sha256": "c284e27526ab0dfb2d280ac00d33be9894b5f688e29fce3dd045413ad108948c"
+  },
+  "mian3": {
+    "sample": "免",
+    "duration": 0.64,
+    "sha256": "4bcdf44c3c12d49bc4153eb0280b51b5dd7dd1f1ce7d6ed85311f96776d72aab"
+  },
+  "mian4": {
+    "sample": "面",
+    "duration": 0.56,
+    "sha256": "6b4e4750a9ef1ecce0213e350559dfcb757f7cb74f533a041eccfc43f137a6b7"
+  },
+  "miao1": {
+    "sample": "喵",
+    "duration": 0.48,
+    "sha256": "d289fdf325c614eceb45092524f91013057b5517635f7c2a721eed67db70a8b2"
+  },
+  "miao2": {
+    "sample": "苗",
+    "duration": 0.48,
+    "sha256": "b11420ba909319ce79dfcdb38efd290339f0709ef32f883e0926ab217e01f482"
+  },
+  "miao3": {
+    "sample": "杪",
+    "duration": 0.64,
+    "sha256": "c5cf50d685a10e761bb22579e74276336f8279933f8581575993c0117e48478a"
+  },
+  "miao4": {
+    "sample": "妙",
+    "duration": 0.4,
+    "sha256": "67cac3720e1b19fcdbd242f95f2a3d52e6a7468e5eed0ced268ffa0aca56f952"
+  },
+  "mie1": {
+    "sample": "咩",
+    "duration": 0.48,
+    "sha256": "6474dd7372218a1f6c3ccf75bedd71d6ec741ff1cca17a9f39e8b4f781d37318"
+  },
+  "mie4": {
+    "sample": "灭",
+    "duration": 0.64,
+    "sha256": "49b3515a9b499200c13fc331fff3e5561afc3806a9f023a76afa1bf392c14f89"
+  },
+  "min2": {
+    "sample": "民",
+    "duration": 0.48,
+    "sha256": "0c6d5803bea91bb06f072611c59c907b0de1cdb4bafa4302edafe9e2129bc709"
+  },
+  "min3": {
+    "sample": "皿",
+    "duration": 0.56,
+    "sha256": "8a21dd843e64b1dd456e697db9722f15cce559043d62e53f5145ffc6284f8dd6"
+  },
+  "ming2": {
+    "sample": "名",
+    "duration": 0.64,
+    "sha256": "3d9e9d3d9f753136d64562fbfff0f83630cc33310a059229eeb820b84b2fbd1f"
+  },
+  "ming3": {
+    "sample": "酩",
+    "duration": 0.4,
+    "sha256": "4cec1d8486725e1b8f0007fa8e2e209f673518a9667475ac9812573e915c6b48"
+  },
+  "ming4": {
+    "sample": "命",
+    "duration": 0.48,
+    "sha256": "ded8f209d25c254c2280beec126c362160d9c96e59cbb6dc58e66c650724e17e"
+  },
+  "miu4": {
+    "sample": "谬",
+    "duration": 0.56,
+    "sha256": "5a4ee113d5ce8d990463441d4a8cb3169a867c4feb5f540f271fc660c5156398"
+  },
+  "mo1": {
+    "sample": "摸",
+    "duration": 0.32,
+    "sha256": "bcc3424bc44775b943ec80b293ab99573f067222dedb15e66678875803255201"
+  },
+  "mo2": {
+    "sample": "谟",
+    "duration": 0.4,
+    "sha256": "d5843afce1b2a3e75542234b03a5aa2bc559ecdd98b7ac1fabaa2161997bb6f6"
+  },
+  "mo3": {
+    "sample": "抹",
+    "duration": 0.64,
+    "sha256": "cc8f5fab4c75ac97d60f2bc3ad119b0ec399e23fbf57c7efdacb89cfd238bf6f"
+  },
+  "mo4": {
+    "sample": "末",
+    "duration": 0.64,
+    "sha256": "5c1684819d0705e88fdfaa0350518cca401c344589254c026ebd9e84fc1dd0d8"
+  },
+  "mou1": {
+    "sample": "哞",
+    "duration": 0.56,
+    "sha256": "6d1264a588c1a156acbb71c6905e2f107698443c817c50b20b6ae2778b1618db"
+  },
+  "mou2": {
+    "sample": "侔",
+    "duration": 0.48,
+    "sha256": "ffad38fd7966595e0e778b192853129153900bb24446c67558c67a712e754e65"
+  },
+  "mou3": {
+    "sample": "某",
+    "duration": 0.88,
+    "sha256": "fbdf4f555e2749db32f501c42d77540a52a12f2add97f0b82d18181bc97973f5"
+  },
+  "mu2": {
+    "sample": "毪",
+    "duration": 0.48,
+    "sha256": "071b264d9bb36cbe3302c54451e0871479d0b54d3301cfdc205bc95a4ab4338b"
+  },
+  "mu3": {
+    "sample": "母",
+    "duration": 0.56,
+    "sha256": "4e6cb2d7532d42533e83721cccbdf49106106872d42718d31a0537120cdbd1b6"
+  },
+  "mu4": {
+    "sample": "木",
+    "duration": 0.4,
+    "sha256": "27d505e68f3d755014f14c3e8a6aa483260e85aa53b33acd65d5e6438f17bb88"
+  },
+  "na2": {
+    "sample": "拿",
+    "duration": 0.4,
+    "sha256": "66f05eb871c73eb44f09434b55ae286e8325b5fadf6b32a885ac89ac4bcfe938"
+  },
+  "na3": {
+    "sample": "哪",
+    "duration": 0.32,
+    "sha256": "4aeac65dd36eea65cd9fc59c1e5cb7baf42e95f0653b25d0eba2f6a9ddf8e52d"
+  },
+  "na4": {
+    "sample": "那",
+    "duration": 0.4,
+    "sha256": "8bc4ae6a73fb6047192077f18c388b2c9a62b926eb9389c192fc4dc9aeb2f1ed"
+  },
+  "nai3": {
+    "sample": "乃",
+    "duration": 0.56,
+    "sha256": "435bde00e57178f71a08670f12f864bc42664d7845dfa6651a6238fd647797db"
+  },
+  "nai4": {
+    "sample": "奈",
+    "duration": 0.64,
+    "sha256": "fe64055438b818080266e1a2316c23b3e2d331c720e223549c71a041964467f6"
+  },
+  "nan1": {
+    "sample": "囡",
+    "duration": 0.48,
+    "sha256": "60fbd4fd2bcac55fc1d7b71e841f729543af7ac8a1b8a5a2447a0696a81965bd"
+  },
+  "nan2": {
+    "sample": "男",
+    "duration": 0.56,
+    "sha256": "fdfb744c7bb48de9bd850b0014c58a3e353bc5ea71dcd02c914f9a20c818ab5b"
+  },
+  "nan3": {
+    "sample": "赧",
+    "duration": 0.32,
+    "sha256": "5b40ada24268e8e42fc25c043f194007e55dd2702cacc680d91f1f1ff0b48572"
+  },
+  "nang1": {
+    "sample": "囔",
+    "duration": 0.48,
+    "sha256": "b0c3ff9ab1acc3aac9cd5c9d1f4b49be88b783519bc3fda1dba8eacb1e3ef7a6"
+  },
+  "nang2": {
+    "sample": "囊",
+    "duration": 0.48,
+    "sha256": "ca2ad234cd98a2b275c1309f33c45781ee8fa14407d08a79f777b8dc4a69ab2f"
+  },
+  "nang3": {
+    "sample": "曩",
+    "duration": 0.56,
+    "sha256": "39a7a3cada0082886effc8634212ee47b48b37fcc8d3a49008d32db60d6d7a76"
+  },
+  "nao1": {
+    "sample": "孬",
+    "duration": 0.4,
+    "sha256": "ad1745d6295a4af8fedee640dd9d66f0616119c8921dace91497dffff561b802"
+  },
+  "nao2": {
+    "sample": "呶",
+    "duration": 0.66,
+    "sha256": "4dd3323419f8d774b5b69b4b36989ec1f7a8ae242318d0a91f9ec0566f6155fa"
+  },
+  "nao3": {
+    "sample": "垴",
+    "duration": 0.64,
+    "sha256": "ea7d17736b4e8c20fb7e0b2b7a14e605f769bd2e04274027a90163c8604a582c"
+  },
+  "nao4": {
+    "sample": "闹",
+    "duration": 0.32,
+    "sha256": "f53aca6aa8b1f30e8b4af2e4c62b0c6925d7e3b3be86873dc2915b0d66c047c3"
+  },
+  "ne0": {
+    "sample": "呢",
+    "duration": 0.4,
+    "sha256": "524ad407d0909eb0af93e9f88d2e08ad9e2735884631b0315d404567cf629162"
+  },
+  "ne4": {
+    "sample": "讷",
+    "duration": 0.48,
+    "sha256": "17ee820ee9981e086603de023f18cf8e9a10e6007284f6c552b610020dbf0e1e"
+  },
+  "nei3": {
+    "sample": "馁",
+    "duration": 0.56,
+    "sha256": "aa8ea7c7ed131b97a661c433dedb532b7a0f38049bc1a09e95db2c2d167ba16d"
+  },
+  "nei4": {
+    "sample": "内",
+    "duration": 0.48,
+    "sha256": "62e83ad90fadbbdb6621d24ee8204cc03bb2fce2b1f174f14508fc056c48034e"
+  },
+  "nen4": {
+    "sample": "恁",
+    "duration": 0.4,
+    "sha256": "77c6dd2a2e08f4661e6c925101e9cec1516465169c2e3af9be6b66169b5a42bd"
+  },
+  "neng2": {
+    "sample": "能",
+    "duration": 0.4,
+    "sha256": "0957ab69767e166a9b1338e2cb93a41f8cd0e2e406e718d9c0dd16f61298fff4"
+  },
+  "ng4": {
+    "sample": "嗯",
+    "duration": 0.48,
+    "sha256": "724dc651b10b6a9231b7bd3430ec17f47724887ea7477e14c2eb551dac59bc47"
+  },
+  "ni1": {
+    "sample": "妮",
+    "duration": 0.54,
+    "sha256": "38611855eb6ac1bc7589da69b7d445b0975f7595ffb4caffd7cfab1939d36511"
+  },
+  "ni2": {
+    "sample": "尼",
+    "duration": 0.48,
+    "sha256": "f1fa32de6535f46529a9923405b425117a2483ab97092392f4756b5bdf031dbb"
+  },
+  "ni3": {
+    "sample": "你",
+    "duration": 0.64,
+    "sha256": "d6169511cf8ae48fd6bd1e89f783ad9fc96f49ff191e78f857742cbcbcac6b4f"
+  },
+  "ni4": {
+    "sample": "伲",
+    "duration": 0.32,
+    "sha256": "ee348db81c38bb1d613c916acc18feae1c380522774c2ef5fd975f2d35f07a73"
+  },
+  "nian1": {
+    "sample": "拈",
+    "duration": 0.48,
+    "sha256": "fe3c3f26f6108de4b555243b05f8e833ede148fc5cb5155fab7a77402a3766ee"
+  },
+  "nian2": {
+    "sample": "年",
+    "duration": 0.48,
+    "sha256": "827d09970c139a8ebd91b00912d4323fed5fe8eb0b39624ae0de3bcaf1640543"
+  },
+  "nian3": {
+    "sample": "捻",
+    "duration": 0.48,
+    "sha256": "f135f5755e62557a260682865128e17356902ccfb5735ebcda5739f3cb43eeb1"
+  },
+  "nian4": {
+    "sample": "廿",
+    "duration": 0.64,
+    "sha256": "7e0259a82ec848ec1f6bfeb635b6fd10c3b38dc2c404dba42133ebec189e793d"
+  },
+  "niang2": {
+    "sample": "娘",
+    "duration": 0.56,
+    "sha256": "e9207fa2e00d72d507eb1c1001889cc21b55b12173a021a13cdbe35deeaf3f58"
+  },
+  "niang4": {
+    "sample": "酿",
+    "duration": 0.36,
+    "sha256": "d5e83454251413432f3c62ed81b9a4c8abeb293138bf6d910b8592ba71cf9a06"
+  },
+  "niao3": {
+    "sample": "鸟",
+    "duration": 0.56,
+    "sha256": "e9adbc652f3cf06fb3d0f026795fe41486fb1f65635715c2bc40d4e657358071"
+  },
+  "niao4": {
+    "sample": "尿",
+    "duration": 0.56,
+    "sha256": "95f492dfc8d609d77af7a2ce22141ea2e4c15344a625a34ec2efe0946e24aa3a"
+  },
+  "nie1": {
+    "sample": "捏",
+    "duration": 0.56,
+    "sha256": "44a9b9749c3c824d4b6f6f736e4df66c070071019c3ec4fbe07f96c2aba09bce"
+  },
+  "nie4": {
+    "sample": "镊",
+    "duration": 0.32,
+    "sha256": "50c5efaa62ea9e01303db7e57e16bf9cacf78fb44e4abd5f41f2358b3241b35a"
+  },
+  "nin2": {
+    "sample": "您",
+    "duration": 0.4,
+    "sha256": "d400949aefb13712066b9a502fe72a4782bda7756d95d1d95c2d391801b34056"
+  },
+  "ning2": {
+    "sample": "宁",
+    "duration": 0.4,
+    "sha256": "78c27646204da9481decccce21c29816b2dbf929ee6f1e5b205f1d62d91a9a6e"
+  },
+  "ning3": {
+    "sample": "拧",
+    "duration": 0.48,
+    "sha256": "5dd76d447a5ff77f5f9db27178c44a3cb81745245efe20063a46e769830fc14e"
+  },
+  "ning4": {
+    "sample": "佞",
+    "duration": 0.4,
+    "sha256": "6c2930dc1adbac5480700ff28ceb7dad86a1149004a372be36c703d8ef59fd53"
+  },
+  "niu1": {
+    "sample": "妞",
+    "duration": 0.48,
+    "sha256": "ee31b748fb9bb366777c0f8ba86afb827af1bba9a443fb95ba2906f03f8fdb38"
+  },
+  "niu2": {
+    "sample": "牛",
+    "duration": 0.56,
+    "sha256": "dcb82ee945bd77f0793c7a3905593879b550243ee4cf7526016775def3553ee6"
+  },
+  "niu3": {
+    "sample": "忸",
+    "duration": 0.8,
+    "sha256": "68730bb76265abc8a7f114cc1f6e51e7ab21c2efec96884d1acf87012512252d"
+  },
+  "nong2": {
+    "sample": "农",
+    "duration": 0.48,
+    "sha256": "8c6ec86541b61eb05c475e5403a72c649d847a302ed18efa87273201b0184a84"
+  },
+  "nong4": {
+    "sample": "弄",
+    "duration": 0.48,
+    "sha256": "ff7b4f14911459ac271a432790e1d3bc661a6962d3c31ab1dc47c8bc35e54d4c"
+  },
+  "nou4": {
+    "sample": "耨",
+    "duration": 0.32,
+    "sha256": "747fc844aad7305d3efd32c5c1dbb9a3db56de5229501a39e341b2e80d926279"
+  },
+  "nu2": {
+    "sample": "奴",
+    "duration": 0.8,
+    "sha256": "629ab11bd0f2c1a68b203bfd877b17f7269e0b0b354a57571885cd1d4890b255"
+  },
+  "nu3": {
+    "sample": "努",
+    "duration": 0.4,
+    "sha256": "41ba520cdb09fc73dad561f9402f935ff593c6816f87bc8b95df3a2b37fd092e"
+  },
+  "nu4": {
+    "sample": "怒",
+    "duration": 0.5,
+    "sha256": "a35510f7d02c5c6ac52cc73e0ca296503867b5634203fe63d07117aa8646b372"
+  },
+  "nuan3": {
+    "sample": "暖",
+    "duration": 0.48,
+    "sha256": "c087c687d8bd4990179c0b67a2a82fae4aba5454e5e39bdca76f846a80d3fe6f"
+  },
+  "nuo2": {
+    "sample": "挪",
+    "duration": 0.48,
+    "sha256": "fd6c5155231311f70964bf4b4b80353bf61b2a31bb19b62cde4e80aad6cfb386"
+  },
+  "nuo4": {
+    "sample": "诺",
+    "duration": 0.4,
+    "sha256": "829c9d6d753acab3ff97e56e8963689b5fdf8ba104cb7eb7c96bd1005ea9f0f2"
+  },
+  "nv3": {
+    "sample": "女",
+    "duration": 0.48,
+    "sha256": "903f3829cf44779890b3437f4ec5ff36a450242b2b92f21fd96ef6d338abcf0f"
+  },
+  "nv4": {
+    "sample": "恧",
+    "duration": 0.4,
+    "sha256": "9d0dbb6e8d00de7121da1c91413c220797a51667f79a41d80ce80bf32603f4a6"
+  },
+  "nve4": {
+    "sample": "疟",
+    "duration": 0.64,
+    "sha256": "cf01bd7ed529594d6681c075dc34da7bf3a347bbedaa7d5585b9c54f86fd6a45"
+  },
+  "o1": {
+    "sample": "噢",
+    "duration": 0.32,
+    "sha256": "c397e7420626e217a00369bdbec7024468c79d3249a110c65abae61aa830f28d"
+  },
+  "o4": {
+    "sample": "哦",
+    "duration": 0.6,
+    "sha256": "884e0db7b08143f12f57e375544681ad9c194ea9f8dd5d2fe9c4d9d074cba3a5"
+  },
+  "ou1": {
+    "sample": "讴",
+    "duration": 0.4,
+    "sha256": "6895405c548d25dca2305d68b748064a86ce98d82eb27aa6a931176f19c6e246"
+  },
+  "ou3": {
+    "sample": "呕",
+    "duration": 0.72,
+    "sha256": "c6e7b377301f34a15d5e0696924dcabff06c376d12a050afc4f4f452e3cb4a84"
+  },
+  "ou4": {
+    "sample": "怄",
+    "duration": 0.48,
+    "sha256": "77791d2132e4dd6d14386f3b4f7da495ea61441ad5e5f01aeba08476379dc370"
+  },
+  "pa1": {
+    "sample": "趴",
+    "duration": 0.32,
+    "sha256": "727b03b3bc25501b08d37f5d7fd951ff2615c895af1d0e819adbd8adbd0a3a2b"
+  },
+  "pa2": {
+    "sample": "杷",
+    "duration": 0.48,
+    "sha256": "3df73f93a417684d967d6e44402d51777158093efe716360e9b7bec73ad60258"
+  },
+  "pa4": {
+    "sample": "帕",
+    "duration": 0.56,
+    "sha256": "4c8805fe70499aa302f1a40ee70b3f71c37a064ac55c8a7d7a8ee7461fd3b89d"
+  },
+  "pai1": {
+    "sample": "拍",
+    "duration": 0.48,
+    "sha256": "de00622f72f87ad2a79cbfc2251bdcc208ec2498b1cce4bdbebe1505d0bd305e"
+  },
+  "pai2": {
+    "sample": "俳",
+    "duration": 0.48,
+    "sha256": "dfb2f741572b12b3eb4e9f701d5abd2fac978b2caee4640522922bed91e21483"
+  },
+  "pai4": {
+    "sample": "哌",
+    "duration": 0.4,
+    "sha256": "d86f24a4c91f5f54ef83c4756fb24b238804dff1da9c59c45126ed8ecf11b86a"
+  },
+  "pan1": {
+    "sample": "潘",
+    "duration": 0.5,
+    "sha256": "b9b69f0a52850c7144ff12dde891cddec748dac739eca37c06806b55c73f4bf1"
+  },
+  "pan2": {
+    "sample": "爿",
+    "duration": 0.48,
+    "sha256": "574b2ea1ec8aaea71759d78873c3008ccb5d972d83eb5a5f41c6b624219d08be"
+  },
+  "pan4": {
+    "sample": "判",
+    "duration": 0.32,
+    "sha256": "2510708584aef00ae06e2b69133aefeb0a2641561eae1a9cd7b90ac2f994b73d"
+  },
+  "pang1": {
+    "sample": "乓",
+    "duration": 0.48,
+    "sha256": "c92358dca6b2f0cf7c9080f3c09573e48ddf6cfeda50ad1d6f39b682e3b0344c"
+  },
+  "pang2": {
+    "sample": "彷",
+    "duration": 0.64,
+    "sha256": "d15a8032c69cc1174616c0b04c75e1e8c9b9b54a8e998cc9108bd58029af5581"
+  },
+  "pang3": {
+    "sample": "耪",
+    "duration": 0.48,
+    "sha256": "530b49f9a4284dd74a5b25680550062d3eaa8ff13cb91318073c5e1b18bd1b28"
+  },
+  "pang4": {
+    "sample": "胖",
+    "duration": 0.4,
+    "sha256": "6a3593b6c54ccf8c1106a836f33cfcaafcca1e5d2600d8dc7ef53270d18c1892"
+  },
+  "pao1": {
+    "sample": "抛",
+    "duration": 0.4,
+    "sha256": "e9a0aa2a8f8e1a3d42155a8f7ad3e9b513664b09e0275b075d767bfb6efa492f"
+  },
+  "pao2": {
+    "sample": "刨",
+    "duration": 0.72,
+    "sha256": "e9eed951cf382ed7b189195a85f2b74cd2dd5aeba18637bd83cc3e95e869ae02"
+  },
+  "pao3": {
+    "sample": "跑",
+    "duration": 0.56,
+    "sha256": "002c02e525183bedccb22dc505bca7d1dc013a4496ca35046fb5e6577cb289f8"
+  },
+  "pao4": {
+    "sample": "泡",
+    "duration": 0.4,
+    "sha256": "cf07d4fd801e863c516605bfb0b87d5d9faa9ad4b011da6e22dfc650da47f4ea"
+  },
+  "pei1": {
+    "sample": "呸",
+    "duration": 0.4,
+    "sha256": "49fdcb956953123255eb8e4760505537afb082e72ce50f80c4ed06fc1ea026e1"
+  },
+  "pei2": {
+    "sample": "陪",
+    "duration": 0.32,
+    "sha256": "7cd8bfd9756fcb805d6bbe1e55bdca8d986508467074e7b780009ce5d98b3773"
+  },
+  "pei4": {
+    "sample": "沛",
+    "duration": 0.38,
+    "sha256": "90a945200e29d9014f1c9501c84b6a01f8065507ab2fcdd57d294bc4f7138b8a"
+  },
+  "pen1": {
+    "sample": "喷",
+    "duration": 0.48,
+    "sha256": "7e35c6b2333e0aae418d5d61d423b7e3d8a770b5a3ae8930fb420f257479780b"
+  },
+  "pen2": {
+    "sample": "盆",
+    "duration": 0.32,
+    "sha256": "30a085b983061441c497517c2360f93e5e0c64f6b0f836fb14ff04d4e5c1021a"
+  },
+  "peng1": {
+    "sample": "怦",
+    "duration": 0.5,
+    "sha256": "d04f16fded20d077fdc990dfc8f3744f4e55e6c30af8bb9f6c65dd182228da38"
+  },
+  "peng2": {
+    "sample": "朋",
+    "duration": 0.56,
+    "sha256": "0b7802b85380b65fdeb6faf853ad90683bf50371505ac71539ee9b0206b1f332"
+  },
+  "peng3": {
+    "sample": "捧",
+    "duration": 0.56,
+    "sha256": "122e0b95e039167f7315c40b7be8eb6642365627f1b72a2d615b00b3be625331"
+  },
+  "peng4": {
+    "sample": "碰",
+    "duration": 0.4,
+    "sha256": "c88fce77e34132bd127c44d9a4e4ec4d1321b5aee8a61af9a8011f235c9f391c"
+  },
+  "pi1": {
+    "sample": "丕",
+    "duration": 0.54,
+    "sha256": "9b947a216fa5f2ee8819a09261b57d4d03a65edcb7f57b2b407681fc5e76841b"
+  },
+  "pi2": {
+    "sample": "皮",
+    "duration": 0.5,
+    "sha256": "024d3103bad744cdc9c8c38dde40afeb93d31f41a1f3eee0bbceff3ff59ba6d1"
+  },
+  "pi3": {
+    "sample": "匹",
+    "duration": 0.64,
+    "sha256": "342f46dffa577349b1aeb4e1883f6a7fb8cddd45c1335dfb0c244e9056b0ed49"
+  },
+  "pi4": {
+    "sample": "屁",
+    "duration": 0.56,
+    "sha256": "d5a157b0d3ccc62163cfad0a7e351bfc26c91b3b0a060eff0e422338076fcb54"
+  },
+  "pian1": {
+    "sample": "偏",
+    "duration": 0.48,
+    "sha256": "79e23a61d65203abf3e41298cbac71c1b8e980d93d6140e151b1ee0582748d4d"
+  },
+  "pian2": {
+    "sample": "骈",
+    "duration": 0.64,
+    "sha256": "343b5f636b7e571b8b8d71cb975b0f21e612d9a899c1b9dd3db68e57e0f9eb00"
+  },
+  "pian3": {
+    "sample": "谝",
+    "duration": 0.48,
+    "sha256": "87175fc57eb624353bcd6df49998e22084a0e5165476fa2186e494d287afbaf7"
+  },
+  "pian4": {
+    "sample": "片",
+    "duration": 0.4,
+    "sha256": "f5e8e3b9c14311b5982107c9b043df5c6241fcf7f75da3e28721fd8818646dac"
+  },
+  "piao1": {
+    "sample": "剽",
+    "duration": 0.5,
+    "sha256": "bdec1419d49035764db8a866fbf15b033e3e67e291526ca1c2522113b48db31c"
+  },
+  "piao2": {
+    "sample": "嫖",
+    "duration": 0.56,
+    "sha256": "62810d59bb455142683093a70c8e856db9990a458951dc527a53c4f81cd1358a"
+  },
+  "piao3": {
+    "sample": "莩",
+    "duration": 0.38,
+    "sha256": "c36d89aa9e77296d54d93ba2deaab6c62e1441121ded8b0936850bd83ecc812c"
+  },
+  "piao4": {
+    "sample": "票",
+    "duration": 0.4,
+    "sha256": "8e72e326de072b67d3d014b7ec3b66d7b1f73501627bb806a8e0cf501b262902"
+  },
+  "pie1": {
+    "sample": "氕",
+    "duration": 0.5,
+    "sha256": "f9a26743fa22e6e0f0cf9c141a74b807348d50dd84d69f2bfc506efadbe93664"
+  },
+  "pie3": {
+    "sample": "苤",
+    "duration": 0.56,
+    "sha256": "308705bf572a32742320d0eb3c0f126aba7bfa5f2e45c8a7d4e4623be39b597e"
+  },
+  "pin1": {
+    "sample": "拚",
+    "duration": 0.72,
+    "sha256": "627f14dbb99dfd430da38099a7016c0a626ada079686ecef6976553b0a4a56be"
+  },
+  "pin2": {
+    "sample": "贫",
+    "duration": 0.48,
+    "sha256": "5e693131e6b78c3e7be056c87fd3d43815ee0410483e75c1d632e9c2296560ce"
+  },
+  "pin3": {
+    "sample": "品",
+    "duration": 0.64,
+    "sha256": "c87f919a94063543657cb1586bed9f20e164962bf8b1570c404f2b0151abc864"
+  },
+  "pin4": {
+    "sample": "牝",
+    "duration": 0.48,
+    "sha256": "dfe32f4b03fc46ee755ff4618107ac590bc561ee0d87e9fe71bba562f2afefa7"
+  },
+  "ping1": {
+    "sample": "乒",
+    "duration": 0.5,
+    "sha256": "f897102ac7d4f9775be65e437948be86e69959f4fff918e87329bc5569f86c96"
+  },
+  "ping2": {
+    "sample": "平",
+    "duration": 0.56,
+    "sha256": "fb1f8579c4de8f5a15d28c795d1b59cf0507d1708c26d871424d859abc556224"
+  },
+  "po1": {
+    "sample": "钋",
+    "duration": 0.52,
+    "sha256": "a1d9a98636694624c9a4c72585938ed091e3d8463f12c7e9a28702d8fd6e49be"
+  },
+  "po2": {
+    "sample": "婆",
+    "duration": 0.56,
+    "sha256": "58bcf32b0ccbfe6fbb67e74ada9a0ee2290a8682df61eff4f29b174274073de9"
+  },
+  "po3": {
+    "sample": "叵",
+    "duration": 0.64,
+    "sha256": "21f6047a2000b55cbae31d86bf4330c53d846e9869225466c3612812c32431ec"
+  },
+  "po4": {
+    "sample": "迫",
+    "duration": 0.64,
+    "sha256": "2fdc453ac33107d2991d288c80a7865d1fa95b8a2b3f273143e38a52bae408ae"
+  },
+  "pou1": {
+    "sample": "剖",
+    "duration": 0.88,
+    "sha256": "110c6725c063c14f3b628001f8293106c83ac0c6fda393287deab6293e204c50"
+  },
+  "pou2": {
+    "sample": "掊",
+    "duration": 0.4,
+    "sha256": "46c8182bc78477e0ae9c39fa74bf325745c4441df71b925179632dea6e174ee6"
+  },
+  "pou3": {
+    "sample": "咅",
+    "duration": 0.96,
+    "sha256": "94e65670e4fd60b1c36de3d1e8aad32a8c40dbf7afefc3dd4165a47ca08b2a88"
+  },
+  "pu1": {
+    "sample": "攴",
+    "duration": 0.44,
+    "sha256": "ecd902a0d67d093f414673fabe3199a8d9eb7c8e19f1ed7cd53019b0c249df25"
+  },
+  "pu2": {
+    "sample": "仆",
+    "duration": 0.56,
+    "sha256": "c14fcc8cf612d04d4f4841f27e1300f591b382e39b5b5e2bfdad8b22f0364482"
+  },
+  "pu3": {
+    "sample": "朴",
+    "duration": 0.6,
+    "sha256": "2c7604cadf0434ea645338c3c655a22a5f3594f64e0dd3c811df8c9277b05504"
+  },
+  "pu4": {
+    "sample": "铺",
+    "duration": 0.4,
+    "sha256": "fc5ef5552640fc25953c780439cf1be0df3856c482fda6f051cc12e4ec5dd0f6"
+  },
+  "qi1": {
+    "sample": "七",
+    "duration": 0.34,
+    "sha256": "0588421e0597cf498c180188b97ca1c547ea031aae14c747f9cba2d4fcf1bf09"
+  },
+  "qi2": {
+    "sample": "丌",
+    "duration": 0.72,
+    "sha256": "e3c3d7178f0ab30ef32002146d1b8680caf7c0fc8e680218b269165aa1643f5f"
+  },
+  "qi3": {
+    "sample": "乞",
+    "duration": 0.48,
+    "sha256": "a0bc41341d944f75698fb16d5f13eec566991ae37eca52c096ece2ff630c793a"
+  },
+  "qi4": {
+    "sample": "气",
+    "duration": 0.48,
+    "sha256": "b4ec8387a0f6e79d128932f51fa22be651e31b18510a6742f9e66aae2b0d4ce6"
+  },
+  "qia1": {
+    "sample": "掐",
+    "duration": 0.4,
+    "sha256": "b42034a7aa4a8bf7204448405e7e2d7a59658e89c4c973375b12039f24936772"
+  },
+  "qia4": {
+    "sample": "洽",
+    "duration": 0.4,
+    "sha256": "491b6f6cbb6cdaa65934846c97096341c58bb1f3693a18577f483a25c5a127b8"
+  },
+  "qian1": {
+    "sample": "千",
+    "duration": 0.32,
+    "sha256": "b3acd7b75c4867c24304416a802cca9af54bb38af7bde4e503954a4894f9131a"
+  },
+  "qian2": {
+    "sample": "前",
+    "duration": 0.5,
+    "sha256": "b8b3d5a59168f9672e9a28057fc5f3fe9278d41d5862acb7d39fefb3b822146d"
+  },
+  "qian3": {
+    "sample": "浅",
+    "duration": 0.96,
+    "sha256": "ee4f4bb973592ecffb953a35814ccd0c66e9ca78d62f50fae5eee2a34d972516"
+  },
+  "qian4": {
+    "sample": "欠",
+    "duration": 0.68,
+    "sha256": "518df3f69575636cd33efc368c02bdb65bcc5353ffdb05f2404bd5d6690e6734"
+  },
+  "qiang1": {
+    "sample": "羌",
+    "duration": 0.56,
+    "sha256": "050d606f0a408323b671fdcfbdbf9cdb4abbd88c3c224cfdce0b7a002b42a028"
+  },
+  "qiang2": {
+    "sample": "强",
+    "duration": 0.5,
+    "sha256": "e15753f835a25faaae574d80ecf8e0f715c631b4c4724622e491be6764a81823"
+  },
+  "qiang3": {
+    "sample": "抢",
+    "duration": 0.48,
+    "sha256": "610e81ae34227546378dc0b53755a406798654d1dbb85a4bb7f8f7da23b82d15"
+  },
+  "qiang4": {
+    "sample": "呛",
+    "duration": 0.48,
+    "sha256": "d72654332f0d36cf17d577275b0c01a8a18046d30a86b4e9a3e5022d825a34cb"
+  },
+  "qiao1": {
+    "sample": "悄",
+    "duration": 0.48,
+    "sha256": "139bd3b530066e2318b3dc203d24c93d0225b03325dd875047537b9ab5963f07"
+  },
+  "qiao2": {
+    "sample": "乔",
+    "duration": 0.54,
+    "sha256": "57c1a5a8ddfb5f6774c853d8e9db10fed7ef073870ba8de0814f2b858fe49980"
+  },
+  "qiao3": {
+    "sample": "巧",
+    "duration": 0.64,
+    "sha256": "05a7c4b932a38ae0faba7ff3b7bc5a4e95a4fae1104e24e79a184f04ae309339"
+  },
+  "qiao4": {
+    "sample": "俏",
+    "duration": 0.48,
+    "sha256": "f0328658e846d27682b54adeade137d2c501e22ba0f2e7bfe172fbb735ba1584"
+  },
+  "qie2": {
+    "sample": "茄",
+    "duration": 0.56,
+    "sha256": "5406a62d5d271abba4697519f839113b8e374e2d6e6fe501c7690d62a315ce54"
+  },
+  "qie3": {
+    "sample": "且",
+    "duration": 0.56,
+    "sha256": "273f14cb16d9472e982642ea819c006147b6ba029ad3e568d789b1512a24d526"
+  },
+  "qie4": {
+    "sample": "切",
+    "duration": 0.48,
+    "sha256": "94fbfbcccee328c00a73a36f15e2b264ff8a26a90426a03241c735e98b1c04b3"
+  },
+  "qin1": {
+    "sample": "亲",
+    "duration": 0.56,
+    "sha256": "c255e53d3422e84e4fe1d27aeb764f819f049011815c6afd0f496505d05caaf5"
+  },
+  "qin2": {
+    "sample": "芩",
+    "duration": 0.5,
+    "sha256": "b1b8f107caacf25778fb4f0d4588962544dee8ac3cbf0a0e303c8a9fe81b8f20"
+  },
+  "qin3": {
+    "sample": "锓",
+    "duration": 0.4,
+    "sha256": "b59de3332b3a2a121959d5752521798551897b42368fe670865c5e5e830a046b"
+  },
+  "qin4": {
+    "sample": "吣",
+    "duration": 0.64,
+    "sha256": "bbedf8b1284b430c3613a5ce52fdd31a5e1a594a7ae358ef8987733538b89386"
+  },
+  "qing1": {
+    "sample": "青",
+    "duration": 0.4,
+    "sha256": "938ea1b691f73709cf43efa9b88828d8c2af6ee2edadcfeeba2c22536095ddc5"
+  },
+  "qing2": {
+    "sample": "情",
+    "duration": 0.72,
+    "sha256": "91f030799f9fc80c3cac370c8604dc9a6e9f4b7539cd3fe9e4b4ea7c22f174ab"
+  },
+  "qing3": {
+    "sample": "苘",
+    "duration": 0.8,
+    "sha256": "8064dbb1dfc595a4f9f71c23ceaeede21f6e48c322b29c0a90e7b8e77563b67a"
+  },
+  "qing4": {
+    "sample": "庆",
+    "duration": 0.52,
+    "sha256": "984a9e38fc8695a0df0c5bb5bfd05efc4b313890885aa5881f03516571cdca91"
+  },
+  "qiong2": {
+    "sample": "邛",
+    "duration": 0.4,
+    "sha256": "20e9d578525ed75b5080d15bcf14bf376d60d1e3e38a5db3cf1bd8be87edbc58"
+  },
+  "qiu1": {
+    "sample": "丘",
+    "duration": 0.4,
+    "sha256": "e8fc1f1343e3d9431675cd6cdbd30a8e9774236d354a294814e70793a476cabc"
+  },
+  "qiu2": {
+    "sample": "囚",
+    "duration": 0.88,
+    "sha256": "770f1cd39f48318768d0ff36124ace1de120fba930157d0f9990a8c19903483e"
+  },
+  "qiu3": {
+    "sample": "糗",
+    "duration": 0.5,
+    "sha256": "66ac48431bfebfbfc88683a3456e0b3a6964b712ea5d9ed6cd0a051b32fba174"
+  },
+  "qu1": {
+    "sample": "区",
+    "duration": 0.4,
+    "sha256": "897991958f328f1c4b28ed9261c63c3b48a9904711ce0a1d511e331db5547b27"
+  },
+  "qu2": {
+    "sample": "劬",
+    "duration": 0.66,
+    "sha256": "cbd2425c13f950c2cb882007c2b53a2017fc3c08c5ca45b31613b8937c34e31b"
+  },
+  "qu3": {
+    "sample": "曲",
+    "duration": 0.48,
+    "sha256": "7c991190dfa2462963a397e707829bd6735003af3ae5ec2525bd5899c3d1cbba"
+  },
+  "qu4": {
+    "sample": "去",
+    "duration": 0.38,
+    "sha256": "dd99d2a9b76ecd9b97bb36b64bf6f4586362b5f74f77aed3db7189eefb3ee16f"
+  },
+  "quan1": {
+    "sample": "悛",
+    "duration": 0.7,
+    "sha256": "ce220fdeca0279da1dd38e166747cc68b72158e6a095c1a4a555650c9da09166"
+  },
+  "quan2": {
+    "sample": "全",
+    "duration": 0.72,
+    "sha256": "952d55bdcfa5d5040a784e66348c3115626123e27004300f7e51aa7764a9537f"
+  },
+  "quan3": {
+    "sample": "犬",
+    "duration": 0.56,
+    "sha256": "bffe7277e8e1bccade4f73d9780ac33cb1c50b360995e7061a7d8b75ba4526da"
+  },
+  "quan4": {
+    "sample": "劝",
+    "duration": 0.56,
+    "sha256": "5e9d16d3740cf6c97725489198f07a1832b3da2ed5eabfcaf94ea9a193063060"
+  },
+  "que1": {
+    "sample": "炔",
+    "duration": 0.72,
+    "sha256": "a82f477d19ee664f27c0a27e04dd8aaa5a376e52313f3a2f6b96ba4d042f6b77"
+  },
+  "que2": {
+    "sample": "瘸",
+    "duration": 0.64,
+    "sha256": "c5d7724b3f979105977c960a7226c26981e8b7cc21e0149e40cb987c5e47af74"
+  },
+  "que4": {
+    "sample": "却",
+    "duration": 0.48,
+    "sha256": "6cac910711c5d38bfc29a4f5805429b5b826c6d1fbbcc85bad4fac22e82a4fe1"
+  },
+  "qun1": {
+    "sample": "逡",
+    "duration": 0.4,
+    "sha256": "679b6c05ec1fed0fa877bc8eb6a5426127d9991bf87983414eda5c006e328edc"
+  },
+  "qun2": {
+    "sample": "裙",
+    "duration": 0.54,
+    "sha256": "b4a11d712f969e57837b4e262e86eb1a0e0f54e1d4e33afece635e8b84f2e75c"
+  },
+  "ran2": {
+    "sample": "蚺",
+    "duration": 0.54,
+    "sha256": "75a881cbbcca65223ca1e994f9496106e5aceac82148596ecd0c0491563b9371"
+  },
+  "ran3": {
+    "sample": "冉",
+    "duration": 0.48,
+    "sha256": "8f3b6e8d8b04281397d4e81a1acccb981cd8fb61da8760a01fe27fc6c2a7fc92"
+  },
+  "rang2": {
+    "sample": "禳",
+    "duration": 1.04,
+    "sha256": "223cc8bb7d2d0327ff3cf2c3199e2ded8d9b43bbeee97e5c602ed9ded55533be"
+  },
+  "rang3": {
+    "sample": "嚷",
+    "duration": 0.56,
+    "sha256": "20a50c1e40c4a9c972818e660b3baa2cd0656b04a8dd9c9bae316666572dc105"
+  },
+  "rang4": {
+    "sample": "让",
+    "duration": 0.48,
+    "sha256": "3d31b5c07cdee00ac37c32c19204337a958fa918fc7b79f63aa64ca6e17c2362"
+  },
+  "rao2": {
+    "sample": "娆",
+    "duration": 0.46,
+    "sha256": "e6fb176d9c0fd48ff04a94a72aaf182048f429ba3188168e1f6bec750e39e4af"
+  },
+  "rao3": {
+    "sample": "扰",
+    "duration": 0.32,
+    "sha256": "16901af7dd2934a680c61b3fe5cf2b90d3c68b18759693312f7575362c57c073"
+  },
+  "rao4": {
+    "sample": "绕",
+    "duration": 0.38,
+    "sha256": "27f26f74d25da7787270a9e10278c077e1d30f39dac027a482437848405d697e"
+  },
+  "re3": {
+    "sample": "惹",
+    "duration": 0.56,
+    "sha256": "332e0ce8ef4a8b31b36eabe8f4ecdaccbde07bff3e29e1d7c33d07a569fb2f69"
+  },
+  "re4": {
+    "sample": "热",
+    "duration": 0.6,
+    "sha256": "72357990e1c808eeeb812401be84e3bf675cc8f38acc82ce5a254f928d845f96"
+  },
+  "ren2": {
+    "sample": "人",
+    "duration": 0.62,
+    "sha256": "a3d8e1203f595157b0d0f4b26f18082f52ef08922773b957006027ba7e8eb619"
+  },
+  "ren3": {
+    "sample": "忍",
+    "duration": 0.46,
+    "sha256": "3a7cd881c987b704d251e19a6b6388c8b73913bcbdbb4b781efed54b7f925a6f"
+  },
+  "ren4": {
+    "sample": "刃",
+    "duration": 0.54,
+    "sha256": "58e9d1711dda0e2646febf1e5fc4d377726257f0ed94b03779fc089e4c66cd81"
+  },
+  "reng1": {
+    "sample": "扔",
+    "duration": 0.4,
+    "sha256": "567a6237af7303bdc5138a753e32478672933fe94b25ea1d7f5a2123558af891"
+  },
+  "reng2": {
+    "sample": "仍",
+    "duration": 0.58,
+    "sha256": "269c1213f23785c69bcb904617d05b15661a5ab7c6b9e09e1808cdfb0742f83a"
+  },
+  "ri4": {
+    "sample": "日",
+    "duration": 0.5,
+    "sha256": "de909f7b8d39396d623d56221fd9366d79c16aedb4fc9fd0a1655a30d78b78e5"
+  },
+  "rong2": {
+    "sample": "戎",
+    "duration": 0.62,
+    "sha256": "05e894ca192b5959e1a5cb5c3b148eeda0cedc98f6dbd8acaf582dfd1d118227"
+  },
+  "rong3": {
+    "sample": "冗",
+    "duration": 0.56,
+    "sha256": "5b21bfc4fb598e88a358976c598938b337e7b826d097e12eda3553f9214d5821"
+  },
+  "rou2": {
+    "sample": "柔",
+    "duration": 0.48,
+    "sha256": "014b4f574840c820b532310815fd3b3055e9661e7aaaf665cddf4c4c92f00734"
+  },
+  "rou4": {
+    "sample": "肉",
+    "duration": 0.4,
+    "sha256": "d85df3fac3087ca47a70fd3e9210f12533a4ef25c26c06296dd735dc72cd4b01"
+  },
+  "ru2": {
+    "sample": "如",
+    "duration": 0.4,
+    "sha256": "1c565cccee681534c3cf4e71dde7b96d14cd5d5581e0052a7dc974ea297724ed"
+  },
+  "ru3": {
+    "sample": "汝",
+    "duration": 0.64,
+    "sha256": "6ea319a7dd0b1731697bacd493e2bbf5135f725b7801dee8d8d3d61db84df835"
+  },
+  "ru4": {
+    "sample": "入",
+    "duration": 0.48,
+    "sha256": "784ef2a00c17f9455cd90d5928e7cc46d5a53e1ed1e181ae324b1b95febc5812"
+  },
+  "ruan3": {
+    "sample": "阮",
+    "duration": 0.4,
+    "sha256": "d9424f310a2b5ca54f499055a80bf1db8f928013b4b7cb19ed44f5832562dc76"
+  },
+  "rui2": {
+    "sample": "蕤",
+    "duration": 0.56,
+    "sha256": "a00c8b26edca7b2e7e62cd097955b587fe4ea94faa5d8f48c79398d4d747f332"
+  },
+  "rui3": {
+    "sample": "蕊",
+    "duration": 0.58,
+    "sha256": "018343255569134cfba0d372b3e50e8a73012ff215fddf3f92e5cf1bb29b3b4f"
+  },
+  "rui4": {
+    "sample": "芮",
+    "duration": 0.4,
+    "sha256": "23602dd6f19ac5f8350748f54b6fabb412c6a8c1879d7170bd20dcdf1c91a1c5"
+  },
+  "run4": {
+    "sample": "润",
+    "duration": 0.72,
+    "sha256": "fa02f715f7e326be6dc92144b4b869f499788f69bf5e81a4f2c7e312d4996aae"
+  },
+  "ruo4": {
+    "sample": "若",
+    "duration": 0.72,
+    "sha256": "a4c9b6d02a70cfcc7898e0382dd3656cf37aa9a2524688ce90b7d4b9133efa67"
+  },
+  "sa1": {
+    "sample": "仨",
+    "duration": 0.36,
+    "sha256": "7154caba620e1236a3ae28decc33afe7fab6a6b682d70b18b232ee92cab3a9f5"
+  },
+  "sa3": {
+    "sample": "洒",
+    "duration": 0.58,
+    "sha256": "add4afdab169ca479a6128645debf69c7ab67ea5d715a452f0da8f974676f868"
+  },
+  "sa4": {
+    "sample": "卅",
+    "duration": 0.46,
+    "sha256": "514127d1f2e0b95382d2ee12fc34826ce3179d4986a01cd03e1709e812eaa4bf"
+  },
+  "sai1": {
+    "sample": "塞",
+    "duration": 0.38,
+    "sha256": "2aac0753a16c971656f3455210d79d528c32af98a3486d7a8dc94ceabc1da200"
+  },
+  "sai4": {
+    "sample": "赛",
+    "duration": 0.56,
+    "sha256": "cc38d5c043e234a356c4dc4b1b423d675365a2994a4f47515e033c4cd5d13626"
+  },
+  "san1": {
+    "sample": "三",
+    "duration": 0.44,
+    "sha256": "9bd63aca07422f1fa5fd5a9e45238b3fbfc082d06ba0fadac0428581f3a88be2"
+  },
+  "san3": {
+    "sample": "伞",
+    "duration": 0.72,
+    "sha256": "a1c5c3c6c5d4af1e110cbc6126eaa38cdf45dfbbe453426da5d6b873809dbf35"
+  },
+  "san4": {
+    "sample": "散",
+    "duration": 0.54,
+    "sha256": "e7efba0c591a03a003aa0ddfb4b4c35a48ca71d2e56e704ec305e79357611984"
+  },
+  "sang1": {
+    "sample": "桑",
+    "duration": 0.46,
+    "sha256": "1bf4025cd866c2000dbb4d404e9ccdbe116f533535889ed576c6cbfbd6c8aa8d"
+  },
+  "sang3": {
+    "sample": "嗓",
+    "duration": 0.48,
+    "sha256": "aa260815a8a9d71a29059e24bb81988a2033ceec436767170ea8de6dd7486721"
+  },
+  "sang4": {
+    "sample": "丧",
+    "duration": 0.46,
+    "sha256": "3c4e759903c17a359826deba4f98fa312945f30c9801ea124e186de86ccb37cd"
+  },
+  "sao1": {
+    "sample": "搔",
+    "duration": 0.4,
+    "sha256": "40034fde8cb7dc0adf83ab34fa1c42272dbaf533abd84703bb489765a531e830"
+  },
+  "sao3": {
+    "sample": "扫",
+    "duration": 0.56,
+    "sha256": "74df0e5f455287e5db12b54ab666981da9b51a535e679466ec2ca2e68245f8ab"
+  },
+  "sao4": {
+    "sample": "埽",
+    "duration": 0.72,
+    "sha256": "56bdeff083410d9d8474b620281171c8554114e1c0a76e294352e442c1edf57e"
+  },
+  "se4": {
+    "sample": "色",
+    "duration": 0.22,
+    "sha256": "efd46ffb50c082112bd73e8c2e74dd00901f3a9f95253b6e1d27415f559db59b"
+  },
+  "sen1": {
+    "sample": "森",
+    "duration": 0.4,
+    "sha256": "3e0ddbe149a97c6c132124886bd3af5547b9751bbff2b5dcd9c49f6dbfab7de3"
+  },
+  "seng1": {
+    "sample": "僧",
+    "duration": 0.38,
+    "sha256": "6eab50d3b3dd439e699eee969a7af7b282f16ac1c488dfaca7135fdc7564ae8c"
+  },
+  "sha1": {
+    "sample": "杀",
+    "duration": 0.62,
+    "sha256": "29de16c7bc00bd0dac394082f2e33f4a1e14490937965b06cf9e139a3a938077"
+  },
+  "sha2": {
+    "sample": "啥",
+    "duration": 0.48,
+    "sha256": "a5a56e1cfbff164aa6e5f551203a66e56437c45444b47d8fc5c80fc1757f2cae"
+  },
+  "sha3": {
+    "sample": "傻",
+    "duration": 0.72,
+    "sha256": "7f05ebf5e128ee91d58ccca7e4bb5cf3fa4effd1bb274a8fd404ec8e25fd1a79"
+  },
+  "sha4": {
+    "sample": "唼",
+    "duration": 0.5,
+    "sha256": "0a870961b76e8772d4ff5f8a9830ada09a32a4c55cc41ff38618f7887645727b"
+  },
+  "shai1": {
+    "sample": "筛",
+    "duration": 0.64,
+    "sha256": "66db5985321da6a9c1b40a801e197ccaa184ff77f14bfc93c3081ed7570fd1b5"
+  },
+  "shai4": {
+    "sample": "晒",
+    "duration": 0.4,
+    "sha256": "01dd6a9bc2a09ff7ffacc31a94ad4f2b3b578d966214746cbd4a81232b19b861"
+  },
+  "shan1": {
+    "sample": "山",
+    "duration": 0.56,
+    "sha256": "3ba51950cf1c3e9e0db150b7baa0ffd1638b37daa1c0b22749397ab3001784cf"
+  },
+  "shan3": {
+    "sample": "闪",
+    "duration": 0.5,
+    "sha256": "fef51a8ce9f887851da12926ea968fb26ab17e33b3a4ed0e60a59a2618fd2fad"
+  },
+  "shan4": {
+    "sample": "讪",
+    "duration": 1.04,
+    "sha256": "50860fe96232c590fcf747e043b8f163c9cefe38f85023dd19878614b2cf78d6"
+  },
+  "shang0": {
+    "sample": "裳",
+    "duration": 0.48,
+    "sha256": "c985b094ebbd5da4af73f774947d0369dbbdb25e9cb7694d2bf818a72bfcf207"
+  },
+  "shang1": {
+    "sample": "伤",
+    "duration": 0.44,
+    "sha256": "d188afee7860b169745e72625ea904197f31be494a3652b1dc9d9604db370a22"
+  },
+  "shang3": {
+    "sample": "垧",
+    "duration": 0.48,
+    "sha256": "2a3a9fc76017848e1fa667daeb69ce5609590aadb71bbb3847e752814bd9bfd5"
+  },
+  "shang4": {
+    "sample": "上",
+    "duration": 0.48,
+    "sha256": "55a8e77b201c5431dac0a9762156b2632c869eb7b846540326a2f3f375917a29"
+  },
+  "shao1": {
+    "sample": "捎",
+    "duration": 0.36,
+    "sha256": "9478d4ba6039a6a150cde0453aee2157add36ec6c5d884091b9250a8a2ff6355"
+  },
+  "shao2": {
+    "sample": "勺",
+    "duration": 0.64,
+    "sha256": "71c60cd5032090ed9e5f50bcae076d341d1e7023902d355f6289548c559847fb"
+  },
+  "shao3": {
+    "sample": "少",
+    "duration": 0.66,
+    "sha256": "01adb247ba2e767cf69c44899af7df177566e3cd6bd6aa2304fc86e865f33a67"
+  },
+  "shao4": {
+    "sample": "劭",
+    "duration": 0.78,
+    "sha256": "64f6ec1455496506ecfa52d676af699b22200508ea39b84458ea9dd14df30983"
+  },
+  "she1": {
+    "sample": "奢",
+    "duration": 0.8,
+    "sha256": "453dbaef9bee6e5097bf0181a190b46b2b548f025fe40353156407db66218a5a"
+  },
+  "she2": {
+    "sample": "舌",
+    "duration": 1.36,
+    "sha256": "c5f5c90f0737d7703456d80dda300a309f9700ad7ff4a09cd1b3eaecda30ba29"
+  },
+  "she3": {
+    "sample": "捨",
+    "duration": 0.72,
+    "sha256": "7cfbf6fefda8721765ba7e550033c4e9fe94831b978f4f073e0be8654cc35187"
+  },
+  "she4": {
+    "sample": "厍",
+    "duration": 0.5,
+    "sha256": "6c5f08c0b2e8f7ec8f2db81848f50766dab582d2e1517c4b0e6217a77bbbef39"
+  },
+  "shen1": {
+    "sample": "申",
+    "duration": 0.4,
+    "sha256": "7f4f7c20c6f85616d4a8cd181537b3a2bd86bd0ea015a42f6a66a5f7e3b9502d"
+  },
+  "shen2": {
+    "sample": "什",
+    "duration": 0.56,
+    "sha256": "cbbe2450d239c80264607d7cff90f7306984a0edded2716ba4419a2c60342417"
+  },
+  "shen3": {
+    "sample": "沈",
+    "duration": 0.8,
+    "sha256": "0060b6617c8f7af1d915d87311b1437df1f6b7fdcb2314030c589754fbd5c72d"
+  },
+  "shen4": {
+    "sample": "肾",
+    "duration": 0.54,
+    "sha256": "179decd1e88120989514e536f046b0999fbcd0f74a699de2288ddc87aedf745b"
+  },
+  "sheng1": {
+    "sample": "升",
+    "duration": 0.48,
+    "sha256": "650d1c74e809c476441bd134558a7b67d672371c43d4a6ae683389acedec4dba"
+  },
+  "sheng2": {
+    "sample": "绳",
+    "duration": 0.48,
+    "sha256": "e77aceaf194b4ed1b7e2248b8a1707718df66cb07b5ccfe5f5abe347e12248e0"
+  },
+  "sheng3": {
+    "sample": "省",
+    "duration": 0.72,
+    "sha256": "e15b6a3739f6153cc7b3dc517c02675ab30ab39d377489edf5d183c16760bcfa"
+  },
+  "sheng4": {
+    "sample": "圣",
+    "duration": 0.4,
+    "sha256": "e4ee86ae302f6307c0f6094743b3c73801300057da3963a57f0e9d6fb67a5442"
+  },
+  "shi1": {
+    "sample": "尸",
+    "duration": 0.86,
+    "sha256": "b2dda54b54b1966a258d7938843cefd89030f8f59155022fc9f9e7c2547b3e2c"
+  },
+  "shi2": {
+    "sample": "十",
+    "duration": 0.8,
+    "sha256": "d73641dc173b146d7a1a0a1092d5c21f8a9d20b79f2c6ea38112e93e9b65efc2"
+  },
+  "shi3": {
+    "sample": "史",
+    "duration": 0.56,
+    "sha256": "4daeadbc4d22bd5bd7c94319ad3312537a0f49c7cca213b555ff6095e2d1d669"
+  },
+  "shi4": {
+    "sample": "士",
+    "duration": 0.7,
+    "sha256": "75876041cce45374957dba0b1031407d0bb521fea3dbb8707c11ba801118004a"
+  },
+  "shou1": {
+    "sample": "收",
+    "duration": 0.64,
+    "sha256": "5e2e149ede1e53bc83946b7a5ed32e956c4efafb78347f84eef0c6cdc02db554"
+  },
+  "shou3": {
+    "sample": "手",
+    "duration": 0.4,
+    "sha256": "1795bdcd3beb6740731afc945d8ec1c7a3e962de08a979791115097cb91f7d35"
+  },
+  "shou4": {
+    "sample": "寿",
+    "duration": 0.4,
+    "sha256": "c343c9e12415855e8b4935275c8a5c7d5279c46ba4e2f302d810c863d22e291f"
+  },
+  "shu1": {
+    "sample": "书",
+    "duration": 0.4,
+    "sha256": "955107d91056fc55274b2c52baf852037344af9a445d6bb225cea1ff73212af2"
+  },
+  "shu2": {
+    "sample": "秫",
+    "duration": 0.56,
+    "sha256": "88464fb3612f7250d7c18b24e634a933c6b97998465976e464390c7c58f53e99"
+  },
+  "shu3": {
+    "sample": "属",
+    "duration": 0.72,
+    "sha256": "1b6c0e1eed02307c1b492e21697c7b3a002da2deed3d50c91e43e0b6e4257335"
+  },
+  "shu4": {
+    "sample": "术",
+    "duration": 0.56,
+    "sha256": "291f6bb7d669bde4d0847f6817fb7a8bdae63ef17707f9778bc3a21c61dccd52"
+  },
+  "shua1": {
+    "sample": "刷",
+    "duration": 0.56,
+    "sha256": "1397af0875d57ae486bf153ed1e572881dead6926d42d538d6a1e24f4bfc3e6b"
+  },
+  "shua3": {
+    "sample": "耍",
+    "duration": 0.48,
+    "sha256": "0ba4a5d45686c3c9864a5072bddc5d50c1b10636a45f4fb9f9cefbb5df1d3383"
+  },
+  "shuai1": {
+    "sample": "衰",
+    "duration": 0.64,
+    "sha256": "1ef69905f6757038dcc0ca4c80497c132ab017150a3ea678ab45e3bb60d7880c"
+  },
+  "shuai3": {
+    "sample": "甩",
+    "duration": 0.4,
+    "sha256": "f29dbe6a243e548e0ae187ae2364d375fac4bfbf7e9ea9b748b4a723a9a5806a"
+  },
+  "shuai4": {
+    "sample": "帅",
+    "duration": 0.56,
+    "sha256": "748d56df9592da8c1468703d9b86d482217a77a163b38e156580e3ac45cbee58"
+  },
+  "shuan1": {
+    "sample": "闩",
+    "duration": 0.5,
+    "sha256": "713291676e7320a4d62ef5241f07ce80d54d0ec24d815c2f7dfd4c54cd2d94c1"
+  },
+  "shuan4": {
+    "sample": "涮",
+    "duration": 0.5,
+    "sha256": "bd89e7382447daeafa15ccae892c3650919d79f02cf16746486a9d649d3265f1"
+  },
+  "shuang1": {
+    "sample": "双",
+    "duration": 0.64,
+    "sha256": "f1594c316e2d93167aa2e209e3dbb30d99ef286329cb0e19147781977e987d48"
+  },
+  "shuang3": {
+    "sample": "爽",
+    "duration": 0.64,
+    "sha256": "5e09f44c6d029957367276f025641852d0586f8cc5d0569bd19d2b73a861c4f8"
+  },
+  "shui2": {
+    "sample": "谁",
+    "duration": 0.56,
+    "sha256": "c1e794b8eaa015742879642aa8b073643d079655db1c3791ca0ab0c9d8021883"
+  },
+  "shui3": {
+    "sample": "水",
+    "duration": 0.64,
+    "sha256": "15b8e561f15678b0b21bbd5d1db5d85debc70698cf18afdc42fc5b91a5a6f305"
+  },
+  "shui4": {
+    "sample": "税",
+    "duration": 0.56,
+    "sha256": "219b402fea91667e7a7e8ef991ee6bb2159010072ec6e2266806cdd1673e4d6a"
+  },
+  "shun3": {
+    "sample": "吮",
+    "duration": 0.64,
+    "sha256": "1d8e22e53369d0b7665c354a47c3e8b41b7ae8c2aa2ca929c2662220cb620045"
+  },
+  "shun4": {
+    "sample": "顺",
+    "duration": 0.72,
+    "sha256": "4f1aae95b804a2cde028454b3dafe4d09fdaa3dd13c53b24d98867a8d305dac3"
+  },
+  "shuo1": {
+    "sample": "说",
+    "duration": 0.72,
+    "sha256": "43e62648ef0584476cc90ecf1025f00c329e3990b12a31fa1d0bf9f51bb49ae2"
+  },
+  "shuo4": {
+    "sample": "妁",
+    "duration": 0.64,
+    "sha256": "6dfdadd431f69fe52f24a90dd1122c3500d6d34b781811dd46cd8fdc8fd6696a"
+  },
+  "si1": {
+    "sample": "厶",
+    "duration": 0.56,
+    "sha256": "925f56cebd1b3798aa61230ced5f2f3c9337300e5a05a56420e57e0f5d95c421"
+  },
+  "si3": {
+    "sample": "死",
+    "duration": 0.84,
+    "sha256": "1ef21c7cb9995de6fa1ac50e03b0695bedc592aa1b07ce1f1a3f2d18d0dc17bc"
+  },
+  "si4": {
+    "sample": "巳",
+    "duration": 0.5,
+    "sha256": "d89af66c6d23c175048b522304e1256a9a2b42fd46851c44c0af0878cc14e15d"
+  },
+  "song1": {
+    "sample": "忪",
+    "duration": 0.48,
+    "sha256": "4bd4b92b738821e8b355e03e72f93f9fd51e39c8100044d3cafd06c08006149b"
+  },
+  "song3": {
+    "sample": "怂",
+    "duration": 0.58,
+    "sha256": "b5d463522641223ce1542a455d51f891bddf4330db0c775835d69b43170e735e"
+  },
+  "song4": {
+    "sample": "讼",
+    "duration": 0.36,
+    "sha256": "a37c5c565ad56030f85775a2b5e18d19f454406b75f3de858d13aad986c266bb"
+  },
+  "sou1": {
+    "sample": "嗖",
+    "duration": 0.56,
+    "sha256": "de4822e4fb72309dda4514e6da41a09f4a12a2ba76bb4aaf216aca1673a78cb5"
+  },
+  "sou3": {
+    "sample": "叟",
+    "duration": 0.5,
+    "sha256": "af88649a87b34ef37cec1647bb0a1b06a820f1f1adf4f84b6f85113fccc9f7d1"
+  },
+  "sou4": {
+    "sample": "嗽",
+    "duration": 0.36,
+    "sha256": "8a003daa2a5b8cdc3d8b0dee24fbef6978dd0ebd77e6db34e1ef89dd7d0d7d50"
+  },
+  "su1": {
+    "sample": "苏",
+    "duration": 0.5,
+    "sha256": "6c743f35e9753af36d6c0f5a743f69d709aa2e1aafcbecce268483b401e152f9"
+  },
+  "su2": {
+    "sample": "俗",
+    "duration": 0.5,
+    "sha256": "b0dad781294623ee3d50d41e0384bf94966ad26baffbdae2e2db322a97b0cd9d"
+  },
+  "su4": {
+    "sample": "夙",
+    "duration": 0.56,
+    "sha256": "fc2f518d7a5018df9a252581289ab42699f5a794c96dd05c48d4c5f8f41d3990"
+  },
+  "suan1": {
+    "sample": "狻",
+    "duration": 0.6,
+    "sha256": "d5eac87526ce605490bbf56dba1174bdc1278eb10e911429c20087fcc8909616"
+  },
+  "suan4": {
+    "sample": "蒜",
+    "duration": 0.8,
+    "sha256": "a27c39374c6320303e61b69850e7a0f75925447306d0ae2d06fef5f7071dc480"
+  },
+  "sui1": {
+    "sample": "虽",
+    "duration": 0.52,
+    "sha256": "444ffbc927093ec5b345a2a80e23fde4c9b6f6a5e34e494ec8518837a3e0c4e8"
+  },
+  "sui2": {
+    "sample": "绥",
+    "duration": 0.72,
+    "sha256": "f51ee4375bf44556bf5ae0db2dae06bb3698fe63ce007f41eaad36003a8ea5bf"
+  },
+  "sui3": {
+    "sample": "髓",
+    "duration": 0.64,
+    "sha256": "0853814998cce11b077dc430185a7bb5cd2b5c45ee5cb13cf41567220bd17467"
+  },
+  "sui4": {
+    "sample": "岁",
+    "duration": 0.4,
+    "sha256": "85ce9e64f25335d337992b77d49940024bb52204b1e109eb29ef18b698770442"
+  },
+  "sun1": {
+    "sample": "孙",
+    "duration": 0.62,
+    "sha256": "4d7edf5ab6953783b0106843a539b4ba534c40b0ab1eb79a087f1c030429283a"
+  },
+  "sun3": {
+    "sample": "损",
+    "duration": 0.8,
+    "sha256": "9f282ad97d66b4a6250725ee90d513a5800c50fabbadea5a03f5eab72e8fc580"
+  },
+  "suo1": {
+    "sample": "唆",
+    "duration": 0.78,
+    "sha256": "f85d93824a9bdb5c7b92fa29453e0de0088a3045d3350168a660503b1ec778c9"
+  },
+  "suo3": {
+    "sample": "所",
+    "duration": 0.48,
+    "sha256": "b939824a632a5622b488cca6082b8b3c5bc6b47f4d33a465e8edf62af0957e85"
+  },
+  "ta1": {
+    "sample": "他",
+    "duration": 0.56,
+    "sha256": "48b9b59648227d8b725b0b4ab5143c49d95c1b64136b5d491ea0312ba6c2e316"
+  },
+  "ta3": {
+    "sample": "塔",
+    "duration": 0.56,
+    "sha256": "95fdad3be1acf17115d8b4e749e387f9b3766b93e7a6274e51c3e5051ecf4615"
+  },
+  "ta4": {
+    "sample": "沓",
+    "duration": 0.32,
+    "sha256": "25de72dd9e25bcea64a7d083c04ca88f699cf63be4d2509c7ffaff57f821cc61"
+  },
+  "tai1": {
+    "sample": "胎",
+    "duration": 0.4,
+    "sha256": "3abff3e1e3f536e968c5c2937d554a0ddf2dbd4b6e22d2ce61ae4973e3cb2101"
+  },
+  "tai2": {
+    "sample": "台",
+    "duration": 0.4,
+    "sha256": "6489d27f0d35345677751eefe0907776a182ef67707eb3ea159cac54c8c74c76"
+  },
+  "tai4": {
+    "sample": "太",
+    "duration": 0.4,
+    "sha256": "8009374f41d3e3bb6b6401232bf7ca7ce3c6f1356a288b2b71a454ea0af9eb5e"
+  },
+  "tan1": {
+    "sample": "坍",
+    "duration": 0.86,
+    "sha256": "aa2dd8a6a89ce8724ae6e72a6e74246924b211349508c323cde8d9a648f98b00"
+  },
+  "tan2": {
+    "sample": "坛",
+    "duration": 0.56,
+    "sha256": "e1b49b9d146cd75101a9af7a5edd1111131094c4a6918864195134f7ffb0e64a"
+  },
+  "tan3": {
+    "sample": "忐",
+    "duration": 0.48,
+    "sha256": "bddf0d7a0603368f77407a55f7968c727c408bbc374373827bb4662ec196e4ef"
+  },
+  "tan4": {
+    "sample": "叹",
+    "duration": 0.48,
+    "sha256": "927bab5f70d7e2c7d3fea62d62043fc375a2fd69f909d54756cbbfa0018dc216"
+  },
+  "tang1": {
+    "sample": "汤",
+    "duration": 0.48,
+    "sha256": "a8fb451fa9e7eac77338f9a3c18c34f84a03cd7088f500e5695d688f97b6a78d"
+  },
+  "tang2": {
+    "sample": "唐",
+    "duration": 0.4,
+    "sha256": "b5ca3c6ad1c1feaa96020876f23bc8e28f498042a858ddef2b711c431e03de05"
+  },
+  "tang3": {
+    "sample": "躺",
+    "duration": 0.56,
+    "sha256": "bf2abd6603a0ef51f9f4e5040cc4ad675c7e967d7c8cce5507844d344d09f621"
+  },
+  "tang4": {
+    "sample": "烫",
+    "duration": 0.4,
+    "sha256": "30c91fb8e4c464eccfa412b1542b4982097ab8827a6707193c8ff1eaee03eaa7"
+  },
+  "tao1": {
+    "sample": "涛",
+    "duration": 0.4,
+    "sha256": "443a2c4477f51edf2c08000c0bc4d03eec086fb23c3e4e54ced6fc214c9701c3"
+  },
+  "tao2": {
+    "sample": "洮",
+    "duration": 0.4,
+    "sha256": "d524deaa613d568b1ee96a5e3620f3f009fab025a033f18b32b5ed7b56e37f66"
+  },
+  "tao3": {
+    "sample": "讨",
+    "duration": 0.56,
+    "sha256": "2225e5df647e7f82a5efa4d0c2c8ccba5a356f98c3572aeaecf3d8ef222ebd19"
+  },
+  "tao4": {
+    "sample": "套",
+    "duration": 0.48,
+    "sha256": "6985e9db00910dab395b79b7dfe385c4f669f279bddbcfb30b65f78c775466ca"
+  },
+  "te4": {
+    "sample": "忑",
+    "duration": 0.32,
+    "sha256": "98956c4bb9cdfb23b94adaa4f1c33b90709b813abacf892fe74a05af7df166a3"
+  },
+  "teng2": {
+    "sample": "疼",
+    "duration": 0.32,
+    "sha256": "f528efaf8675c61779e4996b88b5019f5c05ad213656594ab9af3e58885af47f"
+  },
+  "ti1": {
+    "sample": "剔",
+    "duration": 0.4,
+    "sha256": "0c3b966f77b1c04fc6b2eae44c601b864ae6a45da43ac6bade2208697c12ec27"
+  },
+  "ti2": {
+    "sample": "绨",
+    "duration": 0.48,
+    "sha256": "b080d203989e9fb5ffe0d932ca8e51f7175c06b018cf80dac419335e37028a72"
+  },
+  "ti3": {
+    "sample": "体",
+    "duration": 0.56,
+    "sha256": "d3630db1d6d24bce891ffeeb45ab3081913e10cf18c228bfe8b092215c220241"
+  },
+  "ti4": {
+    "sample": "替",
+    "duration": 0.4,
+    "sha256": "69a96d10c28b2ed219c8579decda28710c8f51cc182efbcda992e4349bb38a06"
+  },
+  "tian1": {
+    "sample": "天",
+    "duration": 0.48,
+    "sha256": "f31120f2df15d1a95e6d6bf0213d54d62b8b78dbb842ec664c225e75b17fb609"
+  },
+  "tian2": {
+    "sample": "田",
+    "duration": 0.48,
+    "sha256": "7aae8df76b99a584db441eab34d766876b7effe86b2519ae125070f23916d9fa"
+  },
+  "tian3": {
+    "sample": "忝",
+    "duration": 0.74,
+    "sha256": "4c59e992cce638d450efe29f5370c68c741b469835421e5cd017ff829d2618f9"
+  },
+  "tian4": {
+    "sample": "掭",
+    "duration": 0.64,
+    "sha256": "fd6f74138f5d713dc7f4372493de932b386eab90a49c293308243eb7cc28cc20"
+  },
+  "tiao1": {
+    "sample": "佻",
+    "duration": 0.38,
+    "sha256": "2b6a3969314f4cb997d32a4e7b020141d10e107ac66a111c0fece57f0b683ca0"
+  },
+  "tiao2": {
+    "sample": "条",
+    "duration": 0.44,
+    "sha256": "56380161a0713ae87a0a3a1dcb0f7efa635d119061a4b625190e500f01954f17"
+  },
+  "tiao3": {
+    "sample": "窕",
+    "duration": 0.32,
+    "sha256": "127833cd3adf4234016e570b7d9eda55dc37019d1db67d0855aa6b3673bca818"
+  },
+  "tiao4": {
+    "sample": "眺",
+    "duration": 0.48,
+    "sha256": "7fddd0f02c2bbdcde18cdf4520042b8b26a7412142ba1299f9556d211ab73f55"
+  },
+  "tie1": {
+    "sample": "帖",
+    "duration": 0.4,
+    "sha256": "96aba0301387a4ae8753a6c3c50366fb1b640de4a35c2e842493d9f20de6ad3f"
+  },
+  "tie3": {
+    "sample": "铁",
+    "duration": 0.78,
+    "sha256": "da228dbd970d6e9e2ac2da017e55fa2801065e22d6897a69ce1ce0683e4ccc4a"
+  },
+  "tie4": {
+    "sample": "餮",
+    "duration": 0.8,
+    "sha256": "9d44df87f28ad8de4b353e915e55f7c87225acd9d5fae030cd7ac9a9527159ad"
+  },
+  "ting1": {
+    "sample": "厅",
+    "duration": 0.34,
+    "sha256": "43e6566416b6f7c10b49f113c362b957591551b481bff702eb6d45169a06873a"
+  },
+  "ting2": {
+    "sample": "廷",
+    "duration": 0.48,
+    "sha256": "4411c0c0491043f679a50329e086de3b59a1e77f45eb67a2af40e28ed09f8643"
+  },
+  "ting3": {
+    "sample": "挺",
+    "duration": 0.5,
+    "sha256": "dea6f3e66352f2aa425e387dac9b39758f1d32dee5e298308e61a951d0dc6f2d"
+  },
+  "tong1": {
+    "sample": "通",
+    "duration": 0.5,
+    "sha256": "47b4feb270db29a4e074b792fbc15ae0b3261c0728b162c62bf1894c8a1eae91"
+  },
+  "tong2": {
+    "sample": "仝",
+    "duration": 0.4,
+    "sha256": "be11e82b952a221bb01ee1e3ef00eb026df852b2c03c4d7371062d272ecad6e6"
+  },
+  "tong3": {
+    "sample": "统",
+    "duration": 0.48,
+    "sha256": "d73c20eb647131c961d134fd945cd37cac70932cbc00ac91d43414dea422a9aa"
+  },
+  "tong4": {
+    "sample": "恸",
+    "duration": 0.48,
+    "sha256": "fa5c3cee6cb8abd3046d27eae575b1239345a7c21bb5cbfa840c2d18d01ee691"
+  },
+  "tou1": {
+    "sample": "偷",
+    "duration": 0.4,
+    "sha256": "4c188208dbea855f3eb87466a49be16a53618acb53522798157df928466838d7"
+  },
+  "tou2": {
+    "sample": "头",
+    "duration": 0.4,
+    "sha256": "b574fed7f5cd871a3a4b551bd8a617712b61d4457161cca446cf7a47492b40a5"
+  },
+  "tou3": {
+    "sample": "钭",
+    "duration": 0.48,
+    "sha256": "18c4db00372d1939a2b009b5210c9c16e7dda60f819fd3cfd48ead5c59ceb36a"
+  },
+  "tou4": {
+    "sample": "透",
+    "duration": 0.4,
+    "sha256": "49ba8abbc4ba363f9234c5a210da5773427deb04ad2efa56452ac89739dcaa3e"
+  },
+  "tu1": {
+    "sample": "凸",
+    "duration": 1.04,
+    "sha256": "f1cce216d770011f0518a0459390265a4479383ec441cb21ba48c13d03c01801"
+  },
+  "tu2": {
+    "sample": "图",
+    "duration": 0.56,
+    "sha256": "34482a713c1b4dd4ce3d223e4aa449738a4c11f580d9c4397c75b3d9ae9c701d"
+  },
+  "tu3": {
+    "sample": "土",
+    "duration": 0.64,
+    "sha256": "7ab7571c9d7243bbfe56d304e48b90b723011d7f99bf90490cccdf347b3a22f0"
+  },
+  "tu4": {
+    "sample": "兔",
+    "duration": 0.4,
+    "sha256": "7fa5f4eb4c436d818cddf2c235dd8263312018b37c2c116072d7dce56d1df4cf"
+  },
+  "tuan1": {
+    "sample": "湍",
+    "duration": 0.4,
+    "sha256": "96c95b632ce70e49d84d30399d84fc7f067834d46c501b80d2aba124007800e3"
+  },
+  "tuan2": {
+    "sample": "团",
+    "duration": 0.32,
+    "sha256": "0c9b693857da06f48ea82bd71c32237d65ee3df9cfa69785f2c198a4c210ee95"
+  },
+  "tuan3": {
+    "sample": "疃",
+    "duration": 0.8,
+    "sha256": "ac97f7c797d615ca38a5438a9c995c9176b9d6ff330fc0a5242f43bc34f6402a"
+  },
+  "tuan4": {
+    "sample": "彖",
+    "duration": 0.52,
+    "sha256": "c0ad7257e2b99ad00835586ad8245713017d7f31b65a15c9ef5c62fc891d749a"
+  },
+  "tui1": {
+    "sample": "推",
+    "duration": 0.32,
+    "sha256": "66bcef8f58635d08a0ab822b58e11b73f10e276766d0afdc40249914d906d0eb"
+  },
+  "tui2": {
+    "sample": "颓",
+    "duration": 0.64,
+    "sha256": "9d9f4bd22d1b73caa410764909ef06ac0989b2b2bab8424b54e9dcd3dab67965"
+  },
+  "tui3": {
+    "sample": "腿",
+    "duration": 0.56,
+    "sha256": "8504a3bd352c3baae499ce179e9f03b0d97b4f7baf82125a276dbf74711695a0"
+  },
+  "tui4": {
+    "sample": "退",
+    "duration": 0.32,
+    "sha256": "6ca9775a4b6c338ae538a0f1061e09a340ef2cc32a34fc173d542d393a086623"
+  },
+  "tun1": {
+    "sample": "吞",
+    "duration": 0.4,
+    "sha256": "9e13b616e36098deb9e56cf9de8735c1217e4fe0f1068cd873de146d38fd2e34"
+  },
+  "tun2": {
+    "sample": "屯",
+    "duration": 0.72,
+    "sha256": "5cc9118f373f0c7a4f6199f586dbfe36a93386cc87ebf71a010d1ea85cbe088e"
+  },
+  "tun3": {
+    "sample": "氽",
+    "duration": 0.6,
+    "sha256": "e186221be5a95d9a5bdbf6976b64551bb0a6f11c08da534b59fa8ff6623792a9"
+  },
+  "tuo1": {
+    "sample": "讬",
+    "duration": 0.5,
+    "sha256": "cea98268d5b3763a2ec48c5c1c59f9918a9e1651a5c6bd9dfab46d028c845e31"
+  },
+  "tuo2": {
+    "sample": "驮",
+    "duration": 0.96,
+    "sha256": "50520d8c13f1d60ec45ca065b9760c3666656c2cd2939cef9fad68bd336f357d"
+  },
+  "tuo3": {
+    "sample": "妥",
+    "duration": 0.4,
+    "sha256": "0c8ea9a9f5d00f04f2a652537eb0a2808cb62820170f194620472dc64f825182"
+  },
+  "tuo4": {
+    "sample": "拓",
+    "duration": 0.4,
+    "sha256": "cf88f0df911c87560a48f07941238372d581b458d81b5136194792dc6b80a988"
+  },
+  "wa1": {
+    "sample": "哇",
+    "duration": 0.52,
+    "sha256": "06c8da7efd4b6ebc76942871df09e150d6b392c02cfaf20f586aa09ce9562391"
+  },
+  "wa2": {
+    "sample": "娃",
+    "duration": 0.88,
+    "sha256": "9642a400469860fc05e11fbaae5003068248b25a1ceab384d4f7751ce2ce1dfb"
+  },
+  "wa3": {
+    "sample": "瓦",
+    "duration": 0.5,
+    "sha256": "f71c09abe161ba730a9a850a8ce0c2d2a157f9cd2031e437be313b0d45e34061"
+  },
+  "wa4": {
+    "sample": "袜",
+    "duration": 0.72,
+    "sha256": "9dee6ef5e3ff0f8cb0c3716dd670b329044a3df352990ae633520a2b284f186e"
+  },
+  "wai1": {
+    "sample": "歪",
+    "duration": 0.5,
+    "sha256": "dc787fc46821534a0261e3a2f8dd5548e42fae0cf08af1804f241c863e2867ad"
+  },
+  "wai3": {
+    "sample": "崴",
+    "duration": 0.32,
+    "sha256": "5283cd9814df9bb5724bbd04ae58397484302b1c772d9f5451f622a2fde4373d"
+  },
+  "wai4": {
+    "sample": "外",
+    "duration": 0.32,
+    "sha256": "d4c74af2058f2ce0737c9280e484ab7941fe724b808115b645e3458f1dfcaa97"
+  },
+  "wan1": {
+    "sample": "弯",
+    "duration": 0.32,
+    "sha256": "0d10d3b7f176271b39d652059e2d11bad251319c4b30fda6e82c631c508322f9"
+  },
+  "wan2": {
+    "sample": "丸",
+    "duration": 0.4,
+    "sha256": "3119d7638967fc8c9742be028f116491e369d1753d90815848aa37165e976e89"
+  },
+  "wan3": {
+    "sample": "宛",
+    "duration": 0.4,
+    "sha256": "787f64b90cc4e7e3aad4001041c343101bfd8287ab259bddb7fff7d8e83f884b"
+  },
+  "wan4": {
+    "sample": "万",
+    "duration": 0.72,
+    "sha256": "dae75a3561b1a4243981e964eb9ab6d92afcae9571bc255542f83f83296dd636"
+  },
+  "wang1": {
+    "sample": "尢",
+    "duration": 0.86,
+    "sha256": "25226b9008eb49bfe70d194c477a61093013aa60a4d9970d6132f02791a0a5f2"
+  },
+  "wang2": {
+    "sample": "亡",
+    "duration": 0.52,
+    "sha256": "f28a0c9d231d1f6d34d1d1040fef1ce2a440911be0c0e80f92fd7dcab855e57b"
+  },
+  "wang3": {
+    "sample": "网",
+    "duration": 0.56,
+    "sha256": "24926fa43136c2ed0a4c68fd0a1230602be7c8a11237abb31cc46a64fee2e7bd"
+  },
+  "wang4": {
+    "sample": "妄",
+    "duration": 0.64,
+    "sha256": "f90caf146de9f9365635978b2fbc307f81707655b0a22ea301dab984b34c7c04"
+  },
+  "wei1": {
+    "sample": "危",
+    "duration": 0.32,
+    "sha256": "3f95a53625a14afd20c3c0601f0a951c4be97dcb901ebb714886a9a00694e517"
+  },
+  "wei2": {
+    "sample": "为",
+    "duration": 0.56,
+    "sha256": "80d87ffda8cee415c3be36502580f3daf62b2c4227b3a5ee48720b349527885c"
+  },
+  "wei3": {
+    "sample": "伟",
+    "duration": 0.48,
+    "sha256": "359a883a07db1ca3456d7ac543a5b6d8b9f2bbe1cff60bd9e037aa6c9220801f"
+  },
+  "wei4": {
+    "sample": "卫",
+    "duration": 0.4,
+    "sha256": "321bfefed115d51cc38b855df99e29a2b96048d0a4095243303b007221d27949"
+  },
+  "wen1": {
+    "sample": "温",
+    "duration": 0.48,
+    "sha256": "8fd829f04ac43c6dc75689c19c523779e6fc897180cdde481d4adbb718605ae0"
+  },
+  "wen2": {
+    "sample": "文",
+    "duration": 0.56,
+    "sha256": "d1c3f6c5bb55a1ee87ade0798983c8c134acfb5f826c4ed9dfaa7f3ba3948abd"
+  },
+  "wen3": {
+    "sample": "刎",
+    "duration": 0.4,
+    "sha256": "e490f3b445d1806549981bb3a9c8a004f828b4a46ebe68790fd5336457a4b176"
+  },
+  "wen4": {
+    "sample": "问",
+    "duration": 0.32,
+    "sha256": "d3a8ba7059d693636edb548f269db61bec0b98f4a3b430b94c2fb3a9126c6702"
+  },
+  "weng1": {
+    "sample": "翁",
+    "duration": 0.32,
+    "sha256": "9c7c70ed0beb56a5f3a9b788cce01b4ea54fb97ed889da3065cdd10a43ef5b47"
+  },
+  "weng3": {
+    "sample": "蓊",
+    "duration": 1.04,
+    "sha256": "b6f1a2ebd72b9ff50ea315b73c807a2ac94febbaf21245f9efd321c5d0e75601"
+  },
+  "weng4": {
+    "sample": "瓮",
+    "duration": 0.4,
+    "sha256": "6d488bb45e05b83dc2cdd10e88f9290f176b9b89a324b8e663858a3912a1906b"
+  },
+  "wo1": {
+    "sample": "挝",
+    "duration": 0.56,
+    "sha256": "d0520872514880def3648c0f988489161dc99e5c6ee7439058e7f3e20a56623d"
+  },
+  "wo3": {
+    "sample": "我",
+    "duration": 0.4,
+    "sha256": "4f7f3f31226934407a4beb1bb2e122644fc37128a68ae4e78f4326d934d12ac3"
+  },
+  "wo4": {
+    "sample": "沃",
+    "duration": 0.48,
+    "sha256": "02619001a7424d86bde3f271e523f646abb2720efaedf1601b32bc1377c0f447"
+  },
+  "wu1": {
+    "sample": "乌",
+    "duration": 0.48,
+    "sha256": "deee820a24d0db972ec68b118a235c018e549ae50f7b4c6404bc98c6f50f0f41"
+  },
+  "wu2": {
+    "sample": "无",
+    "duration": 0.32,
+    "sha256": "aed1e1dea806890c1e920b307687dde86edc194e5a7c2ddd05297ea89e1d3306"
+  },
+  "wu3": {
+    "sample": "五",
+    "duration": 0.5,
+    "sha256": "bc658156f99510cd79bfb327e369cca409faed8f27972d4dc7b1fbc028d164d4"
+  },
+  "wu4": {
+    "sample": "兀",
+    "duration": 0.8,
+    "sha256": "5e4f6ce2a7ce3d36125482cefc97bd20d6d50daf025b3709c4ae919b01a55e76"
+  },
+  "xi1": {
+    "sample": "夕",
+    "duration": 0.64,
+    "sha256": "acce452c9163ae124084c13a8d453f82799425fafadbc34970c75827b2c26167"
+  },
+  "xi2": {
+    "sample": "习",
+    "duration": 0.84,
+    "sha256": "981afa37ff67562a5eeccffec840c6932894ec9dd71373900f5d20392453bd8e"
+  },
+  "xi3": {
+    "sample": "洗",
+    "duration": 0.62,
+    "sha256": "370ae3b0d8d259ad8e65205923f3f4ab73ee647ae7da589ee89b701fb8dc72f2"
+  },
+  "xi4": {
+    "sample": "戏",
+    "duration": 0.56,
+    "sha256": "68580d8c4c0ab38b93db3ff2364b33a02ee26a6d8226066454593d122bec9a36"
+  },
+  "xia1": {
+    "sample": "呷",
+    "duration": 0.64,
+    "sha256": "760396664bf0d158ec975ffbdc48db03ddc9fb38644c53bbe01fd0883abbb546"
+  },
+  "xia2": {
+    "sample": "匣",
+    "duration": 0.52,
+    "sha256": "d6cbea9ecfc9742950a347197a7ef04a857ab042fd09d642b3bb27d9c5869ffd"
+  },
+  "xia4": {
+    "sample": "下",
+    "duration": 0.4,
+    "sha256": "86ab6bb6f3dc329af19d07dbd2fff608d0b4de4a45321421a2bcc646ee79d819"
+  },
+  "xian1": {
+    "sample": "仙",
+    "duration": 0.8,
+    "sha256": "8709836b640535f3c49ad97da4feb41074c2dfcdc24cd88ef7dcd87102180721"
+  },
+  "xian2": {
+    "sample": "闲",
+    "duration": 0.48,
+    "sha256": "7a3a01aa2e0704100921f37473e454eff1b9e8e986fc74c50b319da360a0f8a9"
+  },
+  "xian3": {
+    "sample": "冼",
+    "duration": 0.88,
+    "sha256": "a16a0b03f30c07cf9773163008fbca7235df8584a92327008d858f03d3d118f6"
+  },
+  "xian4": {
+    "sample": "县",
+    "duration": 0.5,
+    "sha256": "4d29ae73d3a4504a1eb6b7229759090ee4002152d8991bcbc67f1046708c4785"
+  },
+  "xiang1": {
+    "sample": "乡",
+    "duration": 0.64,
+    "sha256": "0317f0e0cffa7ab5041f838798fce13f1dc97219eb6e6a5078c66d2d137cb0da"
+  },
+  "xiang2": {
+    "sample": "详",
+    "duration": 0.62,
+    "sha256": "104e3762c6bfdd96a2f5e9c71611f8a8120bcf9349a8491601652e904a489523"
+  },
+  "xiang3": {
+    "sample": "享",
+    "duration": 0.38,
+    "sha256": "423282bbcf292ab7bb4bfbada3499aa69161306f85b38648e9ab8cb7fa786067"
+  },
+  "xiang4": {
+    "sample": "向",
+    "duration": 0.44,
+    "sha256": "5385edb08d310105c486eba630cbb48ecaa660ef47540e3279b7cec1c6dd841c"
+  },
+  "xiao1": {
+    "sample": "消",
+    "duration": 0.54,
+    "sha256": "53c9d4c5e46b5319190a6e266d434b1482362987044fd47a54f11d072bedb1d1"
+  },
+  "xiao2": {
+    "sample": "崤",
+    "duration": 0.8,
+    "sha256": "aa0c06196aa979d2b766cd93df2a060c8d81c229e8044bd740c19b0055d938db"
+  },
+  "xiao3": {
+    "sample": "小",
+    "duration": 0.56,
+    "sha256": "a4c121840ec95019a31c0fe7502fafa3ef96a1bd2d3097cb28f025005b1f44d2"
+  },
+  "xiao4": {
+    "sample": "孝",
+    "duration": 0.56,
+    "sha256": "8390043aa39880c58b4fb3e1c6c9e94d0a8bd2ecd23698ed62d9a214c561b1fe"
+  },
+  "xie1": {
+    "sample": "些",
+    "duration": 0.72,
+    "sha256": "c93ba1e03bc3d1d1e0aeb57f392592b389c4a5dc60a4633c761885e1b169190a"
+  },
+  "xie2": {
+    "sample": "协",
+    "duration": 0.94,
+    "sha256": "826337a437f68bd9e23b957be395f018a87c208b2b074d0b904ee611ff92da14"
+  },
+  "xie3": {
+    "sample": "写",
+    "duration": 0.62,
+    "sha256": "2a040958910c4b5ada9850652f7bd47d1f4827c0b155d32e5c3e8c0ff052b334"
+  },
+  "xie4": {
+    "sample": "泄",
+    "duration": 0.56,
+    "sha256": "c61f95e45ecb71d251a0603fe63af6a4f67fe4ec66ce8623a39e53745ee35d84"
+  },
+  "xin1": {
+    "sample": "心",
+    "duration": 0.34,
+    "sha256": "b59576065881676265eef69a71d4bc445e4fac88a409442d59a89f0bc4bd2575"
+  },
+  "xin4": {
+    "sample": "囟",
+    "duration": 0.5,
+    "sha256": "0e33be1524d0bc0e0ec23be845a7a690603cd6fdf732818e7b438abc81580c8a"
+  },
+  "xing1": {
+    "sample": "兴",
+    "duration": 0.56,
+    "sha256": "0349c1a27bf3a269e799552fb8f572d09123acd45e0fe31d6456ba53bfa98da5"
+  },
+  "xing2": {
+    "sample": "刑",
+    "duration": 0.56,
+    "sha256": "4a9a615e0b8c95ed805e58fe3c20c89e733b8cce7545bf5545e550772ec6f0d1"
+  },
+  "xing3": {
+    "sample": "醒",
+    "duration": 0.54,
+    "sha256": "f4607e5e06113e7091a8af07b8288e57ff72382087b096c7516a6eda101d006b"
+  },
+  "xing4": {
+    "sample": "杏",
+    "duration": 0.48,
+    "sha256": "e63db955999513fec0daa9490c7cc51224a970b3fcf6bfa62229150d8de600ef"
+  },
+  "xiong1": {
+    "sample": "凶",
+    "duration": 0.72,
+    "sha256": "8708cbd93f904f77ef30040e6e5a1eedfddec30ed7dee63a1c981b151dd93898"
+  },
+  "xiong2": {
+    "sample": "雄",
+    "duration": 0.56,
+    "sha256": "d31c3893cfd6d8724daa3e9edc5b276cddae9ecb830b377591625f146e387582"
+  },
+  "xiong4": {
+    "sample": "敻",
+    "duration": 0.64,
+    "sha256": "7944ab6fe63b721f9f445e968e8377369301630f367f630c05eca5f68c037294"
+  },
+  "xiu1": {
+    "sample": "休",
+    "duration": 0.56,
+    "sha256": "06c83919483ef2e62de6c1832ca0de9ed27506f2d3d8834a6c3d180094dbb5a6"
+  },
+  "xiu3": {
+    "sample": "朽",
+    "duration": 0.7,
+    "sha256": "45f3cdadd4311812b281a7abb3ade771dce55a31e679cb1cc8d0dc9363a9396f"
+  },
+  "xiu4": {
+    "sample": "秀",
+    "duration": 0.4,
+    "sha256": "5220e48efa3e9b42c32982ef1e1fcba2b13823204fa4b632b6e6e467dc056098"
+  },
+  "xu0": {
+    "sample": "蓿",
+    "duration": 0.64,
+    "sha256": "a82e6714574115cc8937895ebe24cff117cf95b30260636761cb601cb41599d5"
+  },
+  "xu1": {
+    "sample": "吁",
+    "duration": 0.88,
+    "sha256": "4b69f4b1d5a1bfcd53f7543eded8b7514507ebb07da08cb825febf7a296354fb"
+  },
+  "xu2": {
+    "sample": "徐",
+    "duration": 0.52,
+    "sha256": "e18c28599a497a8a8f7c7120718c854ad32fea8f73394cfa5188d5814d3dddfa"
+  },
+  "xu3": {
+    "sample": "许",
+    "duration": 0.76,
+    "sha256": "766f8d5d0a0441aa1ad1c29bc7e64154d4fb269e7997f18e74c3e056ab68e611"
+  },
+  "xu4": {
+    "sample": "旭",
+    "duration": 0.8,
+    "sha256": "05e182a89ededb95b7a57047bdedbc018f583466a2d143a94f09aa4d998d77c4"
+  },
+  "xuan1": {
+    "sample": "轩",
+    "duration": 0.72,
+    "sha256": "1c90e6224cb68ec89c2f09a99dc428b50f1977e0c63ba36cd126b91192b4a72f"
+  },
+  "xuan2": {
+    "sample": "玄",
+    "duration": 0.5,
+    "sha256": "ea56b74cc9d3aa675a182c667b8bc7b30db46bbbe4d3dd65072f1ee51286150f"
+  },
+  "xuan3": {
+    "sample": "选",
+    "duration": 0.5,
+    "sha256": "54722f9de643bea28a2dd835ffc2d571c34317b883ea1b7df691002ea502efde"
+  },
+  "xuan4": {
+    "sample": "泫",
+    "duration": 0.5,
+    "sha256": "a2b543c2d4cd596b6b90c334b48281bcc3fc1c7423655e4d408a9c1440e27da6"
+  },
+  "xue1": {
+    "sample": "靴",
+    "duration": 0.6,
+    "sha256": "77ef81d45b0db03c76724846a984bd15aa702b2fd7399bc65a4b1f1cc70f9f2e"
+  },
+  "xue2": {
+    "sample": "穴",
+    "duration": 0.72,
+    "sha256": "480ecaac93bf1136a84b20349d8b42319dce4c0b32eadf496ca896390fe9c1d1"
+  },
+  "xue3": {
+    "sample": "雪",
+    "duration": 0.78,
+    "sha256": "78b4e513bd27fcdf211b5ba06af4400dcc802acac97945f5544776bc294e9a4d"
+  },
+  "xue4": {
+    "sample": "谑",
+    "duration": 0.72,
+    "sha256": "3a31c0a1d1dd80d4c9cf656fbfcd378bfcf60fc00fd96e5a96d995e9d9d3bb69"
+  },
+  "xun1": {
+    "sample": "勋",
+    "duration": 0.5,
+    "sha256": "d24e6375b2837c0a95c1818dcced66ba9be3479de3900d6f1d6e964bb57ba3ec"
+  },
+  "xun2": {
+    "sample": "寻",
+    "duration": 0.74,
+    "sha256": "24d01f27933270a1a0e08958377a2c67a2d3e779df050021b2e1d0b44bab7eed"
+  },
+  "xun4": {
+    "sample": "训",
+    "duration": 0.5,
+    "sha256": "198a28f1ea1fb7eb89086792fd6f5f0b0fa2112f0e2f7b32b8a02217563295ef"
+  },
+  "ya0": {
+    "sample": "呀",
+    "duration": 0.32,
+    "sha256": "9b0fd0e82e20f1857e902313cea8d5297182f34186ca9c526e6b5b6f098f313b"
+  },
+  "ya1": {
+    "sample": "丫",
+    "duration": 0.7,
+    "sha256": "a09753f90230a71f277c9dd4a00a37f8a98d1ceab66d8c31619b670243b0bf61"
+  },
+  "ya2": {
+    "sample": "牙",
+    "duration": 1.36,
+    "sha256": "aec9edf775c3e9555cc1ccbf8c07073fd21a9c41677d2bd5d0cbe9d4ba339b3a"
+  },
+  "ya3": {
+    "sample": "哑",
+    "duration": 0.56,
+    "sha256": "07d24944187fbf8147e341fbf72176c63759e04ee75fbb233fb10cc2627f4f0f"
+  },
+  "ya4": {
+    "sample": "轧",
+    "duration": 0.32,
+    "sha256": "9dbf92b4bab7ecbd6bf7d5b4f71aa52308ea3435bce41a748f91309159c69147"
+  },
+  "yan1": {
+    "sample": "恹",
+    "duration": 0.32,
+    "sha256": "9844f9e58c4d6a729324069d156b25f2bc47252dd27fac132a04fb5bb417ad69"
+  },
+  "yan2": {
+    "sample": "延",
+    "duration": 0.32,
+    "sha256": "6b7e37bfc5075eb5322b3456e7364f356e91e8577bfa9445173ca8f2b6181f1d"
+  },
+  "yan3": {
+    "sample": "兖",
+    "duration": 0.4,
+    "sha256": "7699de8b4868cf67e81de6aea62d9569607a72383714d040ba90330f18f52de6"
+  },
+  "yan4": {
+    "sample": "厌",
+    "duration": 0.44,
+    "sha256": "6f5894c88720a26efeea97208437d008bc988ce1d0a44444d27e9ad51d02ee85"
+  },
+  "yang1": {
+    "sample": "央",
+    "duration": 0.56,
+    "sha256": "4907ae576a4a384d7717cfb50cc524f18debfe72355b4a1656378d454bed25c1"
+  },
+  "yang2": {
+    "sample": "扬",
+    "duration": 0.8,
+    "sha256": "a4d59a02c00faadff33ddfeb240be1aeb044f9c8f26f3ed323252831617cf5d8"
+  },
+  "yang3": {
+    "sample": "仰",
+    "duration": 0.72,
+    "sha256": "778eb69134a4c6ff2ce7e4847e6a92c9b493249c0ad008cd34f22a0e8212d55d"
+  },
+  "yang4": {
+    "sample": "怏",
+    "duration": 0.48,
+    "sha256": "c2a6c393969271075b25aa2356754533491e88f2d424a7d1c9c087fc3ada51ac"
+  },
+  "yao1": {
+    "sample": "幺",
+    "duration": 0.38,
+    "sha256": "dc2d79a21c4d7b9a948734b53d542a672d06c5f95a71d937b1cfd047617a24cc"
+  },
+  "yao2": {
+    "sample": "爻",
+    "duration": 0.48,
+    "sha256": "e5d58d5c4ff4d300ffde585297f23b117c9beeec30a739eaf8bf7717dbdbbbb7"
+  },
+  "yao3": {
+    "sample": "杳",
+    "duration": 0.48,
+    "sha256": "eb12e36b6aad3ec5cea1dff07a779d2edf51bd9d85d9819edb1607968916a45d"
+  },
+  "yao4": {
+    "sample": "药",
+    "duration": 0.5,
+    "sha256": "9b87ce921be53ee1e6d0ab7adcd2bdb839b66307077d578c8b2ce7a900a3c81d"
+  },
+  "ye1": {
+    "sample": "耶",
+    "duration": 0.56,
+    "sha256": "74f425b919448d31c3c068f64ce0a253628897d269223232334ed40484f925a8"
+  },
+  "ye2": {
+    "sample": "爷",
+    "duration": 0.52,
+    "sha256": "526b8ca287bdc90fd9fabfd26df7ebaceedde789b2e8dc4953112258a7a3c54f"
+  },
+  "ye3": {
+    "sample": "也",
+    "duration": 0.5,
+    "sha256": "f52b6d40d72ee8faca6f6b1253c532937f8be961d76eb84b2374e4b31ead62b0"
+  },
+  "ye4": {
+    "sample": "业",
+    "duration": 0.64,
+    "sha256": "09af517260c255b28e1de582b1bb7e7245c28164f16bd70cd42ea85b05f65e0a"
+  },
+  "yi1": {
+    "sample": "一",
+    "duration": 0.4,
+    "sha256": "b746ebdcb53e6faa6c0835e164bca2a983506541617b065f39795a7d264c5172"
+  },
+  "yi2": {
+    "sample": "仪",
+    "duration": 0.54,
+    "sha256": "a233934a782eb5589e52395a178d456121c5ba8382140ad4cc00d14c713ccfae"
+  },
+  "yi3": {
+    "sample": "乙",
+    "duration": 0.48,
+    "sha256": "a71a602763d8c0ce8f7731630b15cc54fd2e72e6b5e30e702736543f1c65023f"
+  },
+  "yi4": {
+    "sample": "义",
+    "duration": 0.4,
+    "sha256": "1a918e4689d952e4ec4532f99a171a42ac2347b37aa9f58737dc367cb8445ec2"
+  },
+  "yin1": {
+    "sample": "因",
+    "duration": 0.8,
+    "sha256": "eb7fc25c6f83a2a1ee349846ed7748ccc96e3dd7338b1c39e90ec417814f1231"
+  },
+  "yin2": {
+    "sample": "吟",
+    "duration": 0.48,
+    "sha256": "52a3415139a3446315d72aaa9b8ed87e164809cb81b0d0fee639e1f7ff9af89c"
+  },
+  "yin3": {
+    "sample": "尹",
+    "duration": 0.68,
+    "sha256": "3b0b220ac29a585ad770ed720de30534075fafe4705000dd43b99ed4b4b58835"
+  },
+  "yin4": {
+    "sample": "印",
+    "duration": 0.38,
+    "sha256": "f1a45fc25ca95222dcf5ebf8001f58c5c5004914e01710143ae16cb7899288e1"
+  },
+  "ying1": {
+    "sample": "英",
+    "duration": 1.18,
+    "sha256": "a853b7825938b334be636b91a3f64dcd732c2d107db17acbe2d4980f9928830f"
+  },
+  "ying2": {
+    "sample": "迎",
+    "duration": 0.5,
+    "sha256": "4fab0c0b73e728431b60f5ff9d4cd47d792d013caa24b643acd66e55076a06c6"
+  },
+  "ying3": {
+    "sample": "郢",
+    "duration": 0.72,
+    "sha256": "5c037a546937af4b46b17ab2c965449e1ae4d8b69a029859812f45a9a0fb7c5f"
+  },
+  "ying4": {
+    "sample": "应",
+    "duration": 0.48,
+    "sha256": "c083cf60ed76c154388ee7bd2953741609ffe1604cc5642757043e1e3f6ffd44"
+  },
+  "yo1": {
+    "sample": "哟",
+    "duration": 0.62,
+    "sha256": "eb1e2e8add79cf2e0da62829b644ffb3a355f1fea5318810adc408307e0f3e95"
+  },
+  "yong1": {
+    "sample": "佣",
+    "duration": 0.54,
+    "sha256": "0777b4e4cb199edcda1caaa1038ebfe50c772f5c7564cbe3f4ed93456da94146"
+  },
+  "yong2": {
+    "sample": "喁",
+    "duration": 0.64,
+    "sha256": "8aa0c38a0b7d3588be572bc2d4f24617a0a51142338e1cd89ee8be08959e2334"
+  },
+  "yong3": {
+    "sample": "永",
+    "duration": 0.56,
+    "sha256": "7fbd6862901c5ddccfcfffd6cbbbb694a8ea486d6d9a3ac9fb9039d070aad072"
+  },
+  "yong4": {
+    "sample": "用",
+    "duration": 0.72,
+    "sha256": "9862146bb5d9d6539dd32aa70df4f3bd5be814dd74a1bb14000d062be6a73cdf"
+  },
+  "you1": {
+    "sample": "优",
+    "duration": 0.48,
+    "sha256": "60d5721f98e5618fd425c6188631f256d999fbddaaf67debb03c248e1b11b1c7"
+  },
+  "you2": {
+    "sample": "尤",
+    "duration": 0.46,
+    "sha256": "1e2a0a79996c23aed87aab7346bfd5e7ac86c742a38ef6d4602e48aa2f9e42fe"
+  },
+  "you3": {
+    "sample": "友",
+    "duration": 0.48,
+    "sha256": "3ab3fb13d8326e3235122c687906d3b0d5f81769713d8aa002a8e01b5d1989b6"
+  },
+  "you4": {
+    "sample": "又",
+    "duration": 0.7,
+    "sha256": "2719871842d8c3c6c3ca672de7a76476500fda3cd77753d2c3aed3e3ac6e0c22"
+  },
+  "yu1": {
+    "sample": "纡",
+    "duration": 0.72,
+    "sha256": "dd50188f40a921c48251aae9bd190a6c0bcffd3a15bac0bb0eb72b1cdfb5f16c"
+  },
+  "yu2": {
+    "sample": "于",
+    "duration": 0.56,
+    "sha256": "30d6e8db3047ca4bd8aa36a5e821d54300ee6fac56cfbd1ffa380ddc22cb1f8f"
+  },
+  "yu3": {
+    "sample": "与",
+    "duration": 0.56,
+    "sha256": "5b203c55e4489634d67d3422f803d79617bfbcb9c9549176788a1ef01fa1deee"
+  },
+  "yu4": {
+    "sample": "玉",
+    "duration": 0.4,
+    "sha256": "13c65e76300161a0f6192933533b4ba027bf692275eb7a9bfa7b6f1c93289da4"
+  },
+  "yuan1": {
+    "sample": "鸢",
+    "duration": 0.4,
+    "sha256": "f82bc566e1dd7c285eb043ffbed250e6df8710d0ff41f4b8922e13a64d68f5d6"
+  },
+  "yuan2": {
+    "sample": "元",
+    "duration": 0.56,
+    "sha256": "34e66ff9473df0b49dc66ecb8831a5ebdd042b3d1f4f6e63bea08c562447a4db"
+  },
+  "yuan3": {
+    "sample": "远",
+    "duration": 0.38,
+    "sha256": "3de715473ba95fa2f8d9ffced51e477648410d26d83a3a048809fd084d71192e"
+  },
+  "yuan4": {
+    "sample": "苑",
+    "duration": 0.4,
+    "sha256": "68b1bacaa031facfdbc3de870f84b27799cd613d1d05ae2e52ec412bf63384fa"
+  },
+  "yue1": {
+    "sample": "曰",
+    "duration": 0.6,
+    "sha256": "b2acc1e97a265844e7bf596ddc32776a083c9b2e85bc2ad5288fda0c64c39386"
+  },
+  "yue3": {
+    "sample": "哕",
+    "duration": 0.4,
+    "sha256": "c29002a110605d02b81c2a33d5bbeb9c01aae2aeae540ace707354e8cd27850e"
+  },
+  "yue4": {
+    "sample": "月",
+    "duration": 0.88,
+    "sha256": "08ddedfd46cf8c4f33dd0065a6b9d28e9d019c692a4d608faacad919d039d45e"
+  },
+  "yun1": {
+    "sample": "晕",
+    "duration": 0.4,
+    "sha256": "a25b354f6ff63dbbd99acc140863f8626914ac53621169a85472a5cf87ca4462"
+  },
+  "yun2": {
+    "sample": "云",
+    "duration": 0.4,
+    "sha256": "0033f3011c293080381d6c66c8da0aef389380109288762e76c9af149a9cc4a9"
+  },
+  "yun3": {
+    "sample": "允",
+    "duration": 0.8,
+    "sha256": "4e043445d5810bfaa9e5e3f3aab2b5d820361f8562eecec7830b5fd5550e1478"
+  },
+  "yun4": {
+    "sample": "孕",
+    "duration": 0.48,
+    "sha256": "76eba52ef1eb83668a5938cc4cd64d2232a04f62c57d0d566fd7dfc139e6867a"
+  },
+  "za1": {
+    "sample": "匝",
+    "duration": 0.4,
+    "sha256": "b25e56a5e3d6e476899ebc9aed3e3ab62089ca7d53e20dac7628f86c7bbf326e"
+  },
+  "za2": {
+    "sample": "杂",
+    "duration": 0.54,
+    "sha256": "bbd2e4e475ff58e11d7e2b29ab59de0258bcadbb4b540cb1e09af48d4060c684"
+  },
+  "za3": {
+    "sample": "咋",
+    "duration": 0.6,
+    "sha256": "755fb1f10ca2f48815a7e11bedd1791498aac72cc2d41c2acf2a3fdf7cab9648"
+  },
+  "zai1": {
+    "sample": "灾",
+    "duration": 0.32,
+    "sha256": "a2ba7a398271d6c4fe7d74bfb482a37eab4b2a2bc4bc07fc685e65c0b01d9185"
+  },
+  "zai3": {
+    "sample": "仔",
+    "duration": 0.56,
+    "sha256": "5b9b287a3f0366b4941113f32ab1ef3f21289299c386ef69e4d49363b4cb4774"
+  },
+  "zai4": {
+    "sample": "再",
+    "duration": 0.48,
+    "sha256": "c64e608e76582ab9207c49156a6e6c020c24e980b398ac92c8a4398e48755b04"
+  },
+  "zan1": {
+    "sample": "糌",
+    "duration": 0.6,
+    "sha256": "3f3d8e53b61d4bea4456f26b94dc6f5228d889c02f1d2743ddd76000f1cdb745"
+  },
+  "zan2": {
+    "sample": "咱",
+    "duration": 0.8,
+    "sha256": "c22374ba5e983d7cbbb283495c07f7739cdcc43d9e256b2a8bf70819537cd84b"
+  },
+  "zan3": {
+    "sample": "昝",
+    "duration": 0.48,
+    "sha256": "b3d35d2c16964cd11d411cf1ca2c32f6b085e91a97909ab69b7396d3fff2f0a9"
+  },
+  "zan4": {
+    "sample": "暂",
+    "duration": 0.3,
+    "sha256": "2d3826f27a5cea51debec270192d2defe384009d037f7ae36f322f6d9f103608"
+  },
+  "zang1": {
+    "sample": "脏",
+    "duration": 0.48,
+    "sha256": "1fd1243461959d5a056bc21bf958acc75d0fac46b7e0bf19c9c6619cc4cff789"
+  },
+  "zang3": {
+    "sample": "驵",
+    "duration": 0.48,
+    "sha256": "2c3cdcf28bf11761195373c04f24a15cbd0f398a3486e2bb16f07fce7e5af347"
+  },
+  "zang4": {
+    "sample": "奘",
+    "duration": 0.4,
+    "sha256": "140a11e992aa84997991ca947c3591f0701fcae95bc0b956559f571074195354"
+  },
+  "zao1": {
+    "sample": "遭",
+    "duration": 0.48,
+    "sha256": "f71bee1314da83dd0bf4feec5b95d38b7be84b848ccdd14a56032ad8c1190f08"
+  },
+  "zao2": {
+    "sample": "凿",
+    "duration": 0.48,
+    "sha256": "780f89f33a2290fbecbb6b3c07a6a225741daa5c8eb454c99c9d7c02c87c1d26"
+  },
+  "zao3": {
+    "sample": "早",
+    "duration": 0.62,
+    "sha256": "1cf60a604c42933145f6ffacda0104233ea8dd4af38f08689e4ea9d64de29152"
+  },
+  "zao4": {
+    "sample": "灶",
+    "duration": 0.32,
+    "sha256": "ed372422f75d0dc7a492be1e75ed135f7f1c9444b483e4593820cf7c79ae6a27"
+  },
+  "ze2": {
+    "sample": "则",
+    "duration": 0.5,
+    "sha256": "5aa149be58b7df50f09bf985ea05f18d55076da8585ebc90fd1c457b452042ec"
+  },
+  "ze4": {
+    "sample": "仄",
+    "duration": 0.48,
+    "sha256": "72e49c6ef094697b10b0cdedf00caa251bf1e7d15cae0411ebd64fece4f97704"
+  },
+  "zei2": {
+    "sample": "贼",
+    "duration": 0.38,
+    "sha256": "938ee9e89b9a78047b0f2e4036a4a96706f516cef30f3f97ce4f98241ae96601"
+  },
+  "zen3": {
+    "sample": "怎",
+    "duration": 0.48,
+    "sha256": "f5d0730501a7a3ff10608fe07cd158f2924b8d053572937eeecac268c982182d"
+  },
+  "zen4": {
+    "sample": "谮",
+    "duration": 0.68,
+    "sha256": "f1a86a1ac8843cec258e9412a1fa08d5fa953db74ad34e08a2311ff88ee19683"
+  },
+  "zeng1": {
+    "sample": "增",
+    "duration": 0.4,
+    "sha256": "64ab52cd64a093de892e074aa13c3f7cc7d2ef5c038f7da7eef117c1efd3d015"
+  },
+  "zeng4": {
+    "sample": "锃",
+    "duration": 0.32,
+    "sha256": "52a0278b5a8138669f73b61ddc786b1a2e2f06b55c74819a0b1583273ac8fc81"
+  },
+  "zha1": {
+    "sample": "扎",
+    "duration": 0.4,
+    "sha256": "0c5626a894240cd2a92593763e5b8be927b8a0dc05e095d25f90b46a9e617232"
+  },
+  "zha2": {
+    "sample": "札",
+    "duration": 0.4,
+    "sha256": "3d8b0f9044d04389b07c51f57fda3df5a8af40148fb08921ce5f5acf6b957699"
+  },
+  "zha3": {
+    "sample": "眨",
+    "duration": 0.48,
+    "sha256": "1275f6c32896d6742c01b38ae0e4e887080ff1dc75f350169e256580009791e5"
+  },
+  "zha4": {
+    "sample": "乍",
+    "duration": 0.4,
+    "sha256": "53932782200bf89d2102c8102a1be93dedbb5fbc40b93a0e68acf7a7c16ffca7"
+  },
+  "zhai1": {
+    "sample": "斋",
+    "duration": 0.48,
+    "sha256": "38038e8c1e9a5769d2945ca1658d34c171a1216a02c72d68c0d3df3e41999883"
+  },
+  "zhai2": {
+    "sample": "宅",
+    "duration": 0.48,
+    "sha256": "af8fdbeed75b7dee05f697af90ec66dd451fa42f5698c7582d4ee0e909adde4a"
+  },
+  "zhai3": {
+    "sample": "窄",
+    "duration": 0.56,
+    "sha256": "31809a8dc049dc7bc8aba3597a8b719ce2ce80ad79d30d97c63ce448e34353fd"
+  },
+  "zhai4": {
+    "sample": "债",
+    "duration": 0.48,
+    "sha256": "80e8f75a1a7cdcde3e1e08c346b1c65a4d0a3332423d2ffb652dfc831c11d315"
+  },
+  "zhan1": {
+    "sample": "沾",
+    "duration": 0.64,
+    "sha256": "678f31a6f3bbdbacd570271ac77d226c6a990fff383cbe217e8088084dcc872d"
+  },
+  "zhan3": {
+    "sample": "斩",
+    "duration": 0.32,
+    "sha256": "af9296133c16411eecd2f6a38dfab20b398c7ab8e943fa88b578a53be5088179"
+  },
+  "zhan4": {
+    "sample": "蘸",
+    "duration": 0.32,
+    "sha256": "b44d894bd0b1291edd6415392c828576e9034bcdc25e9b395987121b08490d7a"
+  },
+  "zhang1": {
+    "sample": "张",
+    "duration": 0.4,
+    "sha256": "46ddd57fe3998972aae30625591c46e49cefe7b80c2d64d9f6dff6b5338b0638"
+  },
+  "zhang3": {
+    "sample": "涨",
+    "duration": 0.5,
+    "sha256": "2b03c9d8dd539c7c6b407246c68bd421cd0f8f299dc87cfcbb78b3974282d140"
+  },
+  "zhang4": {
+    "sample": "丈",
+    "duration": 0.48,
+    "sha256": "2d2bcef79aa9607bafcf164013f2fd4250c2984075670acf1d24cb668580dc59"
+  },
+  "zhao1": {
+    "sample": "钊",
+    "duration": 0.56,
+    "sha256": "e8b614e8b356da636ef24e9c1594042102207d798b9d8d6faf4babd3409429c5"
+  },
+  "zhao3": {
+    "sample": "找",
+    "duration": 0.56,
+    "sha256": "7957fcda55a61a299e8fbf1eef06fcb627e8948169151abd785c2b673302ebb2"
+  },
+  "zhao4": {
+    "sample": "召",
+    "duration": 0.32,
+    "sha256": "ba043c7047cba59a4b01e9a7ffe57a223b2fd58245a7860d3b3d69066fca98a5"
+  },
+  "zhe0": {
+    "sample": "着",
+    "duration": 0.32,
+    "sha256": "bd0671f66fea17cf0be9b4df8f359c819c6d970136aec724200a815f5de65545"
+  },
+  "zhe1": {
+    "sample": "蜇",
+    "duration": 0.32,
+    "sha256": "3a51e7b8b0fa417036ca1538483fe14dc40abc3425ab018cc36384d52fb56225"
+  },
+  "zhe2": {
+    "sample": "折",
+    "duration": 0.4,
+    "sha256": "9b16cb4e9619171184e76863dc34b1f97f472aa73445caa139ea49b10afd91c5"
+  },
+  "zhe3": {
+    "sample": "者",
+    "duration": 0.4,
+    "sha256": "f476626a832dd0fac96a39246684923007ad3dc937422ffe1ad3f3f56f1dd8be"
+  },
+  "zhe4": {
+    "sample": "这",
+    "duration": 0.76,
+    "sha256": "cec0a6f476f51860a26dd267a87e551abdb95afebb09d27f82781e870801a3e1"
+  },
+  "zhen1": {
+    "sample": "贞",
+    "duration": 0.32,
+    "sha256": "f5bdfb4bf6072a8ef61fdc8fe39452c081168944ed3d1691d9772bbe9a0cf50f"
+  },
+  "zhen3": {
+    "sample": "诊",
+    "duration": 0.48,
+    "sha256": "1ed79325a4f98788781dba344e36bc426e973ba3bc09d92cdd19cdebd67351fe"
+  },
+  "zhen4": {
+    "sample": "圳",
+    "duration": 0.4,
+    "sha256": "fedeb276dfad471bc86a2b59ea42bb48536213efc0e39aa4600e2eec33bb3a16"
+  },
+  "zheng1": {
+    "sample": "争",
+    "duration": 0.4,
+    "sha256": "368aafc3da9417249376de15c0d35d55e0fdafcd9928bbbdec6c43d7de605cd3"
+  },
+  "zheng3": {
+    "sample": "整",
+    "duration": 0.64,
+    "sha256": "dd898552364a782025a973df1f611303b91a23d5a4ce2a42a8d641cf5c951850"
+  },
+  "zheng4": {
+    "sample": "正",
+    "duration": 0.5,
+    "sha256": "e5723e8b94a897a2c8e412fa0437095ced8cfc38a7c2692db845a7b1b71e02ab"
+  },
+  "zhi1": {
+    "sample": "之",
+    "duration": 0.4,
+    "sha256": "d0c309249d5e4b5c76e73a272d2d5ddd3ae86e03311f70b328da14116a8b012a"
+  },
+  "zhi2": {
+    "sample": "执",
+    "duration": 0.48,
+    "sha256": "7c06533392f33431d24cfea0146a98176b531dbdfdab746f928dda8fcf233117"
+  },
+  "zhi3": {
+    "sample": "止",
+    "duration": 0.48,
+    "sha256": "7983357029aced1a99579dcbe2e68362747b8d224240b4028f677b27fe109a2f"
+  },
+  "zhi4": {
+    "sample": "至",
+    "duration": 0.32,
+    "sha256": "73b6e2552abd877d7ee3be565a379d7b648714ea24ad885f360e01e2510cd96f"
+  },
+  "zhong1": {
+    "sample": "中",
+    "duration": 0.48,
+    "sha256": "25b9afb2b47473054eaea7a9e8be1e5338161dd10fe18d6cc92606a8f18977a2"
+  },
+  "zhong3": {
+    "sample": "肿",
+    "duration": 0.4,
+    "sha256": "86b6d56c3221e1c10a688a178ff9bc99e5c8542fed85435888d4c80d0b7e12b5"
+  },
+  "zhong4": {
+    "sample": "仲",
+    "duration": 0.32,
+    "sha256": "0ff68b73b691d99fca46692e5dca07a3f79ccc5197f7c349d586ccc20a38352a"
+  },
+  "zhou1": {
+    "sample": "州",
+    "duration": 0.44,
+    "sha256": "da2815424d3f8fc7d4051314c5040797d77356a7c58891a609f57a02f6c7be94"
+  },
+  "zhou2": {
+    "sample": "妯",
+    "duration": 0.48,
+    "sha256": "7542ef84c30de6431f8b45767025cd29621d4bece8a0973b6802fbcff34a62c2"
+  },
+  "zhou3": {
+    "sample": "肘",
+    "duration": 0.48,
+    "sha256": "43e8f646ab327e8ca38754b7fd988a2f8535b05593e736579957cd8d33d8a6ff"
+  },
+  "zhou4": {
+    "sample": "纣",
+    "duration": 0.4,
+    "sha256": "cd355aa4f10569e48b8f21c6fa86c7d818ef3a4b45a69641208166a95fa4afea"
+  },
+  "zhu1": {
+    "sample": "朱",
+    "duration": 1.28,
+    "sha256": "98637d3f5e92bc75d8fe079b8ae8c850b5aa22369877ee7f450792caf687297a"
+  },
+  "zhu2": {
+    "sample": "竹",
+    "duration": 0.4,
+    "sha256": "61908b0eb68bfd0364e8f90575ee5a12f7088908de36caa5e4b54c0d650cb973"
+  },
+  "zhu3": {
+    "sample": "主",
+    "duration": 0.62,
+    "sha256": "3b7c79261f504510e5450e9c7cf3a2ae19a8ecf72b69918d176cd7866915fb1d"
+  },
+  "zhu4": {
+    "sample": "伫",
+    "duration": 0.62,
+    "sha256": "6b287c04725b519a1df00f02eba7a1480b97e080e327a093a78169ffbdc4409e"
+  },
+  "zhua1": {
+    "sample": "抓",
+    "duration": 0.4,
+    "sha256": "fe632045379d0fe0ad3c7db48ed16f5fce4576b0003a53628550bff6b7c1c5ad"
+  },
+  "zhua3": {
+    "sample": "爪",
+    "duration": 0.48,
+    "sha256": "3a3a2839b63858ec8035ebe9c80d84c84c6297fd224769e612c39da7b6d645e1"
+  },
+  "zhuai4": {
+    "sample": "拽",
+    "duration": 0.32,
+    "sha256": "1179507ca5d3bf01b48cdbd61de02feec46e38572ffce3c810e8165ee60315f0"
+  },
+  "zhuan1": {
+    "sample": "专",
+    "duration": 0.48,
+    "sha256": "cc0dd07cf63dde7dd0d0c17566e270baefdb40ff6d27e009200cf243f0710053"
+  },
+  "zhuan3": {
+    "sample": "转",
+    "duration": 0.5,
+    "sha256": "d72af57637cbb7994f19e9695182f6ed30f87aa1b4b3205a9ce47c55cd843d6a"
+  },
+  "zhuan4": {
+    "sample": "啭",
+    "duration": 0.4,
+    "sha256": "2351d734b4fab376bf19b024fc27724490dffac81f2d54ac0e61f764a4fa811c"
+  },
+  "zhuang1": {
+    "sample": "妆",
+    "duration": 0.4,
+    "sha256": "9a0893e46085f9085c6a80a463863bd6b7dca447ccc0511e13362736a3fcf950"
+  },
+  "zhuang4": {
+    "sample": "壮",
+    "duration": 0.32,
+    "sha256": "630789459e1a5036c2f25a2b9fcfec50e50a368087ff9b5ac7a5ebf12684c944"
+  },
+  "zhui1": {
+    "sample": "隹",
+    "duration": 0.4,
+    "sha256": "baadc23992e59c2574acbfa46e5c77cf89424d7fd346ab70ec02b0594a585cf5"
+  },
+  "zhui4": {
+    "sample": "坠",
+    "duration": 0.32,
+    "sha256": "4b1a8c9f7c149b4838596359dbd71bcd6e188286ebacce69e41b9095e0cbeadd"
+  },
+  "zhun1": {
+    "sample": "肫",
+    "duration": 0.56,
+    "sha256": "7976a45cba5351ac18a7565d2ed077b9e5e3eaefe06febfccbb1de17c0e21d96"
+  },
+  "zhun3": {
+    "sample": "准",
+    "duration": 0.54,
+    "sha256": "b218885f5cc5e1d7e8ca2853bfb7a7b1b212a9d85fdb3c5992b9978ee3cf7121"
+  },
+  "zhuo1": {
+    "sample": "拙",
+    "duration": 0.5,
+    "sha256": "1fde1d2fdb780ee31b3af6ad45cd00aeee752cf469ffc719176b4241805403cc"
+  },
+  "zhuo2": {
+    "sample": "灼",
+    "duration": 0.4,
+    "sha256": "37148141cbd03f8fe992b004bb55dd4105420489ed5e7ca7053530e6cfc8caaf"
+  },
+  "zi1": {
+    "sample": "孜",
+    "duration": 0.4,
+    "sha256": "f5701718a19a06a7bc668b6d0b372726d88c890d47093fdb2d1d6fdee007c07c"
+  },
+  "zi3": {
+    "sample": "子",
+    "duration": 0.5,
+    "sha256": "07689f40efcbed82453061e22f8595ffc11fd20bc856fd7559bbe95ddfac0e8c"
+  },
+  "zi4": {
+    "sample": "字",
+    "duration": 0.46,
+    "sha256": "3edc23ffb7d9d7e6f3bd60e85e48169b206a93dac8b0d8f27f25a402ce8c01e7"
+  },
+  "zong1": {
+    "sample": "宗",
+    "duration": 0.4,
+    "sha256": "25b7c7b50695e4197d353ed5df04930562892fa834bb3682e49c965fb35d7ccd"
+  },
+  "zong3": {
+    "sample": "总",
+    "duration": 0.54,
+    "sha256": "5a9dc8839a0821924d3cce9c920f6ebc218f74a18943959c4f9a15de296e1a42"
+  },
+  "zong4": {
+    "sample": "纵",
+    "duration": 0.4,
+    "sha256": "5d4153f3447e7b3a7e8f9d8b9890ba918207929e5d5a35aeed10285706ca5b9b"
+  },
+  "zou1": {
+    "sample": "邹",
+    "duration": 0.32,
+    "sha256": "879ce30b2bc157749489ed570ade044f9a8bcaff449d43c7b004d375d3f6aadc"
+  },
+  "zou3": {
+    "sample": "走",
+    "duration": 0.4,
+    "sha256": "cd9c75e2674bcd789fd5f8a1e6f7bc224415e677cc6990a758a0b2bd9081a16b"
+  },
+  "zou4": {
+    "sample": "奏",
+    "duration": 0.32,
+    "sha256": "76ff6a0c2f151fe37d10b13fd13328352750791e88660b5c9bffbc1d021a5437"
+  },
+  "zu1": {
+    "sample": "租",
+    "duration": 0.38,
+    "sha256": "7b0e006d64925867844c4390f9ca35e7b8d648ced0b972119240a12a37e677ca"
+  },
+  "zu2": {
+    "sample": "足",
+    "duration": 0.4,
+    "sha256": "bd210ded3eba3b26e49da210e353ac36d183b1acbf419c4237051bf58cb9762b"
+  },
+  "zu3": {
+    "sample": "诅",
+    "duration": 0.68,
+    "sha256": "0ed8dcb923a3a7df183802c9f837c28d622b98f9f592825ab5feebc3029bc37d"
+  },
+  "zuan1": {
+    "sample": "躜",
+    "duration": 0.5,
+    "sha256": "1221b36ab0651146560db1ade5ca9a899ef2514fef55a773b5975fb8b284cf23"
+  },
+  "zuan3": {
+    "sample": "缵",
+    "duration": 0.4,
+    "sha256": "27d0c825c6c974b54c8d02660b9dddaa22b7f16c0dd1192d098c806e8232bd0d"
+  },
+  "zuan4": {
+    "sample": "钻",
+    "duration": 0.72,
+    "sha256": "ecc69343c93abdcb613765b2ac0169b76744c5618a941d3f4a8faa2c7226e850"
+  },
+  "zui3": {
+    "sample": "嘴",
+    "duration": 0.48,
+    "sha256": "261dfe975f35364edfaffce9bf341fa98d8f71c260dfab69caccf21255f53657"
+  },
+  "zui4": {
+    "sample": "最",
+    "duration": 0.4,
+    "sha256": "89daa6af46af53fb2685ae80dc7a39b5dcf3f1ac7ddae1e7c8b389c23409039e"
+  },
+  "zun1": {
+    "sample": "尊",
+    "duration": 0.5,
+    "sha256": "42a08a267cbe6f77a092378576055e58ea6c70e206cbbe5ce407a69258c0c771"
+  },
+  "zun3": {
+    "sample": "撙",
+    "duration": 0.48,
+    "sha256": "962b5d7c26012d5e464da203de48ff4c166aa251d14f7ac07c9249ede9f87fe3"
+  },
+  "zuo1": {
+    "sample": "嘬",
+    "duration": 0.68,
+    "sha256": "ee38cef137b6484a32a586f682a51103fb0c7a5b24bbd87b376072c52553d26b"
+  },
+  "zuo2": {
+    "sample": "昨",
+    "duration": 0.64,
+    "sha256": "ed2cd1e5489bf1477a337eb6fab9fd1beecf8efc67dfc14f200e613e8dbe17fb"
+  },
+  "zuo3": {
+    "sample": "左",
+    "duration": 0.5,
+    "sha256": "c79f5162940a02662b2a3c0d666814efee464d84474016a64c457ccb184ff980"
+  },
+  "zuo4": {
+    "sample": "做",
+    "duration": 0.54,
+    "sha256": "0e2152d8a61b6beb72357049b2f87fb0fbc84df431e75717405b0ea8acbbf1b5"
+  }
+}

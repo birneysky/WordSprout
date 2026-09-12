@@ -36,14 +36,27 @@ test("exposes installable offline app metadata", async () => {
 });
 
 test("ships synchronized Qwen prompts for readings, stroke numbers, and names", async () => {
-  const [files, pronunciationFiles, studio, serviceWorker] = await Promise.all([
+  const [files, pronunciationFiles, pronunciationPrompts, pronunciationManifest, studio, serviceWorker] = await Promise.all([
     readdir(new URL("../public/audio/", import.meta.url)),
     readdir(new URL("../public/audio/pronunciations/", import.meta.url)),
+    readFile(new URL("../tools/pronunciation-prompts.json", import.meta.url), "utf8").then(JSON.parse),
+    readFile(new URL("../public/audio/pronunciations-manifest.json", import.meta.url), "utf8").then(JSON.parse),
     readFile(new URL("../app/writing-studio.tsx", import.meta.url), "utf8"),
     readFile(new URL("../public/sw.js", import.meta.url), "utf8"),
   ]);
   assert.ok(files.filter((file) => file.endsWith(".m4a")).length >= 102);
   assert.equal(pronunciationFiles.filter((file) => file.endsWith(".m4a")).length, 1232);
+  assert.equal(Object.keys(pronunciationPrompts).length, 1232);
+  assert.deepEqual(Object.keys(pronunciationManifest).sort(), Object.keys(pronunciationPrompts).sort());
+  assert.deepEqual(
+    Object.fromEntries(["bi3", "zhu3", "che1", "xue3"].map((key) => [key, pronunciationPrompts[key]])),
+    { bi3: "笔", zhu3: "主", che1: "车", xue3: "雪" },
+  );
+  assert.equal(new Set(Object.values(pronunciationManifest).map(({ sha256 }) => sha256)).size, 1232);
+  for (const [key, metadata] of Object.entries(pronunciationManifest)) {
+    assert.ok(metadata.duration >= 0.2 && metadata.duration <= 1.5, `${key} duration: ${metadata.duration}`);
+    assert.match(metadata.sha256, /^[a-f0-9]{64}$/);
+  }
   assert.match(studio, /playPrompt\(`stroke-/);
   assert.match(studio, /STROKE_AUDIO_NAMES/);
   assert.match(studio, /Promise\.all\(\[nameAudio, currentWriter\.animateStroke\(index\)\]\)/);
@@ -86,7 +99,7 @@ test("uses the 字芽 seed mark for the page and browser icon", async () => {
   assert.match(favicon, /<circle[^>]+fill="#2F6B55"/);
   assert.match(favicon, /fill="#FFF8E8"/);
   assert.doesNotMatch(favicon, /#2E9EFF|#0C79D8|#68C4FF/);
-  assert.match(serviceWorker, /const CACHE = "ziya-v10"/);
+  assert.match(serviceWorker, /const CACHE = "ziya-v11"/);
 });
 
 test("ships the complete Hanzi Writer library with resilient remote fallbacks", async () => {
