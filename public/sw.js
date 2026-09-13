@@ -1,4 +1,4 @@
-const CACHE = "ziya-v11";
+const CACHE = "ziya-v12";
 const STROKE_NAME_AUDIO = [
   "heng-zhe-zhe-pie", "shu-wan", "heng-zhe", "heng-xie-gou", "heng", "na", "heng-zhe-gou",
   "shu", "shu-gou", "dian", "pie", "pie-zhe", "shu-zhe-pie", "shu-zhe-zhe",

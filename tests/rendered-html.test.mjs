@@ -82,6 +82,21 @@ test("keeps the writing grid responsive and the mobile footer visible", async ()
   assert.match(styles, /footer \{ min-height:auto;/);
 });
 
+test("supports pausing after the current stroke with segmented progress", async () => {
+  const [studio, styles] = await Promise.all([
+    readFile(new URL("../app/writing-studio.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/globals.css", import.meta.url), "utf8"),
+  ]);
+
+  assert.match(studio, /pauseAfterStroke/);
+  assert.match(studio, /本笔结束后暂停/);
+  assert.match(studio, /继续演示/);
+  assert.match(studio, /role="progressbar"/);
+  assert.match(studio, /Array\.from\(\{ length: totalStrokes \}/);
+  assert.match(styles, /\.stroke-segments i\.current/);
+  assert.match(styles, /\.stroke-segments i\.done/);
+});
+
 test("uses the 字芽 seed mark for the page and browser icon", async () => {
   const [studio, styles, layout, favicon, manifest, serviceWorker] = await Promise.all([
     readFile(new URL("../app/writing-studio.tsx", import.meta.url), "utf8"),
@@ -99,7 +114,7 @@ test("uses the 字芽 seed mark for the page and browser icon", async () => {
   assert.match(favicon, /<circle[^>]+fill="#2F6B55"/);
   assert.match(favicon, /fill="#FFF8E8"/);
   assert.doesNotMatch(favicon, /#2E9EFF|#0C79D8|#68C4FF/);
-  assert.match(serviceWorker, /const CACHE = "ziya-v11"/);
+  assert.match(serviceWorker, /const CACHE = "ziya-v12"/);
 });
 
 test("ships the complete Hanzi Writer library with resilient remote fallbacks", async () => {
