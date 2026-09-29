@@ -7721,11 +7721,11 @@
     "sha256": "2601d6290ccbbf91e38d94a9b7eb9d3440d0ada2f9e4c3fdb4096b32dec223ef"
   },
   "ying4": {
-    "sample": "应",
-    "duration": 1.003,
-    "rms": 0.1117,
-    "peak": 0.70263,
-    "sha256": "a8ab05edace9c636b6d16462afd44ad73eebb5c27bb5b2a25fc8956e0c16cacf"
+    "sample": "硬",
+    "duration": 0.427,
+    "rms": 0.08769,
+    "peak": 0.40234,
+    "sha256": "2e1416ef03418f44354933f0cefe08ea40ee84370233919dd27bd76dff122b23"
   },
   "yo1": {
     "sample": "哟",

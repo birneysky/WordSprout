@@ -50,9 +50,9 @@ test("ships synchronized pronunciation recordings, stroke numbers, and names", a
   assert.equal(pronunciationFiles.filter((file) => file.endsWith(".m4a")).length, 1232);
   assert.equal(Object.keys(pronunciationPrompts).length, 1232);
   assert.deepEqual(Object.keys(pronunciationManifest).sort(), Object.keys(pronunciationPrompts).sort());
-  assert.equal(sourceManifest.imported.length, 1211);
+  assert.equal(sourceManifest.imported.length, 1210);
   assert.equal(Object.keys(sourceManifest.supplemental).length, 3);
-  assert.equal(sourceManifest.regenerated.length, 18);
+  assert.equal(sourceManifest.regenerated.length, 19);
   assert.ok(sourceManifest.regenerated.includes("m2"));
   assert.ok(Object.keys(pronunciationPrompts).filter((key) => key.endsWith("0")).every((key) => sourceManifest.regenerated.includes(key)));
   assert.deepEqual(sourceManifest.retained, []);
@@ -63,8 +63,8 @@ test("ships synchronized pronunciation recordings, stroke numbers, and names", a
   assert.equal(Object.keys(neutralReview.entries).length, 17);
   assert.ok(Object.values(neutralReview.entries).every(({ singleSyllable }) => singleSyllable));
   assert.deepEqual(
-    Object.fromEntries(["bi3", "zhu3", "che1", "xue3"].map((key) => [key, pronunciationPrompts[key]])),
-    { bi3: "笔", zhu3: "主", che1: "车", xue3: "雪" },
+    Object.fromEntries(["bi3", "zhu3", "che1", "xue3", "ying4"].map((key) => [key, pronunciationPrompts[key]])),
+    { bi3: "笔", zhu3: "主", che1: "车", xue3: "雪", ying4: "硬" },
   );
   assert.equal(new Set(Object.values(pronunciationManifest).map(({ sha256 }) => sha256)).size, 1232);
   for (const [key, metadata] of Object.entries(pronunciationManifest)) {

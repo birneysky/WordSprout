@@ -5,7 +5,7 @@ import pronunciationPrompts from "../tools/pronunciation-prompts.json";
 
 cnchar.use(order);
 
-export const PRONUNCIATION_AUDIO_VERSION = "2026-09-29-1";
+export const PRONUNCIATION_AUDIO_VERSION = "2026-09-29-2";
 const AVAILABLE_PRONUNCIATIONS = new Set(Object.keys(pronunciationPrompts));
 
 customPinyin({

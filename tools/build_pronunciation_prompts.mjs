@@ -71,6 +71,7 @@ const verifiedCommonSamples = {
   xue3: "雪",
   xu1: "需",
   ya2: "牙",
+  ying4: "硬",
   yong1: "拥",
   yu4: "玉",
   zheng3: "整",
