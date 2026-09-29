@@ -35,12 +35,14 @@ test("exposes installable offline app metadata", async () => {
   assert.match(html, /og\.png/);
 });
 
-test("ships synchronized Qwen prompts for readings, stroke numbers, and names", async () => {
-  const [files, pronunciationFiles, pronunciationPrompts, pronunciationManifest, studio, serviceWorker] = await Promise.all([
+test("ships synchronized pronunciation recordings, stroke numbers, and names", async () => {
+  const [files, pronunciationFiles, pronunciationPrompts, pronunciationManifest, sourceManifest, neutralReview, studio, serviceWorker] = await Promise.all([
     readdir(new URL("../public/audio/", import.meta.url)),
     readdir(new URL("../public/audio/pronunciations/", import.meta.url)),
     readFile(new URL("../tools/pronunciation-prompts.json", import.meta.url), "utf8").then(JSON.parse),
     readFile(new URL("../public/audio/pronunciations-manifest.json", import.meta.url), "utf8").then(JSON.parse),
+    readFile(new URL("../tools/pronunciation-source-manifest.json", import.meta.url), "utf8").then(JSON.parse),
+    readFile(new URL("../tools/pronunciation-neutral-review.json", import.meta.url), "utf8").then(JSON.parse),
     readFile(new URL("../app/writing-studio.tsx", import.meta.url), "utf8"),
     readFile(new URL("../public/sw.js", import.meta.url), "utf8"),
   ]);
@@ -48,13 +50,27 @@ test("ships synchronized Qwen prompts for readings, stroke numbers, and names", 
   assert.equal(pronunciationFiles.filter((file) => file.endsWith(".m4a")).length, 1232);
   assert.equal(Object.keys(pronunciationPrompts).length, 1232);
   assert.deepEqual(Object.keys(pronunciationManifest).sort(), Object.keys(pronunciationPrompts).sort());
+  assert.equal(sourceManifest.imported.length, 1211);
+  assert.equal(Object.keys(sourceManifest.supplemental).length, 3);
+  assert.equal(sourceManifest.regenerated.length, 18);
+  assert.ok(sourceManifest.regenerated.includes("m2"));
+  assert.ok(Object.keys(pronunciationPrompts).filter((key) => key.endsWith("0")).every((key) => sourceManifest.regenerated.includes(key)));
+  assert.deepEqual(sourceManifest.retained, []);
+  assert.deepEqual(
+    [...sourceManifest.imported, ...Object.keys(sourceManifest.supplemental), ...sourceManifest.regenerated].sort(),
+    Object.keys(pronunciationPrompts).sort(),
+  );
+  assert.equal(Object.keys(neutralReview.entries).length, 17);
+  assert.ok(Object.values(neutralReview.entries).every(({ singleSyllable }) => singleSyllable));
   assert.deepEqual(
     Object.fromEntries(["bi3", "zhu3", "che1", "xue3"].map((key) => [key, pronunciationPrompts[key]])),
     { bi3: "笔", zhu3: "主", che1: "车", xue3: "雪" },
   );
   assert.equal(new Set(Object.values(pronunciationManifest).map(({ sha256 }) => sha256)).size, 1232);
   for (const [key, metadata] of Object.entries(pronunciationManifest)) {
-    assert.ok(metadata.duration >= 0.2 && metadata.duration <= 1.5, `${key} duration: ${metadata.duration}`);
+    assert.ok(metadata.duration >= 0.2 && metadata.duration <= 2.0, `${key} duration: ${metadata.duration}`);
+    assert.ok(metadata.rms >= 0.018, `${key} rms: ${metadata.rms}`);
+    assert.ok(metadata.peak >= 0.15, `${key} peak: ${metadata.peak}`);
     assert.match(metadata.sha256, /^[a-f0-9]{64}$/);
   }
   assert.match(studio, /playPrompt\(`stroke-/);
@@ -63,6 +79,9 @@ test("ships synchronized Qwen prompts for readings, stroke numbers, and names", 
   assert.match(studio, /toneLabel/);
   assert.match(studio, /playPronunciation/);
   assert.match(studio, /playPrompt\(`pronunciations\/\$\{key\}`\)/);
+  assert.match(studio, /PRONUNCIATION_AUDIO_VERSION/);
+  assert.match(studio, /读音加载失败/);
+  assert.match(studio, /暂无标准录音/);
   assert.doesNotMatch(studio, /currentTime|createBufferSource|pronunciations\.json/);
   assert.doesNotMatch(studio, /speechSynthesis|SpeechSynthesisUtterance/);
   assert.match(studio, /pace === "slow"/);
@@ -114,7 +133,7 @@ test("uses the 字芽 seed mark for the page and browser icon", async () => {
   assert.match(favicon, /<circle[^>]+fill="#2F6B55"/);
   assert.match(favicon, /fill="#FFF8E8"/);
   assert.doesNotMatch(favicon, /#2E9EFF|#0C79D8|#68C4FF/);
-  assert.match(serviceWorker, /const CACHE = "ziya-v12"/);
+  assert.match(serviceWorker, /const CACHE = "ziya-v18"/);
 });
 
 test("ships the complete Hanzi Writer library with resilient remote fallbacks", async () => {
@@ -162,6 +181,7 @@ test("supports contextual and selectable polyphonic readings", async () => {
   assert.match(learning, /盛饭: "chéng fàn"/);
   assert.match(learning, /背东西: "bēi dōng xi"/);
   assert.match(learning, /export function getReadingOptions/);
+  assert.match(learning, /hasPronunciationAudio/);
   assert.match(learning, /polyphonic\(text/);
   assert.match(studio, /readingOptions\.length > 1/);
   assert.match(studio, /aria-pressed=/);

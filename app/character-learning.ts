@@ -1,8 +1,12 @@
 import cnchar from "cnchar";
 import order from "cnchar-order";
 import { customPinyin, pinyin, polyphonic } from "pinyin-pro";
+import pronunciationPrompts from "../tools/pronunciation-prompts.json";
 
 cnchar.use(order);
+
+export const PRONUNCIATION_AUDIO_VERSION = "2026-09-29-1";
+const AVAILABLE_PRONUNCIATIONS = new Set(Object.keys(pronunciationPrompts));
 
 customPinyin({
   盛饭: "chéng fàn",
@@ -82,6 +86,10 @@ function createReading(symbol: string, numberedPinyin: string): Reading {
   };
 }
 
+export function hasPronunciationAudio(audioKey: string) {
+  return AVAILABLE_PRONUNCIATIONS.has(audioKey);
+}
+
 export function getReadings(text: string): Reading[] {
   const symbols = pinyin(text, { type: "array", toneType: "symbol" });
   const numbered = pinyin(text, { type: "array", toneType: "num" });
@@ -98,15 +106,15 @@ export function getReadingOptions(text: string): Reading[][] {
       createReading(symbol, numberedByCharacter[index]?.[optionIndex] ?? ""),
     );
     const commonKeys = COMMON_POLYPHONIC_READINGS[char];
-    const commonReadings = commonKeys
+    const commonReadings = (commonKeys
       ? allReadings
           .filter((item) => commonKeys.includes(item.audioKey))
           .sort((left, right) => commonKeys.indexOf(left.audioKey) - commonKeys.indexOf(right.audioKey))
-      : allReadings;
+      : allReadings).filter((item) => hasPronunciationAudio(item.audioKey));
     const uniqueReadings = new Map<string, Reading>();
 
     for (const item of [contextualReadings[index], ...commonReadings]) {
-      if (item?.audioKey) uniqueReadings.set(item.audioKey, item);
+      if (item?.audioKey && hasPronunciationAudio(item.audioKey)) uniqueReadings.set(item.audioKey, item);
     }
     return [...uniqueReadings.values()];
   });

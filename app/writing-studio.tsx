@@ -3,7 +3,7 @@
 import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
 import HanziWriter from "hanzi-writer";
 import type { CharacterJson } from "hanzi-writer";
-import { getReadingOptions, getReadings, getStrokeNames, Reading, STROKE_AUDIO_NAMES } from "./character-learning";
+import { getReadingOptions, getReadings, getStrokeNames, hasPronunciationAudio, PRONUNCIATION_AUDIO_VERSION, Reading, STROKE_AUDIO_NAMES } from "./character-learning";
 
 const EXAMPLES = ["日月山川", "天地人", "春风雨", "大小多少"];
 const DEFAULT_TEXT = "永";
@@ -74,7 +74,7 @@ export default function WritingStudio() {
   const strokeNames = useRef<string[]>([]);
   const voiceEnabled = useRef(true);
   const audio = useRef<HTMLAudioElement | null>(null);
-  const audioResolve = useRef<(() => void) | null>(null);
+  const audioResolve = useRef<((played: boolean) => void) | null>(null);
   const pauseRequested = useRef(false);
   const resumeAnimation = useRef<(() => void) | null>(null);
   const activeChar = characters[activeIndex] ?? DEFAULT_TEXT;
@@ -83,52 +83,66 @@ export default function WritingStudio() {
   const readingOptionsByCharacter = useMemo(() => getReadingOptions(lessonText), [lessonText]);
   const readingOptions = readingOptionsByCharacter[activeIndex] ?? [];
   const contextualReading = readings[activeIndex] ?? getReadings(activeChar)[0];
-  const reading = readingOptions.find((item) => item.audioKey === readingOverrides[activeIndex]) ?? contextualReading;
+  const reading = readingOptions.find((item) => item.audioKey === readingOverrides[activeIndex])
+    ?? (hasPronunciationAudio(contextualReading.audioKey) ? contextualReading : undefined);
+  const displayReading = reading ?? contextualReading;
   const isDemonstrating = status === "animating" || status === "paused";
 
   function playPrompt(name: string) {
-    return new Promise<void>((resolve) => {
-      if (!voiceEnabled.current) { resolve(); return; }
+    return new Promise<boolean>((resolve) => {
+      if (!voiceEnabled.current) { resolve(true); return; }
       stopAudio();
-      const player = new Audio(`/audio/${name}.m4a`);
+      const source = name.startsWith("pronunciations/")
+        ? `/audio/${name}.m4a?v=${PRONUNCIATION_AUDIO_VERSION}`
+        : `/audio/${name}.m4a`;
+      const player = new Audio(source);
       audio.current = player;
-      let timer = window.setTimeout(() => finish(), 8000);
+      let timer = window.setTimeout(() => finish(false), 8000);
       let finished = false;
-      const finish = () => {
+      const finish = (played: boolean) => {
         if (finished) return;
         finished = true;
         window.clearTimeout(timer);
         if (audio.current === player) audio.current = null;
         if (audioResolve.current === finish) audioResolve.current = null;
-        resolve();
+        resolve(played);
       };
       audioResolve.current = finish;
       player.onloadedmetadata = () => {
         window.clearTimeout(timer);
-        timer = window.setTimeout(finish, Math.min(8000, player.duration * 1000 + 350));
+        timer = window.setTimeout(() => finish(false), Math.min(8000, player.duration * 1000 + 500));
       };
-      player.onended = finish;
-      player.onerror = finish;
-      player.play().catch(finish);
+      player.onended = () => finish(true);
+      player.onerror = () => finish(false);
+      player.play().catch(() => finish(false));
     });
   }
 
   function stopAudio() {
     audio.current?.pause();
     audio.current = null;
-    audioResolve.current?.();
+    audioResolve.current?.(false);
     audioResolve.current = null;
   }
 
   function playPronunciation(key: string) {
+    if (!hasPronunciationAudio(key)) return Promise.resolve(false);
     return playPrompt(`pronunciations/${key}`);
   }
 
   async function playReading() {
-    if (!reading) return;
+    if (!reading) {
+      setMessage(`“${activeChar}”的这个读音还没有通过音频校验`);
+      return false;
+    }
     await playPrompt("intro-reading");
-    await playPronunciation(reading.audioKey);
+    const played = await playPronunciation(reading.audioKey);
+    if (!played) {
+      setMessage(`“${activeChar}”的读音加载失败，请刷新后重试`);
+      return false;
+    }
     await playPrompt(`tone-${reading.tone || 5}`);
+    return true;
   }
 
   function toggleVoice() {
@@ -150,7 +164,11 @@ export default function WritingStudio() {
 
   useEffect(() => {
     for (const item of getReadings(characters.join(""))) {
-      fetch(`/audio/pronunciations/${item.audioKey}.m4a`).catch(() => undefined);
+      if (hasPronunciationAudio(item.audioKey)) {
+        fetch(`/audio/pronunciations/${item.audioKey}.m4a?v=${PRONUNCIATION_AUDIO_VERSION}`)
+          .then((response) => { if (!response.ok) throw new Error(`audio ${response.status}`); })
+          .catch(() => undefined);
+      }
     }
   }, [characters]);
 
@@ -273,7 +291,7 @@ export default function WritingStudio() {
     setCompletedStrokes(0);
     setActiveStroke(null);
     setStatus("animating");
-    setMessage(`${activeChar} · ${reading?.pinyin ?? ""} · ${reading?.toneLabel ?? ""}`);
+    setMessage(`${activeChar} · ${displayReading?.pinyin ?? ""} · ${displayReading?.toneLabel ?? ""}`);
     await currentWriter.hideCharacter({ duration: 180 });
     await playReading();
     if (strokeCount.current <= 30) await playPrompt(`total-strokes-${String(strokeCount.current).padStart(2, "0")}`);
@@ -390,7 +408,7 @@ export default function WritingStudio() {
           <div className="practice-head">
             <div>
               <p>正在学习</p>
-              <h2>{activeChar} <small>{reading?.pinyin} · {reading?.toneLabel}</small></h2>
+              <h2>{activeChar} <small>{displayReading?.pinyin} · {displayReading?.toneLabel}</small></h2>
               {readingOptions.length > 1 && (
                 <div className="reading-choices" role="group" aria-label={`${activeChar}字读音`}>
                   <span>多音字</span>
@@ -412,7 +430,7 @@ export default function WritingStudio() {
             </div>
             <div className="lesson-options">
               <button className="pace-button" onClick={() => setPace((current) => current === "slow" ? "standard" : "slow")} disabled={isDemonstrating}>⏱ {pace === "slow" ? "慢速" : "标准"}</button>
-              <button className="listen" disabled={isDemonstrating} onClick={() => void playReading()}>🔊 听读音</button>
+              <button className="listen" disabled={isDemonstrating || !reading} onClick={() => void playReading()} title={reading ? "播放标准读音" : "这个读音尚未通过音频校验"}>🔊 {reading ? "听读音" : "暂无标准录音"}</button>
             </div>
           </div>
           <div className="workspace">

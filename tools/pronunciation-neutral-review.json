@@ -1,0 +1,24 @@
+{
+  "reviewedAt": "2026-09-29",
+  "method": "SenseVoiceSmall content recognition plus duration, decode, and pitch-envelope checks",
+  "note": "ASR output validates syllable content, not neutral-tone quality. Neutral vowels may be reduced and map to a nearby character.",
+  "entries": {
+    "a0": { "recognized": "啊", "singleSyllable": true },
+    "ba0": { "recognized": "八", "singleSyllable": true },
+    "bei0": { "recognized": "杯", "singleSyllable": true },
+    "bo0": { "recognized": "播", "singleSyllable": true },
+    "chen0": { "recognized": "陈", "singleSyllable": true },
+    "da0": { "recognized": "大", "singleSyllable": true },
+    "de0": { "recognized": "的", "singleSyllable": true },
+    "lou0": { "recognized": "no", "singleSyllable": true, "note": "轻声韵母弱化，识别器近似映射" },
+    "lu0": { "recognized": "露", "singleSyllable": true },
+    "ma0": { "recognized": "吗", "singleSyllable": true },
+    "me0": { "recognized": "嗯", "singleSyllable": true, "note": "轻声央元音弱化，识别器近似映射" },
+    "men0": { "recognized": "门", "singleSyllable": true },
+    "ne0": { "recognized": "那", "singleSyllable": true, "note": "轻声央元音弱化，识别器近似映射" },
+    "shang0": { "recognized": "伤", "singleSyllable": true },
+    "xu0": { "recognized": "徐", "singleSyllable": true },
+    "ya0": { "recognized": "呀", "singleSyllable": true },
+    "zhe0": { "recognized": "嗻", "singleSyllable": true }
+  }
+}

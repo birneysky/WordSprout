@@ -19,14 +19,63 @@ from generate_ziya_audio import MODEL, ROOT, VOICE, convert, normalize
 PROMPTS = Path(__file__).with_name("pronunciation-prompts.json")
 CACHE = Path(__file__).with_name(".pronunciation-cache")
 
+GENERATION_TEXT_OVERRIDES = {
+    "bei0": "杯",
+    "bo0": "波",
+    "chen0": "陈",
+    "da0": "大",
+    "lou0": "漏",
+    "lu0": "路",
+    "men0": "门",
+    "shang0": "商",
+    "xu0": "徐",
+    "zhe0": "遮",
+}
+
 
 def pronunciation_instruction(key):
     base = key[:-1].replace("v", "ü")
     tone = int(key[-1])
     tone_text = "轻声" if tone == 0 else f"第{'一二三四'[tone - 1]}声"
+    tone_guidance = {
+        0: "读得短而轻，不要带明显升降调",
+        1: "整个音节保持高而平，尾音不要下降",
+        2: "从中音自然上升，尾音明显抬高",
+        3: "先下降再回升，保留完整的转折",
+        4: "从高音快速下降，收音干净有力",
+    }[tone]
+    neutral_contexts = {
+        "a0": "好啊",
+        "ba0": "好吧",
+        "bei0": "宝贝",
+        "bo0": "萝卜",
+        "chen0": "早晨",
+        "da0": "疙瘩",
+        "de0": "我的",
+        "lou0": "走喽",
+        "lu0": "葫芦",
+        "ma0": "好吗",
+        "me0": "什么",
+        "men0": "我们",
+        "ne0": "你呢",
+        "shang0": "衣裳",
+        "xu0": "苜蓿",
+        "ya0": "来呀",
+        "zhe0": "看着",
+    }
+    uncommon_guidance = {
+        "kei1": "这里的字读北京口语‘剋人’的 kēi，不读 kè，也不要读英文字母 K。",
+    }.get(key, "")
+    neutral_guidance = (
+        f"这个音节在“{neutral_contexts[key]}”中位于末尾并读轻声。"
+        "请借助这个词语确定发音，但最终只读末尾的一个轻声音节，绝对不要读出完整词语。"
+        if key in neutral_contexts else ""
+    )
     return (
         f"{VOICE} 只朗读输入的一个汉字一次，不要解释，不要添加其他字词。"
-        f"它的标准普通话读音必须是拼音 {base}，{tone_text}，请准确读出这个声母、韵母和声调。"
+        f"它的标准普通话读音必须是拼音 {base}，{tone_text}；{tone_guidance}。"
+        f"{uncommon_guidance}{neutral_guidance}"
+        "请准确读出这个声母、韵母和声调。"
     )
 
 
@@ -58,17 +107,49 @@ def first_utterance(waveform, sample_rate):
     return clipped
 
 
-def valid_duration(waveform, sample_rate):
-    duration = len(waveform) / sample_rate
-    return 0.25 <= duration <= 1.6
+def audio_metrics(waveform, sample_rate):
+    waveform = np.asarray(waveform, dtype=np.float32).squeeze()
+    peak = float(np.max(np.abs(waveform))) if waveform.size else 0.0
+    rms = float(np.sqrt(np.mean(waveform ** 2))) if waveform.size else 0.0
+    return {
+        "duration": len(waveform) / sample_rate,
+        "rms": rms,
+        "peak": peak,
+    }
+
+
+def quality_problem(waveform, sample_rate):
+    metrics = audio_metrics(waveform, sample_rate)
+    if not 0.25 <= metrics["duration"] <= 2.0:
+        return f"时长 {metrics['duration']:.2f}s"
+    if metrics["rms"] < 0.018:
+        return f"平均响度过低 RMS={metrics['rms']:.4f}"
+    if metrics["peak"] < 0.10:
+        return f"峰值过低 peak={metrics['peak']:.4f}"
+    return None
+
+
+def normalize_loudness(waveform, target_rms=0.09):
+    """Normalize clips for consistent playback without allowing extreme gain."""
+    waveform = np.asarray(waveform, dtype=np.float32).squeeze().copy()
+    if not waveform.size:
+        return waveform
+    rms = float(np.sqrt(np.mean(waveform ** 2)))
+    if rms > 0:
+        gain = min(8.0, max(0.35, target_rms / rms))
+        waveform *= gain
+    peak = float(np.max(np.abs(waveform)))
+    if peak > 0.92:
+        waveform *= 0.92 / peak
+    return waveform
 
 
 def valid_cached_file(path):
     if not path.exists():
         return False
     import soundfile as sf
-    info = sf.info(path)
-    return 0.25 <= info.duration <= 1.6
+    waveform, sample_rate = sf.read(path, dtype="float32")
+    return quality_problem(waveform, sample_rate) is None
 
 
 def main():
@@ -79,6 +160,7 @@ def main():
     parser.add_argument("--assemble-only", action="store_true")
     parser.add_argument("--export-files", action="store_true")
     parser.add_argument("--keys", nargs="*", help="只重新生成指定的拼音键，例如 bi3 xue3")
+    parser.add_argument("--seed-offset", type=int, default=0, help="人工复核时生成另一版候选音频")
     args = parser.parse_args()
     target = args.output / "pronunciations.m4a"
     index_target = args.output / "pronunciations.json"
@@ -106,9 +188,9 @@ def main():
             batch = missing[offset:offset + args.batch_size]
             position = min(offset + len(batch), len(missing))
             print(f"[{position}/{len(missing)}] 批量生成 {batch[0][0]} … {batch[-1][0]}", flush=True)
-            mx.random.seed(3101 + offset)
+            mx.random.seed(3101 + args.seed_offset + offset)
             results = list(model.batch_generate(
-                texts=[f"{char}。" for _, char in batch],
+                texts=[f"{GENERATION_TEXT_OVERRIDES.get(key, char)}。" for key, char in batch],
                 instructs=[pronunciation_instruction(key) for key, _ in batch],
                 lang_code="Chinese",
                 max_tokens=32,
@@ -125,13 +207,13 @@ def main():
                 # Long output usually means the model ignored the one-character
                 # instruction and added commentary. Retry only that syllable.
                 for attempt in range(3):
-                    if valid_duration(waveform, sample_rate):
+                    problem = quality_problem(waveform, sample_rate)
+                    if problem is None:
                         break
-                    duration = len(waveform) / sample_rate
-                    print(f"  {key} 时长异常 {duration:.2f}s，单独重试 {attempt + 1}/3", flush=True)
-                    mx.random.seed(7103 + offset + sequence_idx * 11 + attempt)
+                    print(f"  {key} 音频异常（{problem}），单独重试 {attempt + 1}/3", flush=True)
+                    mx.random.seed(7103 + args.seed_offset + offset + sequence_idx * 11 + attempt)
                     retry_results = list(model.generate_voice_design(
-                        text=f"{char}。",
+                        text=f"{GENERATION_TEXT_OVERRIDES.get(key, char)}。",
                         instruct=pronunciation_instruction(key),
                         language="Chinese",
                         max_tokens=32,
@@ -141,9 +223,9 @@ def main():
                     retry = retry_results[0]
                     sample_rate = int(getattr(retry, "sample_rate", 0) or getattr(model, "sample_rate", 24000))
                     waveform = normalize(retry.audio)
-                if not valid_duration(waveform, sample_rate):
-                    duration = len(waveform) / sample_rate
-                    raise RuntimeError(f"读音反复生成异常：{key} = {duration:.2f}s")
+                problem = quality_problem(waveform, sample_rate)
+                if problem is not None:
+                    raise RuntimeError(f"读音反复生成异常：{key}，{problem}")
                 sf.write(CACHE / f"{key}.wav", waveform, sample_rate, subtype="PCM_16")
 
     import soundfile as sf
@@ -155,7 +237,12 @@ def main():
         ffmpeg = shutil.which("ffmpeg")
         if not ffmpeg:
             raise RuntimeError("未找到 ffmpeg")
-        jobs = [(key, char) for key, char in prompts.items() if args.overwrite or not (output_dir / f"{key}.m4a").exists()]
+        jobs = [
+            (key, char)
+            for key, char in prompts.items()
+            if (not requested_keys or key in requested_keys)
+            and (args.overwrite or not (output_dir / f"{key}.m4a").exists())
+        ]
         print(f"待导出独立读音：{len(jobs)}", flush=True)
         with tempfile.TemporaryDirectory(prefix="ziya-pronunciation-files-") as temp_dir:
             temp = Path(temp_dir)
@@ -165,7 +252,7 @@ def main():
                 if current_rate != sample_rate:
                     raise RuntimeError(f"采样率不一致：{key} = {current_rate}")
                 wav = temp / f"{key}.wav"
-                clipped = first_utterance(waveform, sample_rate)
+                clipped = normalize_loudness(first_utterance(waveform, sample_rate))
                 sf.write(wav, clipped, sample_rate, subtype="PCM_16")
                 subprocess.run([
                     ffmpeg, "-loglevel", "error", "-y", "-i", str(wav),
@@ -185,10 +272,13 @@ def main():
             waveform, current_rate = sf.read(CACHE / f"{key}.wav", dtype="float32")
             if current_rate != sample_rate:
                 raise RuntimeError(f"采样率不一致：{key} = {current_rate}")
-            clipped = first_utterance(waveform, sample_rate)
+            clipped = normalize_loudness(first_utterance(waveform, sample_rate))
+            metrics = audio_metrics(clipped, sample_rate)
             manifest[key] = {
                 "sample": char,
-                "duration": round(len(clipped) / sample_rate, 3),
+                "duration": round(metrics["duration"], 3),
+                "rms": round(metrics["rms"], 5),
+                "peak": round(metrics["peak"], 5),
                 "sha256": hashlib.sha256(clipped.tobytes()).hexdigest(),
             }
         manifest_target = args.output / "pronunciations-manifest.json"
